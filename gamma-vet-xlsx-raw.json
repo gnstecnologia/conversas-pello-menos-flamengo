@@ -1,0 +1,614 @@
+{
+  "Procedimentos": [
+    [
+      "Procedimento",
+      "Preparo do Paciente",
+      "Tempo Aproximado",
+      "Exames Prévios Necessários",
+      "Dados Necessários para Agendamento",
+      "Prazo de Laudo",
+      "Agenda",
+      "Dias",
+      "Horários",
+      "Aceita plano de saúde",
+      "Qual",
+      "Observações Importantes",
+      "Valor"
+    ],
+    [
+      "Ultrassonografia Abdominal",
+      "• Jejum alimentar 8h (pacientes saudáveis)\n• Jejum alimentar 4h (pacientes diabéticos)\n• Jejum alimentar 1-2h (filhotes até 2 meses ou < 2kg)\n• Ingestão de água à vontade\n(Ou conforme orientação do médico veterinário)",
+      "~30 minutos",
+      "Não se aplica (sem anestesia)",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário",
+      "Até 2 dias úteis",
+      "Sala de US",
+      "de seg a sex",
+      "a partir das 8:30 até às 18:00",
+      "sim",
+      "Pet Love e Au Happy",
+      "Realizada na mesma sala do ecocardiograma — verificar horários. Ex: ultra às 10h → eco às 10h30.",
+      "400"
+    ],
+    [
+      "Ultrassonografia com Contraste por Microbolhas",
+      "• Jejum alimentar 8h (baço) / 12h (fígado)\n• Caso o paciente não possa fazer jejum prolongado, verificar com o médico veterinário",
+      "~30 minutos",
+      "Não se aplica (sem anestesia)",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário\n• Ultrassonografia prévia (realizada em até 30 dias)",
+      "Até 2 dias úteis",
+      "Sala de US",
+      "Quartas e Quintas",
+      "a partir das 8:30 até às 18:00",
+      "não",
+      "n/a",
+      "Solicitar ultrassonografia prévia (até 30 dias).",
+      "Valor: R$ 750,00 animais até 20kg/ de 20 a 25kg R$ 850,00 e acima de 26kg R$ 950,00 + R$ 200,00 por região/nódulo adicional."
+    ],
+    [
+      "Ultrassonografia de Pescoço (Cervical)",
+      "• Não há preparo necessário\n• Se combinada com ultrassonografia abdominal: seguir preparo da abdominal",
+      "~30 minutos",
+      "Não se aplica (sem anestesia)",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário",
+      "Até 2 dias úteis",
+      "Sala de US",
+      "de seg a sex",
+      "a partir das 8:30 até às 18:00",
+      "sim",
+      "Pet Love e Au Happy",
+      "Se combinada com abdominal, o preparo da abdominal se aplica.",
+      "400"
+    ],
+    [
+      "Ecocardiograma",
+      "Não há preparo específico",
+      "~30 minutos (Eco + Eletro ≈ 40 min)",
+      "Não se aplica (sem anestesia)",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário",
+      "Até 2 dias úteis",
+      "Sala de US",
+      "verificar agenda médica",
+      "a partir das 9:00 até às 15:00",
+      "sim",
+      "Pet Love",
+      "Realizado na mesma sala da ultrassonografia — verificar horários. Pacientes com mais de 6 anos: ecocardiograma é pré-anestésico obrigatório.",
+      "400"
+    ],
+    [
+      "Eletrocardiograma",
+      "Não há preparo específico",
+      "~30 minutos (Eco + Eletro ≈ 40 min)",
+      "Não se aplica (sem anestesia)",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário",
+      "Até 2 dias úteis",
+      "Várias salas",
+      "de seg a sex",
+      "a partir das 9h até às 16:00",
+      "sim",
+      "Pet Love",
+      "À critério do médico veterinário solicitante ou anestesista como exame pré-anestésico.",
+      "110"
+    ],
+    [
+      "Raio-X",
+      "Não há preparo específico",
+      "~30 minutos (mais regiões = mais tempo)",
+      "Não se aplica (sem anestesia)",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário",
+      "Até 1 dia útil",
+      "Sala RX",
+      "de seg a sáb",
+      "a partir das 8:30 até às 18:00 / sábados das 8h às 13h",
+      "sim",
+      "Pet Love e Au Happy",
+      "Raio-X com mais de um segmento pode durar mais de 30 minutos. À critério do médico como pré-anestésico.",
+      "200,00 para 1 região. Cada região adicional R$ 50,00."
+    ],
+    [
+      "Tomografia Computadorizada",
+      "• Jejum alimentar 8h (pacientes saudáveis)\n• Jejum alimentar 4h (pacientes diabéticos)\n• Jejum alimentar 1-2h (filhotes até 2 meses ou < 2kg)\n• Água ofertada até sair de casa",
+      "~1h30",
+      "• Hemograma\n• Bioquímico: ALT, FA, ureia, creatinina, albumina, Na, K\n• Pacientes > 6 anos ou com doenças cardíacas: Ecocardiograma\n• Eletrocardiograma e Raio-X torácico a critério do veterinário/anestesista",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário\n• Exames pré-anestésicos",
+      "Até 2 dias úteis",
+      "Sala TC",
+      "de seg a sáb",
+      "a partir das 8:30 até às 18:00 / sábados das 8h às 13h",
+      "sim",
+      "Pet Love e Au Happy",
+      "Realizado com anestesia. Encaminhar exames pré-anestésicos ao anestesista com antecedência.",
+      "1500,00 para 1 segmento com anestesia inclusa,. Segmento adicional R$ 500,00"
+    ],
+    [
+      "Tomografia + Rinoscopia",
+      "• Jejum alimentar 8h (pacientes saudáveis)\n• Jejum alimentar 4h (pacientes diabéticos)\n• Jejum alimentar 1-2h (filhotes até 2 meses ou < 2kg)\n• Água ofertada até sair de casa",
+      "~1h30 a 2h",
+      "• Hemograma\n• Bioquímico: ALT, FA, ureia, creatinina, albumina, Na, K\n• Pacientes > 6 anos ou com doenças cardíacas: Ecocardiograma\n• Eletrocardiograma e Raio-X torácico a critério do veterinário/anestesista",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário\n• Exames pré-anestésicos",
+      "Rinoscopia: até 1 dia útil\nTomografia: até 2 dias úteis",
+      "Sala TC",
+      "às quartas",
+      "das 10h às 15h",
+      "não",
+      "n/a",
+      "Realizado com anestesia. Profissionais compartilhados com endoscopia, rinoscopia e broncoscopia — verificar disponibilidade.",
+      ""
+    ],
+    [
+      "Rinoscopia",
+      "• Jejum alimentar 8h (pacientes saudáveis)\n• Jejum alimentar 4h (pacientes diabéticos)\n• Jejum alimentar 1-2h (filhotes até 2 meses ou < 2kg)\n• Água ofertada até sair de casa",
+      "~1h30",
+      "• Hemograma\n• Bioquímico: ALT, FA, ureia, creatinina, albumina, Na, K\n• Pacientes > 6 anos ou com doenças cardíacas: Ecocardiograma\n• Eletrocardiograma e Raio-X torácico a critério do veterinário/anestesista",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário\n• Exames pré-anestésicos",
+      "1 dia útil",
+      "Sala TC",
+      "às quartas",
+      "das 10h às 15h",
+      "não",
+      "n/a",
+      "Realizado com anestesia. Profissionais compartilhados com endoscopia, broncoscopia e cintilografia.",
+      ""
+    ],
+    [
+      "Endoscopia Digestiva Alta (Cães e Gatos)",
+      "• Jejum alimentar 12h\n• Jejum hídrico (água) 6h\n• Raças braquicefálicas ou suspeita de esvaziamento gástrico tardio recomendamos jejum alimentar 18h.",
+      "~2 horas",
+      "• Hemograma\n• Bioquímico: ALT, FA, ureia, creatinina, albumina, Na, K\n• Pacientes > 6 anos ou com doenças cardíacas: Ecocardiograma\n• Eletrocardiograma e Raio-X torácico a critério do veterinário/anestesista",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário\n• Exames pré-anestésicos",
+      "1 dia útil",
+      "Sala Endoscopia",
+      "às quartas",
+      "das 10h às 15h",
+      "sim",
+      "Pet Love",
+      "Se endoscopia alta + baixa juntas: enviar somente o preparo da endoscopia baixa.",
+      ""
+    ],
+    [
+      "Endoscopia Digestiva Baixa / Colonoscopia (Cães)",
+      "• Dieta pastosa/líquida 48h antes (patês, sachês, Nutralife, AIG support, canja sem legumes coloridos)\n• Lactulose (Lactulona) 0,5 mL/kg VO a cada 12h por 2 dias antes\n• Jejum alimentar 12h antes\n• Jejum hídrico (água) 6h antes",
+      "~2h30",
+      "• Hemograma\n• Bioquímico: ALT, FA, ureia, creatinina, albumina, Na, K\n• Pacientes > 6 anos ou com doenças cardíacas: Ecocardiograma\n• Eletrocardiograma e Raio-X torácico a critério do veterinário/anestesista",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário\n• Exames pré-anestésicos",
+      "1 dia útil",
+      "Sala Endoscopia",
+      "às quartas",
+      "das 10h às 15h",
+      "sim",
+      "Pet Love",
+      "Laxante: Lactulose Xarope (uso humano), 1 frasco. Se endoscopia alta + baixa juntas: enviar somente o preparo da baixa.",
+      ""
+    ],
+    [
+      "Endoscopia Digestiva Baixa / Colonoscopia (Gatos)",
+      "• Dieta pastosa exclusiva 48h antes\n• Dieta líquida exclusiva (apenas caldo) 24h antes\n• Picoprep: ½ sachê em 20mL de água, 5mL VO — 12h antes, repetir 4h antes\n• Jejum alimentar 8h antes\n• Jejum hídrico 6h antes",
+      "~2h30",
+      "• Hemograma\n• Bioquímico: ALT, FA, ureia, creatinina, albumina, Na, K\n• Pacientes > 6 anos ou com doenças cardíacas: Ecocardiograma\n• Eletrocardiograma e Raio-X torácico a critério do veterinário/anestesista",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário\n• Exames pré-anestésicos",
+      "1 dia útil",
+      "Sala Endoscopia",
+      "às quartas",
+      "das 10h às 15h",
+      "sim",
+      "Pet Love",
+      "Picoprep (uso humano): 2 sachês. Líquido fica quente ao diluir — esperar esfriar antes de administrar.",
+      ""
+    ],
+    [
+      "Broncoscopia + Rinoscopia",
+      "• Jejum alimentar 8h (pacientes saudáveis)\n• Jejum alimentar 4h (pacientes diabéticos)\n• Jejum alimentar 1-2h (filhotes até 2 meses ou < 2kg)\n• Água ofertada até sair de casa",
+      "~2 horas",
+      "• Hemograma\n• Bioquímico: ALT, FA, ureia, creatinina, albumina, Na, K\n• Pacientes > 6 anos ou com doenças cardíacas: Ecocardiograma\n• Eletrocardiograma e Raio-X torácico a critério do veterinário/anestesista",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário\n• Exames pré-anestésicos",
+      "1 dia útil",
+      "Sala TC",
+      "às quartas",
+      "das 10h às 15h",
+      "sim",
+      "Pet Love",
+      "Profissionais compartilhados com endoscopia, rinoscopia e cintilografia — verificar disponibilidade.",
+      ""
+    ],
+    [
+      "Cintilografia Renal\n(Canino e Felino)",
+      "Não é necessário preparo. Recomendamos não administrar Gabapentina para a realização do exame.\n\nObservação: somente se houver indicação de sedação no pedido ou encaminhamento no momento do exame.",
+      "~1h30 minutos",
+      "• Ureia\n• Creatinina\n• Urinálise\n• Ultrassonografia abdominal\n• Pedido médico veterinário",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n\n💰 Sinal: R$ 200,00 (mín. 2 dias antes)\nValor total: R$ 950,00\nChave PIX: CNPJ 43608666000130\n5% desconto à vista (pix ou dinheiro)",
+      "1 dia útil",
+      "Sala Cintilografia",
+      "• Realizada às segunda e quintas preferencialmente. Outros dias consultar agenda médica.\n• Animal NÃO é sedado\n• Cancelamento com menos de 24h: sinal não reembolsável\n• Solicitamos que não sejam realizados outros procedimentos no mesmo dia para que o paciente esteja mais tranquilo no momento da Cintilografia",
+      "9h30 / 10h / 13h / 13h30 e 15h30",
+      "sim",
+      "Pet Love",
+      "Profissionais compartilhados com endoscopia, rinoscopia e broncoscopia.",
+      ""
+    ],
+    [
+      "Cintilografia de Tireoide Felina",
+      "Não é necessário preparo específico.\n\n⚠️ Suspender 7 dias antes: Metimazol, Tiamazol, Carbimazol (Felimazoli, Tapazol ou similares).\nMédico veterinário deve estar ciente da suspensão.",
+      "~1h30",
+      "• Hemograma (validade: 30 dias)\n• Bioquímico: ALT, AST, FA, GGT, albumina, globulina, ureia, creatinina, sódio, potássio (validade: 30 dias)\n• Pedido médico veterinário",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n\n💰 Sinal: R$ 250,00 (mín. 2 dias antes)\nValor total: R$ 1.750,00\nChave PIX: CNPJ 43608666000130\n5% desconto à vista (pix ou dinheiro)",
+      "Até 1 dia útil",
+      "Sala Cintilografia",
+      "• Realizada às segundas e quintas preferencialmente, outros dias checar agenda médica\n• Solicitamos não realizar outros procedimentos no mesmo dia do exame de Cintilografia para que o paciente esteja mais tranquilo.\n• Cancelamento com menos de 48h: sinal não reembolsável\n•",
+      "9h30 / 10h / 13h / 13h30 e 15h30",
+      "",
+      "",
+      "Profissionais compartilhados com endoscopia, rinoscopia e broncoscopia.",
+      "1750"
+    ],
+    [
+      "Cinilografia de Tireóide Canina",
+      "⚠️ Suspender 7 dias antes: Levotiroxina.\nMédico veterinário deve estar ciente da suspensão.",
+      "~1h30",
+      "• Hemograma\n• Bioquímico: ALT, AST, FA, GGT, ureia, creatinina, albumina, globulina, cálcio, fósforo, sódio (Na) e potássio (K)\n• Pacientes > 6 anos: Ecocardiograma\n• (Eletrocardiograma e Raio-X torácico a critério do veterinário/anestesista)\n• Pedido médico veterinário",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n\n💰 Sinal: R$ 200,00 (mín. 2 dias antes)\nValor: R$ 1.250,00 + Sedação R$ 250,00 (se necessária)\nChave PIX: CNPJ 43608666000130\n5% desconto à vista (pix ou dinheiro)",
+      "Até 1 dia útil",
+      "Sala Cintilografia",
+      "• Realizada às segundas e quintas preferencialmente, outros dias checar agenda médica\n• Solicitamos não realizar outros procedimentos no mesmo dia do exame de Cintilografia para que o paciente esteja mais tranquilo.\n• Cancelamento com menos de 48h: sinal não reembolsável\n•",
+      "9h30 / 10h / 13h / 13h30 e 15h30",
+      "sim",
+      "Pet Love",
+      "",
+      ""
+    ],
+    [
+      "Cintilografia Óssea",
+      "Consultar link específico de cintilografia",
+      "~4 horas",
+      "Verificar com médico veterinário",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário",
+      "3 dias úteis",
+      "Sala Cintilografia",
+      "• Realizada às segundas e quintas preferencialmente, outros dias checar agenda médica\n• Solicitamos não realizar outros procedimentos no mesmo dia do exame de Cintilografia para que o paciente esteja mais tranquilo.\n• Cancelamento com menos de 48h: sinal não reembolsável\n•",
+      "9h30 / 10h / 13h / 13h30 e 15h30",
+      "não",
+      "n/a",
+      "Duração especial: ~4 horas. Profissionais compartilhados com endoscopia, rinoscopia e broncoscopia.",
+      ""
+    ],
+    [
+      "Cistocentese",
+      "• Evitar micção do paciente 1-2h antes do exame\n• Evitar passeios para prevenir estímulo à micção",
+      "~30 minutos",
+      "Não se aplica (sem anestesia)",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário",
+      "",
+      "Sala de US",
+      "de seg a sáb",
+      "a partir das 8:30 até às 18:00 / sábados das 8h às 13h",
+      "sim",
+      "Pet Love e Au Happy",
+      "Procedimento sem anestesia. A coleta será encaminhada para o laboratório de preferência do paciente ou da clínica.",
+      "140"
+    ],
+    [
+      "Uretrografia / Uretrocistografia Retrógrada",
+      "• Jejum alimentar 12h (pacientes saudáveis)\n• Jejum alimentar 4h (pacientes diabéticos)\n• Jejum alimentar 1-2h (filhotes até 2 meses ou < 2kg)\n• Água até sair de casa, após sair não ofertar mais",
+      "~30 minutos",
+      "Para pacientes felinos é necessário anestesia\n• Hemograma\n• Bioquímico: ALT, FA, ureia, creatinina, albumina, Na, K\n• Pacientes > 6 anos ou com doenças cardíacas: Ecocardiograma\n• Eletrocardiograma e Raio-X torácico a critério do veterinário/anestesista",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário",
+      "Verificar com médico veterinário",
+      "",
+      "",
+      "",
+      "não",
+      "n/a",
+      "Cães fêmeas: anestesia pode ser necessária — agendar com disponibilidade de anestesista. Felinos: sempre com anestesia — incluir exames pré-anestésicos e agenda do anestesista.",
+      "700"
+    ],
+    [
+      "Urografia Excretora",
+      "• Jejum alimentar 12h (pacientes saudáveis)\n• Jejum hídrico 6h (pacientes saudáveis)\n• Diabéticos ou filhotes: consultar médico veterinário",
+      "~30 minutos",
+      "Verificar com médico veterinário",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário",
+      "Verificar com médico veterinário",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Diabéticos ou filhotes: adequar jejum com o médico veterinário antes do procedimento.",
+      "700"
+    ],
+    [
+      "Cintilografia Shunt Hepática\n(Canino e Felino)",
+      "⚠️ Suspender Lactulona (Lactulona) 48h antes do exame.\n\nVia de administração do fármaco: retal.",
+      "Verificar com Dr. Gustavo",
+      "• Pedido médico veterinário\n(Verificar exames adicionais com Dr. Gustavo)",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n\n💰 Sinal: R$ 200,00 (mín. 2 dias antes)\nValor total: R$ 650,00\nChave PIX: CNPJ 43608666000130\n5% desconto à vista (pix ou dinheiro)",
+      "Verificar com Dr. Gustavo",
+      "• Suspender Lactulona 48h antes\n• Administração do fármaco por via retal — informar ao tutor se houver dúvida\n• Cancelamento com menos de 24h: sinal não reembolsável\n• Agendamento confirmado somente após pagamento do sinal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "650"
+    ],
+    [
+      "Cintilografia de Paratireoide\n(Canino e Felino)",
+      "Não é necessário preparo para o exame.",
+      "~4 horas",
+      "Não obrigatórios — servem de complemento para o laudo:\n• Hemograma\n• Cálcio total e iônico\n• PTH\n• Ultrassonografia cervical\n• Pedido médico veterinário",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n\n💰 Sinal: R$ 200,00 (mín. 2 dias antes)\nValor total: R$ 1.500,00\nChave PIX: CNPJ 43608666000130\n5% desconto à vista (pix ou dinheiro)",
+      "Verificar com Dr. Gustavo",
+      "• Exames complementares não são obrigatórios, mas enriquecem o laudo\n• Cancelamento com menos de 24h: sinal não reembolsável\n• Agendamento confirmado somente após pagamento do sinal",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Radioiodoterapia\n(Felino)",
+      "Radioiodoterapia:\n• Jejum alimentar de 10 a 12 horas\n• Água à vontade\n\n⚠️ Suspender 7 dias antes: Metimazol, Tiamazol, Carbimazol (Felimazoli, Tapazol ou similares).\nMédico veterinário deve estar ciente da suspensão.\n\n⚠️ Animal submetido a exame com contraste: aguardar 30 dias para a radioiodoterapia.",
+      "Cintilografia: ~1h30\nIsolamento: até 2 dias (ou mais, dependendo do caso)",
+      "Para radioiodoterapia:\n• Urinálise\n• Ultrassonografia abdominal\n• Ecocardiograma\n\nExames realizados no dia da terapia no Gamma Vet:\n• TSH / T4 total / T3 / Creatinina",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso",
+      "Até 1 dia útil",
+      "Sala Cintilografia",
+      "Preferecialmente às terças\n• Cancelamento com menos de 48h: sinal não reembolsável",
+      "9h30 / 10h / 13h / 13h30 e 15h30",
+      "não",
+      "n/a",
+      "• Durante isolamento: equipe envia fotos e vídeos (manhã e tarde)\n• Após a Radioiodoterapia agendar reavaliação após 30 dias: coleta de sangue paga à parte",
+      "Radioiodoterapia: R$ 4.000,00 (até 2 dias de isolamento)\nExames perfil radioiodoterapia: R$ 295,00\nExames acompanhamento pós-terapia: R$ 375,00\nChave PIX: CNPJ 43608666000130\n5% desconto à vista (pix ou dinheiro)"
+    ],
+    [
+      "Radioiodoterapia\n(Canino)",
+      "⚠️ Realizar terapia com a Levotiroxina já suspensa.\nMédico veterinário deve estar ciente da suspensão.\n\n⚠️ Animal submetido a exame com contraste: aguardar 30 dias para a radioiodoterapia.",
+      "O número de diárias serão definidas no dia da Cintilografia.",
+      "Para radioiodoterapia:\n• Pedido médico\n• Urinálise\n• Ecocardiograma\n• Ultrassonografia abdominal",
+      "• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso",
+      "Até 1 dia útil",
+      "Sala Cintilografia",
+      "Preferecialmente às terças\n• Cancelamento com menos de 48h: sinal não reembolsável",
+      "9h30 / 10h / 13h / 13h30 e 15h30",
+      "não",
+      "n/a",
+      "• Durante isolamento: equipe envia fotos e vídeos (manhã e tarde)\n• Após a Radioiodoterapia agendar reavaliação após 30 dias: coleta de sangue paga à parte",
+      "Radioiodoterapia: R$ 4.000,00  (até 2 dias de isolamento) + diárias extras\nExames perfil radioiodoterapia: R$ 295,00\nExames acompanhamento pós-terapia: R$ 375,00\nChave PIX: CNPJ 43608666000130\n5% desconto à vista (pix ou dinheiro)"
+    ]
+  ],
+  "regras comunicação": [
+    [
+      "1. Quem somos"
+    ],
+    [
+      "O Gamma Vet é um centro de diagnóstico por imagem avançado. Pioneiro na medicina nuclear veterinária no Brasil. Localizado na Barra da Tijuca, no Shopping Città Vet. O shopping Città Vet foi escolhido ser um shopping aberto, por ter estacionamento privado, shopping aberto e Pet Friendly, localizado há 15 minutos da Zona Sul e do Recreio dos Bandeirantes. Com o objetivo de oferecer o que há de melhor e mais inovador no diagnóstico de imagem veterinário para que os nossos pacientes possam ter mais qualidade de vida e longevidade"
+    ],
+    [
+      ""
+    ],
+    [
+      "2. Tom de voz e forma de comunicação:"
+    ],
+    [
+      "O padrão do Gamma Vet é formal porem acolhedor, utilizando os termos animalzinho, seu pet e responsável pelo paciente, sempre agradecendo a preferência."
+    ],
+    [
+      ""
+    ],
+    [
+      "3. O que pode ser dito:"
+    ],
+    [
+      "Receber o paciente de forma receptiva. Perguntar como podemos ajudá-lo? Caso o exame solicitado esteja dentro do nosso escopo solicitar o pedido médico e que data e horário atenderia melhor. E se já é nosso pciente chamá-lo pelo nome do responsável. Quando não, pedir também a ficha de cadastramento para agilizar o atendimento. E dizer que vai transferir para o agendamento. Após o agendamento, enviar confirmação de agendamento e preparo preparo caso exista. Nesse primeiro momento não enviar orçamento. Confirmar agenda no dia anterior ao exame agendado enviando o preparo, a confirmação da agenda deve ser um lembrete do agendamento e não uma confirmação. Caso o paciente peça para reagendar ou cancelar, transferir para o agendamento. Caso o exaame solicitado no momento do primeiro contato não esteja dentro do nosso escopo como por exemple ressonância, agradecer pelo contato, dizer que não realizamos o exame solicitado e dizer que esperamos pooder atende-lo em outrra oportunidade em a lista dos exames que realizamos, tomografia computradorizada, cintilografia, ultrassonografia e ultrassonografia com contraste por microbolhas, ecocardiografia e eletrocardiografia, endoscopia, broncospia e rinoscopia."
+    ],
+    [
+      ""
+    ],
+    [
+      "4. Dados necessários no primeiro contato:"
+    ],
+    [
+      "Perguntar se já nosso paciente. (ideal já estar identificado caso já seja, e chamar o responsável pelo pet pelo nome). Ficha cadastral quando não é paciente nosso ainda."
+    ],
+    [
+      ""
+    ],
+    [
+      "5. Exames necessários"
+    ],
+    [
+      "Como no primeiro contato já solicitamos o pedido médico complementar com os exames laboratoriais quando necessário."
+    ],
+    [
+      ""
+    ],
+    [
+      "6. Respostas para situações de exceção"
+    ],
+    [
+      "Sempre que não tiver a resposta de forma bem clara, transferir para o atendimento humano."
+    ],
+    [
+      ""
+    ],
+    [
+      "7. Horário de funcionamento"
+    ],
+    [
+      "Nosso horário de funcionamento é das 8:30 às 18h de segunda a sexta-feira e aos sábados das 8h às 14h. Para os agendamento cada exame tem sua particulariadde e por isso sempre transferimos para o agendamento humano."
+    ],
+    [
+      ""
+    ],
+    [
+      "8. Confirmações e follow-up"
+    ],
+    [
+      "Para a confirmação sempre utilizamos o termo de Temos um agendamento para o exame \"x\" no dia e horário agendados. E enviar o preparo junto."
+    ],
+    [
+      ""
+    ],
+    [
+      "9. Política de cancelamento e sinal"
+    ],
+    [
+      "Os exames de cintilografia exigem um sinal para confirmação mas isso é reforçado pelo agendamento."
+    ],
+    [
+      "Para os cancelamento de cintilografia temos a regra de cancelar em até 48 horas para o retorno da taxa caso contrário a taxa não será reembolsada. Para os outros exames o cancelamento pode acontecer sem custo."
+    ],
+    [
+      ""
+    ],
+    [
+      "9. Nossos diferenciais:"
+    ],
+    [
+      "Únicos no Brasil com Cintilografia para cães e gatos"
+    ],
+    [
+      "Únicos na cidade do Rio de Janeiro com exame de ultrassonografia com contraste por microbolhas."
+    ]
+  ],
+  "descritivo sobre os exames": [
+    [
+      "Procedimento",
+      "O que é",
+      "Para que serve",
+      "Para quem é indicado"
+    ],
+    [
+      "Ultrassonografia Abdominal",
+      "Exame de imagem que utiliza ondas sonoras de alta frequência (ultrassom) para visualizar em tempo real os órgãos do abdômen do animal, como abdomên, glândulas adrenais, cervical, fígado, baço, rins, bexiga, estômago, intestinos, pâncreas e sistema reprodutor.",
+      "Avaliar o tamanho, forma, textura e estrutura interna dos órgãos abdominais; identificar alterações como nódulos, cistos, cálculos, acúmulo de líquido, inflamações, tumores e anomalias congênitas. Permite também guiar punções e biópsias.",
+      "Para cães e gatos"
+    ],
+    [
+      "Ultrassonografia com Contraste por Microbolhas",
+      "Modalidade avançada de ultrassonografia em que um agente de contraste à base de microbolhas é administradono paciente. As microbolhas amplificam o sinal do ultrassom, permitindo avaliar com alta precisão a vascularização dos tecidos em tempo real.",
+      "Caracterizar nódulos e massas em fígado e baço, diferenciando lesões benignas de malignas com base no padrão de vascularização. Auxilia na decisão de biópsia e no planejamento cirúrgico. É considerada uma técnica complementar à ultrassonografia convencional.",
+      "Cães e gatos com nódulos ou massas identificados em ultrassonografia prévia (obrigatória, realizada em até 30 dias), especialmente em fígado e baço, quando é necessário caracterizar melhor a lesão antes de definir a conduta clínica ou cirúrgica."
+    ],
+    [
+      "Ultrassonografia de Pescoço (Cervical)",
+      "Exame de ultrassom direcionado à região cervical (pescoço) do animal, permitindo visualizar estruturas como tireoide, paratireoide, linfonodos cervicais, glândulas salivares e vasos da região.",
+      "Avaliar o tamanho e a textura das glândulas tireoide e paratireoide, identificar nódulos, cistos ou massas na região cervical, investigar aumento de linfonodos e auxiliar no diagnóstico de doenças endócrinas e neoplásicas da região.",
+      "Para cães e gatos"
+    ],
+    [
+      "Ecocardiograma",
+      "Exame especializado do coração, que avalia em tempo real as estruturas cardíacas (câmaras, válvulas, paredes e grandes vasos), além da função contrátil e do fluxo sanguíneo por meio do Doppler.",
+      "Diagnosticar e monitorar doenças cardíacas como cardiomiopatias, insuficiência valvar, defeitos congênitos, derrame pericárdico e hipertensão pulmonar. É o exame padrão-ouro para avaliação cardíaca em pequenos animais. Também é exame pré-anestésico obrigatório para pacientes acima de 6 anos.",
+      "Para cães e gatos"
+    ],
+    [
+      "Eletrocardiograma",
+      "Exame que registra graficamente a atividade elétrica do coração por meio de eletrodos posicionados no corpo do animal, gerando um traçado das ondas de despolarização e repolarização cardíaca.",
+      "Identificar e classificar arritmias cardíacas (bradicardia, taquicardia, bloqueios, fibrilação), avaliar alterações na condução elétrica e monitorar o efeito de medicamentos cardíacos. Pode ser solicitado como exame pré-anestésico a critério do veterinário.",
+      "Para cães e gatos"
+    ],
+    [
+      "Raio-X (Radiografia)",
+      "Exame de imagem que utiliza radiação ionizante (raios X) para gerar imagens estáticas de estruturas internas do animal, com destaque para ossos, tórax e abdômen.",
+      "Avaliar o esqueleto (fraturas, displasias, artrites, tumores ósseos), o tórax (pulmões, coração, pleura, mediastino) e o abdômen de forma geral. É um exame de triagem rápido, amplamente utilizado em urgências e rotina clínica.",
+      "Para cães e gatos"
+    ],
+    [
+      "Tomografia Computadorizada (TC)",
+      "Exame de imagem que utiliza raios X e processamento computacional para gerar imagens em cortes transversais (secções) detalhadas do corpo do animal, com possibilidade de reconstrução tridimensional. Requer anestesia geral para garantir imobilidade durante o exame.",
+      "Oferecer imagens de alta resolução de estruturas complexas como crânio, coluna vertebral, cavidade nasal, ouvido, articulações, tórax e abdômen. Permite detectar lesões pequenas, avaliar invasão tumoral, planejar cirurgias e identificar alterações não visíveis ao raio-X convencional.",
+      "Para cães e gatos"
+    ],
+    [
+      "Rinoscopia",
+      "Exame endoscópico que permite a visualização direta do interior das cavidades nasais e da nasofaringe por meio de um endoscópio rígido ou flexível introduzido pelas narinas. Realizado sob anestesia geral.",
+      "Identificar lesões na mucosa nasal, realizar biópsia de massas ou pólipos, retirar corpos estranhos, coletar material para culturas e análise citológica, e avaliar a extensão de processos inflamatórios ou neoplásicos.",
+      "Para cães e gatos"
+    ],
+    [
+      "Endoscopia Digestiva Alta\n(Cães e Gatos)",
+      "Exame endoscópico que permite a visualização direta do esôfago, estômago e duodeno (início do intestino delgado) por meio de um endoscópio flexível introduzido pela boca. Realizado sob anestesia geral.",
+      "Identificar lesões na mucosa do trato gastrointestinal superior, realizar biópsias, retirar corpos estranhos, diagnosticar úlceras, gastrites, neoplasias e doenças inflamatórias intestinais (DII). Permite diagnóstico mais preciso do que exames de imagem isolados.",
+      "Para cães e gatos"
+    ],
+    [
+      "Endoscopia Digestiva Baixa / Colonoscopia\n(Cães e Gatos)",
+      "Exame endoscópico que permite a visualização direta do intestino grosso (cólon) e do reto por meio de um endoscópio flexível introduzido pelo ânus. Requer preparo intestinal rigoroso e anestesia geral.",
+      "Identificar lesões no intestino grosso como pólipos, massas, úlceras, inflamações e neoplasias; coletar biópsias para análise histopatológica; investigar causas de diarreia crônica com sangue e tenesmo.",
+      "Para cães e gatos"
+    ],
+    [
+      "Broncoscopia + Rinoscopia",
+      "Combinação de dois exames endoscópicos realizados na mesma sessão anestésica: a broncoscopia (visualização das vias aéreas inferiores — traqueia, brônquios) e a rinoscopia (visualização das cavidades nasais). Realizados sob anestesia geral.",
+      "Avaliar de forma completa o sistema respiratório superior e inferior; identificar lesões, coletar lavado broncoalveolar (LBA) para cultura e citologia, realizar biópsias, e investigar causas de tosse crônica, dispneia e doenças respiratórias.",
+      "Para cães e gatos"
+    ],
+    [
+      "Cintilografia Renal\n(Canino e Felino)",
+      "Exame de medicina nuclear que utiliza um radiofármaco (tecnécio-99m) para avaliar o funcionamento dos rins de forma dinâmica e quantitativa. O animal não é sedado para este exame.",
+      "Medir a taxa de filtração glomerular (TFG) de cada rim individualmente, avaliar a perfusão renal, detectar assimetrias de função entre os rins e monitorar a progressão de doenças renais. É o método mais preciso para quantificar a função renal de forma não invasiva.",
+      "Para cães e gatos"
+    ],
+    [
+      "Cintilografia de Tireoide Felina",
+      "Exame de medicina nuclear que avalia o funcionamento da glândula tireoide em gatos por meio da captação de um radiofármaco (tecnécio-99m pertecnetato) pela glândula. Permite visualizar a atividade funcional do tecido tireoidiano.",
+      "Confirmar o diagnóstico de hipertireoidismo, localizar tecido tireoidiano ectópico ou metastático, avaliar o grau de atividade da glândula, e determinar se o paciente é candidato à radioiodoterapia. É exame essencial antes do tratamento com iodo radioativo.",
+      "Para gatos"
+    ],
+    [
+      "Cintilografia de Tireoide Canina",
+      "Exame de medicina nuclear que avalia o funcionamento da glândula tireoide em cães por meio da captação de um radiofármaco pela glândula. Em cães, o hipotireoidismo é mais comum, e a cintilografia avalia a atividade funcional do tecido tireoidiano.",
+      "Avaliar a função tireoidiana, diferenciar hipotireoidismo primário de secundário, identificar neoplasias de tireoide e localizar tecido ectópico. Complementa os exames hormonais (T4, TSH) na investigação de disfunções tireoidianas.",
+      "Para cães"
+    ],
+    [
+      "Cintilografia Óssea\n(Canino e Felino)",
+      "Exame de medicina nuclear que utiliza um radiofármaco ósseo (tecnécio-99m + MDP) para avaliar o metabolismo e a vascularização de todo o esqueleto. Após a injeção, o exame é realizado em etapas para acompanhar a captação óssea do fármaco, o exame é realizado sob anestesia geral.",
+      "Detectar lesões ósseas com alta sensibilidade, incluindo metástases ósseas, tumores primários (osteossarcoma), infecções (osteomielite), fraturas por estresse, artropatias e isquemia óssea. Permite avaliar todo o esqueleto em um único exame.",
+      "Para cães e gatos"
+    ],
+    [
+      "Cistocentese",
+      "Procedimento minimamente invasivo para coleta de urina de forma estéril. Realizado com auxílio de ultrassom.",
+      "Obter amostra de urina sem contaminação bacteriana da uretra ou genitália, essencial para urocultura, urinálise e citologia urinária com resultados confiáveis. Também pode ser utilizada para aliviar a bexiga em casos de obstrução uretral.",
+      "Para cães e gatos"
+    ],
+    [
+      "Uretrografia / Uretrocistografia Retrógrada",
+      "Exame radiográfico contrastado em que um meio de contraste iodado é introduzido pela uretra, preenchendo a uretra e a bexiga, para visualização dessas estruturas ao raio-X. Em fêmeas caninas e em felinos, pode ser necessário anestesia.",
+      "Avaliar a integridade e a morfologia da uretra e da bexiga, identificar estreitamentos (estenoses), rupturas, cálculos, massas, divertículos e malformações anatômicas que não são visíveis ao raio-X simples ou à ultrassonografia.",
+      "Para cães e gatos"
+    ],
+    [
+      "Urografia Excretora",
+      "Exame radiográfico contrastado em que um meio de contraste iodado é injetado na veia do animal e, ao ser filtrado e excretado pelos rins, permite a visualização do sistema urinário (rins, ureteres e bexiga) em sequência de imagens radiográficas.",
+      "Avaliar a morfologia e a função dos rins, identificar obstruções ureterais, cálculos, malformações (rim ectópico, duplicação de ureter), massas renais e avaliar a integridade do sistema coletor urinário.",
+      "Para cães e gatos"
+    ],
+    [
+      "Cintilografia Shunt Hepática\n(Canino e Felino)",
+      "Exame de medicina nuclear que utiliza um radiofármaco para avaliar a presença e a extensão de desvios vasculares hepáticos (shunts portossistêmicos).",
+      "Confirmar e quantificar a presença de shunt portossistêmico (desvio do sangue que deveria passar pelo fígado), diferenciar shunts intra-hepáticos de extra-hepáticos, e avaliar a função hepática vascular antes e após correção cirúrgica.",
+      "Para cães e gatos"
+    ],
+    [
+      "Cintilografia de Paratireoide\n(Canino e Felino)",
+      "Exame de medicina nuclear que avalia funcionalmente as glândulas paratireoides (pequenas glândulas localizadas próximas à tireoide) por meio da captação diferencial de um radiofármaco. Permite identificar tecido paratireoidiano hiperfuncionante.",
+      "Localizar adenomas ou hiperplasia de paratireoide responsáveis por hiperparatireoidismo primário, orientar o planejamento cirúrgico e identificar tecido ectópico não detectável ao ultrassom convencional.",
+      "Para cães e gatos"
+    ],
+    [
+      "Radioiodoterapia\n(Felino)",
+      "Tratamento de medicina nuclear em que o iodo radioativo (iodo-131) é administrado ao paciente. O iodo é captado seletivamente pelo tecido tireoidiano hiperfuncionante, que é destruído pela radiação, sem afetar os tecidos ao redor. O animal fica em isolamento até a liberação segura da radioatividade.",
+      "Tratar de forma definitiva o hipertireoidismo felino, eliminando o tecido tireoidiano hiperfuncionante com alta taxa de cura (>95% dos casos) em dose única, sem necessidade de cirurgia ou medicação contínua.",
+      "Para gatos"
+    ],
+    [
+      "Radioiodoterapia\n(Canino)",
+      "Tratamento de medicina nuclear com iodo radioativo (iodo-131) administrado em cães, utilizado no tratamento de carcinomas de tireoide funcionantes (que captam iodo). O animal fica em isolamento durante o período de eliminação da radioatividade.",
+      "Destruir tecido tireoidiano neoplásico (tumoral) que capta iodo, como complemento à cirurgia (tireoidectomia) ou como tratamento de metástases de carcinoma tireoidiano diferenciado. Em cães, a indicação é mais restrita do que em gatos, sendo voltada principalmente para neoplasias.",
+      "Para cães"
+    ]
+  ]
+}

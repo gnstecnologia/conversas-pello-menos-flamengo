@@ -1,0 +1,2353 @@
+{
+  "calendars": [
+    {
+      "id": "1X5AaBX8WCmn4FpAuMxJ",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "groupId": "",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "BnbTWPQRn5HxtLbbcI0w",
+          "isPrimary": true,
+          "isZoomAdded": "false",
+          "locationConfigurations": [
+            {
+              "location": "",
+              "position": 0,
+              "kind": "custom",
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ]
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForEqualDistribution",
+      "name": "Dra Juliana Cardoso | Barra da Tijuca",
+      "description": "",
+      "widgetSlug": "dra-juliana-cardoso",
+      "calendarType": "service_booking",
+      "widgetType": "default",
+      "eventTitle": "{{contact.nome_paciente}} | {{calendar.name}} | {{contact.procedimento_solicitado}} | {{contact.convnio}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBuffer": 0,
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appoinmentPerDay": 9007199254740991,
+      "appointmentPerSlot": 1,
+      "appointmentPerDay": 9007199254740991,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            1
+          ],
+          "hours": [
+            {
+              "openHour": 11,
+              "openMinute": 0,
+              "closeHour": 13,
+              "closeMinute": 0
+            },
+            {
+              "openHour": 14,
+              "openMinute": 0,
+              "closeHour": 18,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            3
+          ],
+          "hours": [
+            {
+              "openHour": 11,
+              "openMinute": 0,
+              "closeHour": 13,
+              "closeMinute": 0
+            },
+            {
+              "openHour": 14,
+              "openMinute": 0,
+              "closeHour": 18,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            2
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 13,
+              "closeMinute": 0
+            },
+            {
+              "openHour": 14,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            4
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 13,
+              "closeMinute": 0
+            },
+            {
+              "openHour": 14,
+              "openMinute": 0,
+              "closeHour": 14,
+              "closeMinute": 50
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "recurring": {
+        "count": 1,
+        "bookingOption": "skip",
+        "bookingOverlapDefaultStatus": "",
+        "interval": null,
+        "freq": "DAILY",
+        "monthDays": [],
+        "weekDays": []
+      },
+      "formId": "",
+      "stickyContact": false,
+      "isLivePaymentMode": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "shouldAssignContactToTeamMember": false,
+      "shouldSkipAssigningContactForExisting": false,
+      "notes": "Phone:- {{contact.phone}}\nEmail:- {{contact.email}}\n\nNeed to make a change to this event?\nReschedule:-\n{{reschedule_link}}\n\nCancel:-\n{{cancellation_link}}",
+      "pixelId": "",
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitRedirectUrl": "",
+      "formSubmitThanksMessage": "Obrigado pelo seu tempo, sua consulta foi agendada!",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "calendarCoverImage": "",
+      "lookBusyConfig": {
+        "enabled": false,
+        "lookBusyPercentage": 50
+      },
+      "allowBookingAfterUnit": "days",
+      "allowBookingAfter": 0,
+      "allowBookingForUnit": "days",
+      "preBuffer": 0,
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "5K8XuuLA0eGffe1J9ZrH",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "groupId": "",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "QNUDmXSAzlzngGr04uep",
+          "isZoomAdded": "false",
+          "locationConfigurations": [
+            {
+              "location": "",
+              "position": 0,
+              "kind": "custom",
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ],
+          "isPrimary": true
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForAvailability",
+      "name": "Carlos Augusto's Personal Calendar",
+      "description": "",
+      "widgetSlug": "carlos-augusto-personal-calendar-6er0qlp5n",
+      "calendarType": "personal",
+      "widgetType": "default",
+      "eventTitle": "{{contact.name}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appoinmentPerDay": "",
+      "appointmentPerSlot": 1,
+      "appointmentPerDay": "",
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            1
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            2
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            3
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            4
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            5
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            6
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 13,
+              "closeMinute": 30
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "recurring": {
+        "count": 1,
+        "bookingOption": "skip",
+        "bookingOverlapDefaultStatus": "",
+        "interval": null,
+        "freq": "DAILY",
+        "monthDays": [],
+        "weekDays": []
+      },
+      "formId": "",
+      "stickyContact": false,
+      "isLivePaymentMode": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "shouldAssignContactToTeamMember": false,
+      "shouldSkipAssigningContactForExisting": false,
+      "notes": "Phone:- {{contact.phone}}\nEmail:- {{contact.email}}\n\nNeed to make a change to this event?\nReschedule:-\n{{reschedule_link}}\n\nCancel:-\n{{cancellation_link}}",
+      "pixelId": "",
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitRedirectUrl": "",
+      "formSubmitThanksMessage": "Thank you for your appointment request. We will contact you shortly to confirm your request. Please call our office at {{contactMethod}} if you have any questions.",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "calendarCoverImage": "",
+      "lookBusyConfig": {
+        "enabled": false,
+        "lookBusyPercentage": 0
+      },
+      "allowBookingAfterUnit": "days",
+      "allowBookingForUnit": "days",
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "6gGUl22jF15ON7RWKeBB",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "groupId": "",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "QNUDmXSAzlzngGr04uep",
+          "isPrimary": true,
+          "isZoomAdded": "false",
+          "locationConfigurations": [
+            {
+              "kind": "custom",
+              "location": "",
+              "position": 0,
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ]
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForEqualDistribution",
+      "name": " Dr Rafael Ramos | Barra da Tijuca",
+      "description": "",
+      "widgetSlug": "dr-lucas-castro-cg90r2zm0fneyn",
+      "calendarType": "service_booking",
+      "widgetType": "default",
+      "eventTitle": "{{contact.nome_paciente}} | {{calendar.name}} | {{contact.procedimento_solicitado}} | {{contact.convnio}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBuffer": 0,
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appoinmentPerDay": 9007199254740991,
+      "appointmentPerSlot": 1,
+      "appointmentPerDay": 9007199254740991,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            6
+          ],
+          "hours": [
+            {
+              "closeHour": 13,
+              "closeMinute": 0,
+              "openMinute": 0,
+              "openHour": 9
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "recurring": {
+        "count": 1,
+        "bookingOption": "skip",
+        "bookingOverlapDefaultStatus": "",
+        "interval": null,
+        "freq": "DAILY",
+        "monthDays": [],
+        "weekDays": []
+      },
+      "formId": "",
+      "stickyContact": false,
+      "isLivePaymentMode": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "shouldAssignContactToTeamMember": false,
+      "shouldSkipAssigningContactForExisting": false,
+      "notes": "Phone:- {{contact.phone}}\nEmail:- {{contact.email}}\n\nNeed to make a change to this event?\nReschedule:-\n{{reschedule_link}}\n\nCancel:-\n{{cancellation_link}}",
+      "pixelId": "",
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitRedirectUrl": "",
+      "formSubmitThanksMessage": "Obrigado pelo seu tempo, sua consulta foi agendada!",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "calendarCoverImage": "",
+      "lookBusyConfig": {
+        "enabled": false,
+        "lookBusyPercentage": 50
+      },
+      "allowBookingAfterUnit": "days",
+      "allowBookingAfter": 0,
+      "allowBookingForUnit": "days",
+      "preBuffer": 0,
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "ACcmwEr9OeexBtiU4yl6",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "groupId": "",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "QNUDmXSAzlzngGr04uep",
+          "isPrimary": true,
+          "isZoomAdded": "false",
+          "locationConfigurations": [
+            {
+              "location": "",
+              "position": 0,
+              "kind": "custom",
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ]
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForEqualDistribution",
+      "name": "Dra Giovanna Ferreira | Campo Grande",
+      "description": "",
+      "widgetSlug": "dr-lucas-scherres-cgf5pled",
+      "calendarType": "service_booking",
+      "widgetType": "default",
+      "eventTitle": "{{contact.nome_paciente}} | {{calendar.name}} | {{contact.procedimento_solicitado}} | {{contact.convnio}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBuffer": 0,
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appoinmentPerDay": 9007199254740991,
+      "appointmentPerSlot": 1,
+      "appointmentPerDay": 9007199254740991,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            1
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 12,
+              "closeMinute": 0
+            },
+            {
+              "openHour": 13,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            4
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 12,
+              "closeMinute": 0
+            },
+            {
+              "openHour": 13,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            6
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 13,
+              "closeMinute": 30
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "recurring": {
+        "count": 1,
+        "bookingOption": "skip",
+        "bookingOverlapDefaultStatus": "",
+        "interval": null,
+        "freq": "DAILY",
+        "monthDays": [],
+        "weekDays": []
+      },
+      "formId": "",
+      "stickyContact": false,
+      "isLivePaymentMode": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "shouldAssignContactToTeamMember": false,
+      "shouldSkipAssigningContactForExisting": false,
+      "notes": "Phone:- {{contact.phone}}\nEmail:- {{contact.email}}\n\nNeed to make a change to this event?\nReschedule:-\n{{reschedule_link}}\n\nCancel:-\n{{cancellation_link}}",
+      "pixelId": "",
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitRedirectUrl": "",
+      "formSubmitThanksMessage": "Obrigado pelo seu tempo, sua consulta foi agendada!",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "calendarCoverImage": "",
+      "lookBusyConfig": {
+        "enabled": false,
+        "lookBusyPercentage": 50
+      },
+      "allowBookingAfterUnit": "days",
+      "allowBookingAfter": 0,
+      "allowBookingForUnit": "days",
+      "preBuffer": 0,
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "BPYDKRaRVsDhA9lkOXxz",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "GbS8Nm1TONkkpsQdmLL5",
+          "isZoomAdded": "false",
+          "locationConfigurations": [
+            {
+              "location": "",
+              "position": 0,
+              "kind": "custom",
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ]
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForAvailability",
+      "name": "Luis Gustavo Santos Barros's Personal Calendar",
+      "description": "",
+      "widgetSlug": "luis-gustavo-santos-barros-personal-calendar-papftlmjr",
+      "calendarType": "personal",
+      "eventTitle": "{{contact.name}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBuffer": 0,
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appointmentPerSlot": 1,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            1
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            2
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            3
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            4
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            5
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            6
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitThanksMessage": "Thank you for your appointment request. We will contact you shortly to confirm your request. Please call our office at {{contactMethod}} if you have any questions.",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "preBuffer": 0,
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "FGfn83WOGnzzrlqQHLhJ",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "NYRiXy9cQ6TLG6Jwx4Pa",
+          "isZoomAdded": "false",
+          "locationConfigurations": [
+            {
+              "location": "",
+              "position": 0,
+              "kind": "custom",
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ]
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForAvailability",
+      "name": "Lucas Lourenço's Personal Calendar",
+      "description": "",
+      "widgetSlug": "lucas-loureno-personal-calendar-yvmdj_n5i1",
+      "calendarType": "personal",
+      "eventTitle": "{{contact.name}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBuffer": 0,
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appointmentPerSlot": 1,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            1
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            2
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            3
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            4
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            5
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            6
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitThanksMessage": "Thank you for your appointment request. We will contact you shortly to confirm your request. Please call our office at {{contactMethod}} if you have any questions.",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "preBuffer": 0,
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "JBdqRPhuBsi0oVmjZ0CF",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "BkNWYQpSwyaPIKkGHDuQ",
+          "isZoomAdded": "false",
+          "locationConfigurations": [
+            {
+              "location": "",
+              "position": 0,
+              "kind": "custom",
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ]
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForAvailability",
+      "name": "CAROLINE SILVA's Personal Calendar",
+      "description": "",
+      "widgetSlug": "caroline-silva-personal-calendar-pr2yyigh0",
+      "calendarType": "personal",
+      "eventTitle": "{{contact.name}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBuffer": 0,
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appointmentPerSlot": 1,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            1
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            2
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            3
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            4
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            5
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            6
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 13,
+              "closeMinute": 30
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitThanksMessage": "Thank you for your appointment request. We will contact you shortly to confirm your request. Please call our office at {{contactMethod}} if you have any questions.",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "preBuffer": 0,
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "N018p8fGK2boOyTkcqWw",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "groupId": "",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "QNUDmXSAzlzngGr04uep",
+          "isPrimary": true,
+          "isZoomAdded": "false",
+          "locationConfigurations": [
+            {
+              "kind": "custom",
+              "location": "",
+              "position": 0,
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ]
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForEqualDistribution",
+      "name": "Dra Giovanna Ferreira | Barra da Tijuca",
+      "description": "",
+      "widgetSlug": "dr-lucas-scherres-cgf5pledgejucj",
+      "calendarType": "service_booking",
+      "widgetType": "default",
+      "eventTitle": "{{contact.nome_paciente}} | {{calendar.name}} | {{contact.procedimento_solicitado}} | {{contact.convnio}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBuffer": 0,
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appoinmentPerDay": 9007199254740991,
+      "appointmentPerSlot": 1,
+      "appointmentPerDay": 9007199254740991,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            6
+          ],
+          "hours": [
+            {
+              "closeHour": 13,
+              "closeMinute": 0,
+              "openMinute": 0,
+              "openHour": 9
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "recurring": {
+        "count": 1,
+        "bookingOption": "skip",
+        "bookingOverlapDefaultStatus": "",
+        "interval": null,
+        "freq": "DAILY",
+        "monthDays": [],
+        "weekDays": []
+      },
+      "formId": "",
+      "stickyContact": false,
+      "isLivePaymentMode": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "shouldAssignContactToTeamMember": false,
+      "shouldSkipAssigningContactForExisting": false,
+      "notes": "Phone:- {{contact.phone}}\nEmail:- {{contact.email}}\n\nNeed to make a change to this event?\nReschedule:-\n{{reschedule_link}}\n\nCancel:-\n{{cancellation_link}}",
+      "pixelId": "",
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitRedirectUrl": "",
+      "formSubmitThanksMessage": "Obrigado pelo seu tempo, sua consulta foi agendada!",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "calendarCoverImage": "",
+      "lookBusyConfig": {
+        "enabled": false,
+        "lookBusyPercentage": 50
+      },
+      "allowBookingAfterUnit": "days",
+      "allowBookingAfter": 0,
+      "allowBookingForUnit": "days",
+      "preBuffer": 0,
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "NVFlLkuvyDpIVPnaGXnq",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "KblUZVSnolCs2DEEkDFM",
+          "isZoomAdded": "false",
+          "locationConfigurations": [
+            {
+              "location": "",
+              "position": 0,
+              "kind": "custom",
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ]
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForAvailability",
+      "name": "THAIS ABREU's Personal Calendar",
+      "description": "",
+      "widgetSlug": "thais-abreu-personal-calendar-pzw0ukxmp",
+      "calendarType": "personal",
+      "eventTitle": "{{contact.name}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBuffer": 0,
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appointmentPerSlot": 1,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            1
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            2
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            3
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            4
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            5
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            6
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitThanksMessage": "Thank you for your appointment request. We will contact you shortly to confirm your request. Please call our office at {{contactMethod}} if you have any questions.",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "preBuffer": 0,
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "O3WN5OohNdFfmUbFHFbz",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "9yji6iOBduiJeKnRLBlC",
+          "isZoomAdded": "false",
+          "locationConfigurations": [
+            {
+              "kind": "custom",
+              "location": "",
+              "position": 0,
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ]
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForAvailability",
+      "name": "Lizandra Lima's Personal Calendar",
+      "description": "",
+      "widgetSlug": "lizandra-lima-personal-calendar-vziborpzm",
+      "calendarType": "personal",
+      "eventTitle": "{{contact.name}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appointmentPerSlot": 1,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            1
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            2
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            3
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            4
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            5
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitThanksMessage": "Thank you for your appointment request. We will contact you shortly to confirm your request. Please call our office at {{contactMethod}} if you have any questions.",
+      "availabilities": [],
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "Sq4S1RHRaAoVfLbcb6Gj",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "groupId": "",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "GbS8Nm1TONkkpsQdmLL5",
+          "isPrimary": true,
+          "isZoomAdded": "false",
+          "locationConfigurations": [
+            {
+              "location": "",
+              "position": 0,
+              "kind": "custom",
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ]
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForEqualDistribution",
+      "name": "Dr Rafael Ramos | Campo Grande",
+      "description": "",
+      "widgetSlug": "dr-lucas-castro-cg90r2zm",
+      "calendarType": "service_booking",
+      "widgetType": "default",
+      "eventTitle": "{{contact.nome_paciente}} | {{calendar.name}} | {{contact.procedimento_solicitado}} | {{contact.convnio}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBuffer": 0,
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appoinmentPerDay": 9007199254740991,
+      "appointmentPerSlot": 1,
+      "appointmentPerDay": 9007199254740991,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            1
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 13,
+              "closeMinute": 0
+            },
+            {
+              "openHour": 14,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            3
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 13,
+              "closeMinute": 0
+            },
+            {
+              "openHour": 14,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "recurring": {
+        "count": 1,
+        "bookingOption": "skip",
+        "bookingOverlapDefaultStatus": "",
+        "interval": null,
+        "freq": "DAILY",
+        "monthDays": [],
+        "weekDays": []
+      },
+      "formId": "",
+      "stickyContact": false,
+      "isLivePaymentMode": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "shouldAssignContactToTeamMember": false,
+      "shouldSkipAssigningContactForExisting": false,
+      "notes": "Phone:- {{contact.phone}}\nEmail:- {{contact.email}}\n\nNeed to make a change to this event?\nReschedule:-\n{{reschedule_link}}\n\nCancel:-\n{{cancellation_link}}",
+      "pixelId": "",
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitRedirectUrl": "",
+      "formSubmitThanksMessage": "Obrigado pelo seu tempo, sua consulta foi agendada!",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "calendarCoverImage": "",
+      "lookBusyConfig": {
+        "enabled": false,
+        "lookBusyPercentage": 50
+      },
+      "allowBookingAfterUnit": "days",
+      "allowBookingAfter": 0,
+      "allowBookingForUnit": "days",
+      "preBuffer": 0,
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "bOur6KKgSm1cQvIxYnwQ",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "groupId": "",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "KblUZVSnolCs2DEEkDFM",
+          "isPrimary": true,
+          "isZoomAdded": "false",
+          "locationConfigurations": [
+            {
+              "location": "",
+              "position": 0,
+              "kind": "custom",
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ]
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForEqualDistribution",
+      "name": "Dra Thais Campos | Campo Grande",
+      "description": "",
+      "widgetSlug": "dra-thais-campos-cg",
+      "calendarType": "service_booking",
+      "widgetType": "default",
+      "eventTitle": "{{contact.nome_paciente}} | {{calendar.name}} | {{contact.procedimento_solicitado}} | {{contact.convnio}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBuffer": 0,
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appoinmentPerDay": 9007199254740991,
+      "appointmentPerSlot": 1,
+      "appointmentPerDay": 9007199254740991,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            5
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 12,
+              "closeMinute": 0
+            },
+            {
+              "openHour": 13,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "recurring": {
+        "count": 1,
+        "bookingOption": "skip",
+        "bookingOverlapDefaultStatus": "",
+        "interval": null,
+        "freq": "DAILY",
+        "monthDays": [],
+        "weekDays": []
+      },
+      "formId": "",
+      "stickyContact": false,
+      "isLivePaymentMode": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "shouldAssignContactToTeamMember": false,
+      "shouldSkipAssigningContactForExisting": false,
+      "notes": "Phone:- {{contact.phone}}\nEmail:- {{contact.email}}\n\nNeed to make a change to this event?\nReschedule:-\n{{reschedule_link}}\n\nCancel:-\n{{cancellation_link}}",
+      "pixelId": "",
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitRedirectUrl": "",
+      "formSubmitThanksMessage": "Obrigado pelo seu tempo, sua consulta foi agendada!",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "calendarCoverImage": "",
+      "lookBusyConfig": {
+        "enabled": false,
+        "lookBusyPercentage": 50
+      },
+      "allowBookingAfterUnit": "days",
+      "allowBookingAfter": 0,
+      "allowBookingForUnit": "days",
+      "preBuffer": 0,
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "cNAnPs8MGpkjO1bSyba9",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "groupId": "",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "GDki1dJn6gcdMYzzGaaf",
+          "isZoomAdded": "false",
+          "zoomOauthId": "",
+          "locationConfigurations": [
+            {
+              "location": "",
+              "position": 0,
+              "kind": "custom",
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ],
+          "isPrimary": true
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForEqualDistribution",
+      "name": "Dr Leonardo | Campo Grande",
+      "description": "",
+      "widgetSlug": "dr-leonardo-cg",
+      "calendarType": "service_booking",
+      "widgetType": "default",
+      "eventTitle": "{{contact.nome_paciente}} | {{calendar.name}} | {{contact.procedimento_solicitado}} | {{contact.convnio}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBuffer": 0,
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appoinmentPerDay": 9007199254740991,
+      "appointmentPerSlot": 1,
+      "appointmentPerDay": 9007199254740991,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            2
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 12,
+              "closeMinute": 0
+            },
+            {
+              "openHour": 13,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "recurring": {
+        "count": 1,
+        "bookingOption": "skip",
+        "bookingOverlapDefaultStatus": "",
+        "interval": null,
+        "freq": "DAILY",
+        "monthDays": [],
+        "weekDays": []
+      },
+      "formId": "",
+      "stickyContact": false,
+      "isLivePaymentMode": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "shouldAssignContactToTeamMember": false,
+      "shouldSkipAssigningContactForExisting": false,
+      "notes": "Phone:- {{contact.phone}}\nEmail:- {{contact.email}}\n\nNeed to make a change to this event?\nReschedule:-\n{{reschedule_link}}\n\nCancel:-\n{{cancellation_link}}",
+      "pixelId": "",
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitRedirectUrl": "",
+      "formSubmitThanksMessage": "Obrigado pelo seu tempo, sua consulta foi agendada!",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "calendarCoverImage": "",
+      "lookBusyConfig": {
+        "enabled": false,
+        "lookBusyPercentage": 50
+      },
+      "allowBookingAfterUnit": "days",
+      "allowBookingAfter": 0,
+      "allowBookingForUnit": "days",
+      "preBuffer": 0,
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "dpnGTRPb4wLTjWxPfO3M",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "groupId": "",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "QNUDmXSAzlzngGr04uep",
+          "isPrimary": true,
+          "isZoomAdded": "false",
+          "locationConfigurations": [
+            {
+              "location": "",
+              "position": 0,
+              "kind": "custom",
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ]
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForEqualDistribution",
+      "name": "Dr Lucas Castro | Campo Grande",
+      "description": "",
+      "widgetSlug": "dr-lucas-castro-cg3knd44",
+      "calendarType": "service_booking",
+      "widgetType": "default",
+      "eventTitle": "{{contact.nome_paciente}} | {{calendar.name}} | {{contact.procedimento_solicitado}} | {{contact.convnio}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBuffer": 0,
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appoinmentPerDay": 9007199254740991,
+      "appointmentPerSlot": 1,
+      "appointmentPerDay": 9007199254740991,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            3
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 12,
+              "closeMinute": 0
+            },
+            {
+              "openHour": 13,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            4
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 12,
+              "closeMinute": 0
+            },
+            {
+              "openHour": 13,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            6
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 13,
+              "closeMinute": 30
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "recurring": {
+        "count": 1,
+        "bookingOption": "skip",
+        "bookingOverlapDefaultStatus": "",
+        "interval": null,
+        "freq": "DAILY",
+        "monthDays": [],
+        "weekDays": []
+      },
+      "formId": "",
+      "stickyContact": false,
+      "isLivePaymentMode": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "shouldAssignContactToTeamMember": false,
+      "shouldSkipAssigningContactForExisting": false,
+      "notes": "Phone:- {{contact.phone}}\nEmail:- {{contact.email}}\n\nNeed to make a change to this event?\nReschedule:-\n{{reschedule_link}}\n\nCancel:-\n{{cancellation_link}}",
+      "pixelId": "",
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitRedirectUrl": "",
+      "formSubmitThanksMessage": "Obrigado pelo seu tempo, sua consulta foi agendada!",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "calendarCoverImage": "",
+      "lookBusyConfig": {
+        "enabled": false,
+        "lookBusyPercentage": 50
+      },
+      "allowBookingAfterUnit": "days",
+      "allowBookingAfter": 0,
+      "allowBookingForUnit": "days",
+      "preBuffer": 0,
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "dypic8EB1pS2Zh8hJw1c",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "groupId": "",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "GDki1dJn6gcdMYzzGaaf",
+          "isZoomAdded": "false",
+          "zoomOauthId": "",
+          "locationConfigurations": [
+            {
+              "location": "",
+              "position": 0,
+              "kind": "custom",
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ],
+          "isPrimary": true
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForEqualDistribution",
+      "name": "Dr Carlos Augusto | Campo Grande",
+      "description": "",
+      "widgetSlug": "dr-carlos-augusto-cg",
+      "calendarType": "service_booking",
+      "widgetType": "default",
+      "eventTitle": "{{contact.nome_paciente}} | {{calendar.name}} | {{contact.procedimento_solicitado}} | {{contact.convnio}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBuffer": 0,
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appoinmentPerDay": 9007199254740991,
+      "appointmentPerSlot": 1,
+      "appointmentPerDay": 9007199254740991,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            1
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 13,
+              "closeMinute": 0
+            },
+            {
+              "openHour": 14,
+              "openMinute": 0,
+              "closeHour": 18,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            3
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 13,
+              "closeMinute": 0
+            },
+            {
+              "openHour": 14,
+              "openMinute": 0,
+              "closeHour": 18,
+              "closeMinute": 0
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "recurring": {
+        "count": 1,
+        "bookingOption": "skip",
+        "bookingOverlapDefaultStatus": "",
+        "interval": null,
+        "freq": "DAILY",
+        "monthDays": [],
+        "weekDays": []
+      },
+      "formId": "",
+      "stickyContact": false,
+      "isLivePaymentMode": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "shouldAssignContactToTeamMember": false,
+      "shouldSkipAssigningContactForExisting": false,
+      "notes": "Phone:- {{contact.phone}}\nEmail:- {{contact.email}}\n\nNeed to make a change to this event?\nReschedule:-\n{{reschedule_link}}\n\nCancel:-\n{{cancellation_link}}",
+      "pixelId": "",
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitRedirectUrl": "",
+      "formSubmitThanksMessage": "Obrigado pelo seu tempo, sua consulta foi agendada!",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "calendarCoverImage": "",
+      "lookBusyConfig": {
+        "enabled": false,
+        "lookBusyPercentage": 50
+      },
+      "allowBookingAfterUnit": "days",
+      "allowBookingAfter": 0,
+      "allowBookingForUnit": "days",
+      "preBuffer": 0,
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "e6FA0Add4dZVXt6qN40y",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "groupId": "",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "GDki1dJn6gcdMYzzGaaf",
+          "isZoomAdded": "false",
+          "zoomOauthId": "",
+          "locationConfigurations": [
+            {
+              "location": "",
+              "position": 0,
+              "kind": "custom",
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ],
+          "isPrimary": true
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForEqualDistribution",
+      "name": "Dr Carlos Augusto | Barra da Tijuca",
+      "description": "",
+      "widgetSlug": "dr-carlos-augusto-bara",
+      "calendarType": "service_booking",
+      "widgetType": "default",
+      "eventTitle": "{{contact.nome_paciente}} | {{calendar.name}} | {{contact.procedimento_solicitado}} | {{contact.convnio}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBuffer": 0,
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appoinmentPerDay": 9007199254740991,
+      "appointmentPerSlot": 1,
+      "appointmentPerDay": 9007199254740991,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            2
+          ],
+          "hours": [
+            {
+              "openHour": 17,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            4
+          ],
+          "hours": [
+            {
+              "openHour": 17,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            5
+          ],
+          "hours": [
+            {
+              "openHour": 14,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "recurring": {
+        "count": 1,
+        "bookingOption": "skip",
+        "bookingOverlapDefaultStatus": "",
+        "interval": null,
+        "freq": "DAILY",
+        "monthDays": [],
+        "weekDays": []
+      },
+      "formId": "",
+      "stickyContact": false,
+      "isLivePaymentMode": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "shouldAssignContactToTeamMember": false,
+      "shouldSkipAssigningContactForExisting": false,
+      "notes": "Phone:- {{contact.phone}}\nEmail:- {{contact.email}}\n\nNeed to make a change to this event?\nReschedule:-\n{{reschedule_link}}\n\nCancel:-\n{{cancellation_link}}",
+      "pixelId": "",
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitRedirectUrl": "",
+      "formSubmitThanksMessage": "Obrigado pelo seu tempo, sua consulta foi agendada!",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "calendarCoverImage": "",
+      "lookBusyConfig": {
+        "enabled": false,
+        "lookBusyPercentage": 50
+      },
+      "allowBookingAfterUnit": "days",
+      "allowBookingAfter": 0,
+      "allowBookingForUnit": "days",
+      "preBuffer": 0,
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "fUvShjVjDVERgGZUuNls",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "groupId": "",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "GDki1dJn6gcdMYzzGaaf",
+          "isPrimary": true,
+          "isZoomAdded": "false",
+          "locationConfigurations": [
+            {
+              "location": "",
+              "position": 0,
+              "kind": "custom",
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ]
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForEqualDistribution",
+      "name": "Dr Lucas Scherres | Campo Grande",
+      "description": "",
+      "widgetSlug": "dr-lucas-scherres-cg",
+      "calendarType": "service_booking",
+      "widgetType": "default",
+      "eventTitle": "{{contact.nome_paciente}} | {{calendar.name}} | {{contact.procedimento_solicitado}} | {{contact.convnio}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBuffer": 0,
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appoinmentPerDay": 9007199254740991,
+      "appointmentPerSlot": 1,
+      "appointmentPerDay": 9007199254740991,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            2
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 13,
+              "closeMinute": 0
+            },
+            {
+              "openHour": 14,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            5
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 13,
+              "closeMinute": 0
+            },
+            {
+              "openHour": 14,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            6
+          ],
+          "hours": [
+            {
+              "openHour": 9,
+              "openMinute": 0,
+              "closeHour": 13,
+              "closeMinute": 30
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "recurring": {
+        "count": 1,
+        "bookingOption": "skip",
+        "bookingOverlapDefaultStatus": "",
+        "interval": null,
+        "freq": "DAILY",
+        "monthDays": [],
+        "weekDays": []
+      },
+      "formId": "",
+      "stickyContact": false,
+      "isLivePaymentMode": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "shouldAssignContactToTeamMember": false,
+      "shouldSkipAssigningContactForExisting": false,
+      "notes": "Phone:- {{contact.phone}}\nEmail:- {{contact.email}}\n\nNeed to make a change to this event?\nReschedule:-\n{{reschedule_link}}\n\nCancel:-\n{{cancellation_link}}",
+      "pixelId": "",
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitRedirectUrl": "",
+      "formSubmitThanksMessage": "Obrigado pelo seu tempo, sua consulta foi agendada!",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "calendarCoverImage": "",
+      "lookBusyConfig": {
+        "enabled": false,
+        "lookBusyPercentage": 50
+      },
+      "allowBookingAfterUnit": "days",
+      "allowBookingAfter": 0,
+      "allowBookingForUnit": "days",
+      "preBuffer": 0,
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "x24CJMJMuK2YJaZUuRRD",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "BnbTWPQRn5HxtLbbcI0w",
+          "isZoomAdded": "false",
+          "locationConfigurations": [
+            {
+              "location": "",
+              "position": 0,
+              "kind": "custom",
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ]
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForAvailability",
+      "name": "Juliana Cardoso's Personal Calendar",
+      "description": "",
+      "widgetSlug": "juliana-cardoso-personal-calendar-4mks_pxe2",
+      "calendarType": "personal",
+      "eventTitle": "{{contact.name}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBuffer": 0,
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appointmentPerSlot": 1,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            1
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            2
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            3
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            4
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            5
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            6
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 19,
+              "closeMinute": 0
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitThanksMessage": "Thank you for your appointment request. We will contact you shortly to confirm your request. Please call our office at {{contactMethod}} if you have any questions.",
+      "availabilities": [],
+      "guestType": "collect_detail",
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "preBuffer": 0,
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    },
+    {
+      "id": "yYASlAMx9hNtrMJnoCWD",
+      "locationId": "3R4hY0j3TJyj2SkmSQL3",
+      "teamMembers": [
+        {
+          "priority": 0.5,
+          "selected": true,
+          "userId": "U89nh82ZZNuwKclFdlUK",
+          "isZoomAdded": "false",
+          "locationConfigurations": [
+            {
+              "kind": "custom",
+              "location": "",
+              "position": 0,
+              "zoomOauthId": "",
+              "meetingId": "custom_0"
+            }
+          ]
+        }
+      ],
+      "eventType": "RoundRobin_OptimizeForAvailability",
+      "name": "GRACIANA SOUZA's Personal Calendar",
+      "description": "",
+      "widgetSlug": "graciana-souza-personal-calendar-0zmvgd8d5",
+      "calendarType": "personal",
+      "eventTitle": "{{contact.name}}",
+      "eventColor": "#039BE5",
+      "slotDuration": 30,
+      "slotDurationUnit": "mins",
+      "slotInterval": 30,
+      "slotIntervalUnit": "mins",
+      "slotBufferUnit": "mins",
+      "appoinmentPerSlot": 1,
+      "appointmentPerSlot": 1,
+      "openHours": [
+        {
+          "daysOfTheWeek": [
+            1
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            2
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            3
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            4
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        },
+        {
+          "daysOfTheWeek": [
+            5
+          ],
+          "hours": [
+            {
+              "openHour": 8,
+              "openMinute": 0,
+              "closeHour": 17,
+              "closeMinute": 0
+            }
+          ]
+        }
+      ],
+      "enableRecurring": false,
+      "autoConfirm": true,
+      "googleInvitationEmails": true,
+      "allowReschedule": true,
+      "allowCancellation": true,
+      "formSubmitType": "ThankYouMessage",
+      "formSubmitThanksMessage": "Thank you for your appointment request. We will contact you shortly to confirm your request. Please call our office at {{contactMethod}} if you have any questions.",
+      "availabilities": [],
+      "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+      "preBufferUnit": "mins",
+      "isActive": true,
+      "enableClientPortalBooking": false
+    }
+  ],
+  "traceId": "021f19a8-041c-43b1-a5f4-e5833320da92"
+}

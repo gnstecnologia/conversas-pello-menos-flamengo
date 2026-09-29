@@ -1,0 +1,51 @@
+{
+    "name":  "Appointment Booking Action",
+    "type":  "appointmentBooking",
+    "details":  {
+                    "calendarId":  "fUvShjVjDVERgGZUuNls",
+                    "calendarIds":  [
+                                        {
+                                            "id":  "fUvShjVjDVERgGZUuNls",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "dpnGTRPb4wLTjWxPfO3M",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "bOur6KKgSm1cQvIxYnwQ",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "Sq4S1RHRaAoVfLbcb6Gj",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "ACcmwEr9OeexBtiU4yl6",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "N018p8fGK2boOyTkcqWw",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "6gGUl22jF15ON7RWKeBB",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "1X5AaBX8WCmn4FpAuMxJ",
+                                            "triggerCondition":  ""
+                                        }
+                                    ],
+                    "calendarActionType":  "multiple",
+                    "aiDescription":  "Agendar SOMENTE clinico geral. Nunca Carlos Augusto nem Leonardo. Filtrar calendario pela unidade e dia pedido.",
+                    "fallbackCalendar":  false,
+                    "fallbackCalendarId":  "",
+                    "onlySendLink":  false,
+                    "triggerWorkflow":  false,
+                    "sleepAfterBooking":  false,
+                    "transferBot":  false,
+                    "rescheduleEnabled":  true,
+                    "cancelEnabled":  true
+                }
+}

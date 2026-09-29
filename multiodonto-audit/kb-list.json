@@ -1,0 +1,24 @@
+﻿{
+    "success":  true,
+    "data":  {
+                 "knowledgeBases":  [
+                                        {
+                                            "id":  "HjJZbTH2w5riiz6GeC5y",
+                                            "name":  "Base de Conhecimento - Multiodonto V1.0",
+                                            "createdAt":  "2026-02-03T14:23:50.733Z",
+                                            "updatedAt":  "2026-08-13T15:23:43.764Z"
+                                        },
+                                        {
+                                            "id":  "oalarRM8JVDTuY1Xm0yX",
+                                            "name":  "Existing knowledge base",
+                                            "createdAt":  "2025-10-26T11:32:59.013Z",
+                                            "updatedAt":  "2025-10-26T11:32:59.013Z",
+                                            "isDefault":  true
+                                        }
+                                    ],
+                 "activeCount":  2,
+                 "hasMore":  false,
+                 "lastKnowledgeBaseId":  "oalarRM8JVDTuY1Xm0yX"
+             },
+    "traceId":  "3ce0e43b-eb5a-4acf-bc03-d3697fe41b24"
+}

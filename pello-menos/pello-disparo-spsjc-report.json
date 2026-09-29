@@ -1,0 +1,62 @@
+{
+  "tag": "disparo 21/08",
+  "locationId": "wi4al7UGFzPEEJxK3xJg",
+  "unique_emails": 3440,
+  "skipped_no_email": [
+    {
+      "name": "LIVIA SETTE",
+      "code": "00915960",
+      "phone": ""
+    },
+    {
+      "name": "FERNANDA ROSA DA COSTA",
+      "code": "00932129",
+      "phone": ""
+    }
+  ],
+  "stats": {
+    "created": 120,
+    "updated": 2,
+    "error": 1,
+    "already_ok": 3317
+  },
+  "errors": [
+    {
+      "email": "alyny_acg@hotmail.co9m",
+      "step": "create",
+      "code": 422,
+      "body": {
+        "message": [
+          "email must be an email"
+        ],
+        "error": "Unprocessable Entity",
+        "statusCode": 422,
+        "traceId": "ad6faf5c-5912-4bf3-96d1-fedeec137d36"
+      },
+      "upsert": [
+        422,
+        {
+          "message": [
+            "email must be an email"
+          ],
+          "error": "Unprocessable Entity",
+          "statusCode": 422,
+          "traceId": "ae255101-b406-4c55-9a3a-e60529d32fe4"
+        }
+      ]
+    }
+  ],
+  "error_count": 1,
+  "sample_ids": [
+    "tCNjSBlusEx29hoAr83m",
+    "UFGAX0Wi6KxzuLvtrpCQ",
+    "W3w4u4qDKIMAx6KZW37f",
+    "xNxzzKyxR44lYErhSfnN",
+    "lCbAeRWoMDu01SVYTSmB",
+    "9N0XwX8xNFBxcKqZcOEY",
+    "GijMeD5PczNZVaOIXQ81",
+    "mXRPCgwnGGI462FOHGyB",
+    "vlgAfGoEp6vRW3NIie0y",
+    "0UOqDSKpJHYTNWiCUS3e"
+  ]
+}

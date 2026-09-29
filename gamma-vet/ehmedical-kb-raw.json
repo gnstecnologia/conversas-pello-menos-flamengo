@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "data": {
+    "id": "jMVYm98Ii5UA46yb9spC",
+    "name": "Existing knowledge base",
+    "nameLowerCase": "existing knowledge base",
+    "locationId": "9Ahv460EPGTwS2J1sxYP",
+    "deleted": false,
+    "createdAt": "2026-03-18T19:40:25+00:00",
+    "updatedAt": "2026-08-20T19:48:21+00:00",
+    "isDefault": true,
+    "kbMetadata": {
+      "faqs": 0,
+      "urls": 1,
+      "richText": 0,
+      "files": 0,
+      "webSearches": 0,
+      "tables": 0
+    },
+    "description": "Existing knowledge base to function as default"
+  },
+  "traceId": "cc22d9a3-2f96-4d81-a871-8e810290ec77"
+}

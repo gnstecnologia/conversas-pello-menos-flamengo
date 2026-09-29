@@ -1,0 +1,26 @@
+# -*- coding: utf-8 -*-
+"""Resumo curto do teste de agendas (gerado apos audit_agendas_teste)."""
+from datetime import date
+
+print(
+    """
+VEREDITO TIREOIDE (API free-slots = o que a ferramenta da IA ve):
+  Seg 31/08: 16:00
+  Ter 01/09: 13:00, 13:30, 16:00
+  Qui 03/09: 09:30, 10:00, 13:00, 13:30, 16:00
+  Seg 07/09: 09:30, 10:00, 13:00, 13:30, 16:00
+  Ter 08/09: 13:00, 13:30, 16:00
+  Qui 10/09: 09:30, 10:00, 13:00, 13:30, 16:00
+  -> Sem quarta/sexta/sabado. Sem 15:30. LISTA FECHADA OK.
+
+PROBLEMAS:
+  1) Agente mode=off -> nao da para testar conversa WhatsApp ao vivo (regra: nao ligar).
+  2) Calendarios SEM usuario (teamMembers vazio): Cintilo, Luciana, Eco, ECG, Endo, Radio, Pre-reserva.
+     Free-slots aparecem, mas o booking pode nao refletir agenda real da clinica.
+  3) Tomografia gera sabado (05 e 12/09) — prompt nao proibe TC no sabado; confirmar se e erro.
+  4) Luciana com slots todos os dias uteis (ok como fallback; risco da IA preferir Luciana fora da quinta).
+  5) Fernanda sabado: 05/09 com slots, 12/09 sem — padrao intercalado parece ok.
+  6) RX sem sabado — ok.
+  7) Booking action triggers ja atualizados (tireoide com lista + terça).
+"""
+)

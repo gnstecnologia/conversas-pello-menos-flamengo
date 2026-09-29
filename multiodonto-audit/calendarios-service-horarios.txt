@@ -1,0 +1,44 @@
+﻿Dr Rafael Ramos | Barra da Tijuca
+  id=6gGUl22jF15ON7RWKeBB slot=30min active=True
+  Sab: 09:00-13:00
+
+Dr Carlos Augusto | Barra da Tijuca
+  id=e6FA0Add4dZVXt6qN40y slot=30min active=True
+  Ter: 17:00-19:00 | Qui: 17:00-19:00 | Sex: 14:00-19:00
+
+Dr Carlos Augusto | Campo Grande
+  id=dypic8EB1pS2Zh8hJw1c slot=30min active=True
+  Seg: 09:00-13:00, 14:00-18:00 | Qua: 09:00-13:00, 14:00-18:00
+
+Dr Leonardo | Campo Grande
+  id=cNAnPs8MGpkjO1bSyba9 slot=30min active=True
+  Ter: 09:00-12:00, 13:00-19:00
+
+Dr Lucas Castro | Campo Grande
+  id=dpnGTRPb4wLTjWxPfO3M slot=30min active=True
+  Qua: 09:00-12:00, 13:00-19:00 | Qui: 09:00-12:00, 13:00-19:00 | Sab: 09:00-13:30
+
+Dr Lucas Scherres | Campo Grande
+  id=fUvShjVjDVERgGZUuNls slot=30min active=True
+  Ter: 09:00-13:00, 14:00-19:00 | Sex: 09:00-13:00, 14:00-19:00 | Sab: 09:00-13:30
+
+Dr Rafael Ramos | Campo Grande
+  id=Sq4S1RHRaAoVfLbcb6Gj slot=30min active=True
+  Seg: 09:00-13:00, 14:00-19:00 | Qua: 09:00-13:00, 14:00-19:00
+
+Dra Giovanna Ferreira | Barra da Tijuca
+  id=N018p8fGK2boOyTkcqWw slot=30min active=True
+  Sab: 09:00-13:00
+
+Dra Giovanna Ferreira | Campo Grande
+  id=ACcmwEr9OeexBtiU4yl6 slot=30min active=True
+  Seg: 09:00-12:00, 13:00-19:00 | Qui: 09:00-12:00, 13:00-19:00
+
+Dra Juliana Cardoso | Barra da Tijuca
+  id=1X5AaBX8WCmn4FpAuMxJ slot=30min active=True
+  Seg: 11:00-13:00, 14:00-18:00 | Qua: 11:00-13:00, 14:00-18:00 | Ter: 09:00-13:00, 14:00-17:00 | Qui: 09:00-13:00, 14:00-17:00
+
+Dra Thais Campos | Campo Grande
+  id=bOur6KKgSm1cQvIxYnwQ slot=30min active=True
+  Sex: 09:00-12:00, 13:00-19:00 | Sab: 09:00-13:30
+

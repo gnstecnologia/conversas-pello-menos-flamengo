@@ -1,0 +1,355 @@
+{
+  "FRANQUIA": {
+    "loc": "FRANQUIA | PELLO MENOS",
+    "agents": [],
+    "wf_qual": [],
+    "wf_sample": []
+  },
+  "PELLO_MAIN": {
+    "loc": "Pello Menos | Franchising",
+    "agents": [
+      {
+        "id": "507nJgLKZZnfngaP37sp",
+        "name": "I.A Pello Menos",
+        "mode": "off",
+        "goal": "1) Identificar origem/campanha (axila, 3 sessões, desconto, orgânico).\n2) Identificar unidade preferida.\n3) Coletar dados mínimos da campanha: nome → CPF (quando exigido) → áreas ou anamnese.\n4) Dispa",
+        "personality": "Você é a assistente virtual da Pello Menos, rede de clínicas de depilação a laser com tecnologia HAKON 4D.\n\nTom: acolhedor, leve, objetivo — conversa de WhatsApp, não formulário burocrático. Uma pergu",
+        "instructions": "## Variáveis do contato (salvar ao receber)\n- Nome → contact.name\n- CPF → contact.cpf\n- Unidade → contact.unidade\n- Oferta → contact.oferta_da_campanha\n- Campanha → contact.nome_da_campanha\n- Regiões → contact.regies_de_interesse\n\n## Detecção de campanha (primeira mensagem)\n- Contém \"axila\" + sem tag axila → campanha AXILA_94_90 → action WF Tag Axila\n- Contém \"3 sessões\" + sem tag → campanha TRES_SESSOES → action WF Tag 3 Sessões\n- Contém \"Garanta seu desconto\" + sem outros descontos → DESCONTO_"
+      }
+    ],
+    "wf_qual": [
+      {
+        "id": "5349707b-01db-491d-97f3-b8a95f71aad5",
+        "name": "01. Novo lead",
+        "status": "draft"
+      },
+      {
+        "id": "5ab0e0e8-8b4b-45e4-99bd-e82459c1d1bb",
+        "name": "E-mail DISPARO - 21/08",
+        "status": "published"
+      },
+      {
+        "id": "dca96512-fec9-4539-8b37-a87350edd3de",
+        "name": "Estágio Pipeline ≠ Novo Lead -> Remover da automação \"0.1 Novo Lead\"",
+        "status": "draft"
+      },
+      {
+        "id": "a4a8a22e-6370-4961-8d55-0628584fa0e9",
+        "name": "Fluxo de Qualificação de E-mail - Pós Cadastro",
+        "status": "draft"
+      },
+      {
+        "id": "e3c6f39d-b104-4f5d-a725-a95fca09ae89",
+        "name": "Reativação de Lead | Retorno de Resposta | Pello Menos",
+        "status": "published"
+      },
+      {
+        "id": "19567dbc-1025-484c-b9d9-5ea2d0a7f053",
+        "name": "Tag de Estágio | Comanda de Cortesia Aberta",
+        "status": "published"
+      },
+      {
+        "id": "07ba3cc5-5816-4cf4-bd30-384088df8601",
+        "name": "Tag de Estágio | Em Atendimento",
+        "status": "published"
+      },
+      {
+        "id": "e35dfdcd-ecf7-4c36-b6b6-b60cee1d9845",
+        "name": "Tag de Estágio | Em Negociação",
+        "status": "published"
+      },
+      {
+        "id": "c79321be-60ee-408c-89f1-332e54530a22",
+        "name": "Tag de Estágio | Link Enviado | Laser",
+        "status": "published"
+      },
+      {
+        "id": "3cd10bfb-3cb7-40a7-82ba-8f9ba53671e2",
+        "name": "Tag de Estágio | Novo Lead",
+        "status": "published"
+      }
+    ],
+    "wf_sample": [
+      {
+        "id": "121bfe5d-a783-4a8a-b9ab-4652c314f664",
+        "name": "01. Anúncio de Desconto ou Outro Procedimento (Sem ser axila)"
+      },
+      {
+        "id": "5349707b-01db-491d-97f3-b8a95f71aad5",
+        "name": "01. Novo lead"
+      },
+      {
+        "id": "dce24b9f-5c4b-4df8-975d-d9b3a9fa444c",
+        "name": "02. Anúncio de Axila 94,90"
+      },
+      {
+        "id": "d5d49564-0ef0-4b3c-a875-6a7c68ef69fb",
+        "name": "03. Anúncio de 3 Sessões"
+      },
+      {
+        "id": "1889637d-bba9-4532-86cb-82c70d79360d",
+        "name": "03. Não compareceu ao agendamento"
+      },
+      {
+        "id": "b40819ce-c7cb-4fc7-9be4-20387b090437",
+        "name": "04. Recebeu orçamento/ follow-up"
+      },
+      {
+        "id": "c18317f7-1198-4526-beee-92bea66870e3",
+        "name": "05. Vendido"
+      },
+      {
+        "id": "6b059df8-bcb9-4aa9-86e2-3ae3ca0b7b24",
+        "name": "Copy - Fluxo de Distribuição - Lojas"
+      },
+      {
+        "id": "885b48c4-882f-40db-9e55-f51ca36d8746",
+        "name": "DISPARO PROMÇÃO AMIGO"
+      },
+      {
+        "id": "5ab0e0e8-8b4b-45e4-99bd-e82459c1d1bb",
+        "name": "E-mail DISPARO - 21/08"
+      },
+      {
+        "id": "dca96512-fec9-4539-8b37-a87350edd3de",
+        "name": "Estágio Pipeline ≠ Novo Lead -> Remover da automação \"0.1 Novo Lead\""
+      },
+      {
+        "id": "5bb3517a-fac7-40e7-b66a-c7b441786d2a",
+        "name": "Fluxo de Distribuição - Lojas"
+      },
+      {
+        "id": "a4a8a22e-6370-4961-8d55-0628584fa0e9",
+        "name": "Fluxo de Qualificação de E-mail - Pós Cadastro"
+      },
+      {
+        "id": "f705f489-1980-45a1-bf5c-520270490fe4",
+        "name": "Follow Up | Sem Resposta | Pello Menos"
+      },
+      {
+        "id": "20f812d6-5fac-418e-adb2-b4c5fd33c5f3",
+        "name": "New Workflow : 1772653138380"
+      },
+      {
+        "id": "e3c6f39d-b104-4f5d-a725-a95fca09ae89",
+        "name": "Reativação de Lead | Retorno de Resposta | Pello Menos"
+      },
+      {
+        "id": "8f4da6bd-c74a-4b03-a843-520e355a209e",
+        "name": "Status: Perdido/Abandonado -> Remover das automações"
+      },
+      {
+        "id": "19567dbc-1025-484c-b9d9-5ea2d0a7f053",
+        "name": "Tag de Estágio | Comanda de Cortesia Aberta"
+      },
+      {
+        "id": "07ba3cc5-5816-4cf4-bd30-384088df8601",
+        "name": "Tag de Estágio | Em Atendimento"
+      },
+      {
+        "id": "e35dfdcd-ecf7-4c36-b6b6-b60cee1d9845",
+        "name": "Tag de Estágio | Em Negociação"
+      },
+      {
+        "id": "1287b476-7b15-4b36-a23c-a32111b3e1b0",
+        "name": "Tag de Estágio | Interesse em Cera"
+      },
+      {
+        "id": "c79321be-60ee-408c-89f1-332e54530a22",
+        "name": "Tag de Estágio | Link Enviado | Laser"
+      },
+      {
+        "id": "3cd10bfb-3cb7-40a7-82ba-8f9ba53671e2",
+        "name": "Tag de Estágio | Novo Lead"
+      },
+      {
+        "id": "5a5577c3-e5e5-41b1-8eea-5e33f57106d6",
+        "name": "Tag de Estágio | Parou de Responder"
+      },
+      {
+        "id": "4ff6607d-8cf7-4cc6-bb7c-0c085df441c5",
+        "name": "Tag de Estágio | Vendido | Laser"
+      },
+      {
+        "id": "e404ff21-2731-4bc6-9317-204fe965a85b",
+        "name": "WF Fluxo de Distribuição - Lojas"
+      }
+    ]
+  },
+  "FRANQ_OLD": {
+    "loc": "Pello Menos | Franqueadora",
+    "agents": [],
+    "wf_qual": [
+      {
+        "id": "6ba04e84-b8ec-4d83-b534-fb8289b7dc58",
+        "name": "03. SurveyCallEstrat_OnboardingeQualif_v1",
+        "status": "draft"
+      },
+      {
+        "id": "cee5211b-50a2-44bb-8e8f-6568652e03f0",
+        "name": "1. Régua Nutrição - Novo Lead - Campanhas (Meta Ads)",
+        "status": "draft"
+      },
+      {
+        "id": "608713b0-6eec-4866-8818-f9d519616b85",
+        "name": "1.1 Régua de Nutrição de E-mails",
+        "status": "draft"
+      },
+      {
+        "id": "53820e1e-4b7c-435c-8691-28647a2eacdc",
+        "name": "E-mail DISPARO",
+        "status": "published"
+      },
+      {
+        "id": "2976d359-62ae-40d6-960e-96568255211d",
+        "name": "E-mail DISPARO - 21/08",
+        "status": "published"
+      },
+      {
+        "id": "cb6401a7-9388-49b8-97d4-b0a1297a1eef",
+        "name": "Fluxo Atual RD Station - 1º Atendimento",
+        "status": "published"
+      },
+      {
+        "id": "dfd3da38-f9d9-4145-9686-44381e1c7358",
+        "name": "Reativação de Lead | Retorno de Resposta | Pello Menos",
+        "status": "draft"
+      },
+      {
+        "id": "fa25b005-b348-44be-8d21-318be22b4fdb",
+        "name": "Tag de Estágio | Comanda de Cortesia Aberta",
+        "status": "draft"
+      },
+      {
+        "id": "00938edb-eaf1-427b-bbea-bcec8553d95d",
+        "name": "Tag de Estágio | Em Atendimento",
+        "status": "draft"
+      },
+      {
+        "id": "ddcf72be-1bd8-4cc0-892c-bb2588433ba6",
+        "name": "Tag de Estágio | Em Negociação",
+        "status": "draft"
+      },
+      {
+        "id": "cfd71586-31da-403f-906a-77647757f607",
+        "name": "Tag de Estágio | Link Enviado | Laser",
+        "status": "draft"
+      },
+      {
+        "id": "5634aaad-16ad-4112-93c0-f962f8990171",
+        "name": "Tag de Estágio | Novo Lead",
+        "status": "draft"
+      }
+    ],
+    "wf_sample": [
+      {
+        "id": "5024fd10-5fc6-48e4-8551-74c5c2ecb857",
+        "name": "01. Anúncio de Desconto ou Outro Procedimento (Sem ser axila)"
+      },
+      {
+        "id": "78d7b1d0-484d-4608-8f88-61c847b696d3",
+        "name": "01. FormulárioSite_OnboardingNovos_Ebook_v1"
+      },
+      {
+        "id": "e7ab3279-f8c5-4fea-adbb-83346752d015",
+        "name": "02. Anúncio de Axila 94,90"
+      },
+      {
+        "id": "869f00c2-5c10-4e47-84af-268dede85675",
+        "name": "02. ChatWidget_OnboardingNovos_v1"
+      },
+      {
+        "id": "abb2c2c3-09d8-43b9-906d-0f4649c330f0",
+        "name": "03. Anúncio de 3 Sessões"
+      },
+      {
+        "id": "6ba04e84-b8ec-4d83-b534-fb8289b7dc58",
+        "name": "03. SurveyCallEstrat_OnboardingeQualif_v1"
+      },
+      {
+        "id": "f58db001-6794-40cb-ba4f-6b3d40a4ca02",
+        "name": "04. AgendouCallEstrat_ConfLembrete_v1"
+      },
+      {
+        "id": "51384bd3-06a4-4cb7-b13c-25ccb4cd9c07",
+        "name": "05. FechouD30_PesqNPS_v1"
+      },
+      {
+        "id": "9792a1e1-7fc0-4291-9a83-1d638ca7a617",
+        "name": "06. SurveyPesqNPS_RespNotifInterna_v1"
+      },
+      {
+        "id": "cee5211b-50a2-44bb-8e8f-6568652e03f0",
+        "name": "1. Régua Nutrição - Novo Lead - Campanhas (Meta Ads)"
+      },
+      {
+        "id": "608713b0-6eec-4866-8818-f9d519616b85",
+        "name": "1.1 Régua de Nutrição de E-mails"
+      },
+      {
+        "id": "d997ec91-578e-4138-b822-0a0026eea4c9",
+        "name": "1.2. Fluxo de Não Comparecimento"
+      },
+      {
+        "id": "1f074400-b169-4f74-b210-1e295e3ef250",
+        "name": "DISPARO PELLO MENOS"
+      },
+      {
+        "id": "6126ac2e-9b79-4f76-92a8-cc5589d09e0d",
+        "name": "Disparo - Promoção de Depilação a Laser"
+      },
+      {
+        "id": "53820e1e-4b7c-435c-8691-28647a2eacdc",
+        "name": "E-mail DISPARO"
+      },
+      {
+        "id": "2976d359-62ae-40d6-960e-96568255211d",
+        "name": "E-mail DISPARO - 21/08"
+      },
+      {
+        "id": "cb6401a7-9388-49b8-97d4-b0a1297a1eef",
+        "name": "Fluxo Atual RD Station - 1º Atendimento"
+      },
+      {
+        "id": "50ec44e7-fb5b-42ed-8f97-7ea90587ff06",
+        "name": "Follow Up | Sem Resposta | Pello Menos"
+      },
+      {
+        "id": "dfd3da38-f9d9-4145-9686-44381e1c7358",
+        "name": "Reativação de Lead | Retorno de Resposta | Pello Menos"
+      },
+      {
+        "id": "fa25b005-b348-44be-8d21-318be22b4fdb",
+        "name": "Tag de Estágio | Comanda de Cortesia Aberta"
+      },
+      {
+        "id": "00938edb-eaf1-427b-bbea-bcec8553d95d",
+        "name": "Tag de Estágio | Em Atendimento"
+      },
+      {
+        "id": "ddcf72be-1bd8-4cc0-892c-bb2588433ba6",
+        "name": "Tag de Estágio | Em Negociação"
+      },
+      {
+        "id": "248b0718-7564-4a43-90de-681d5265af38",
+        "name": "Tag de Estágio | Interesse em Cera"
+      },
+      {
+        "id": "cfd71586-31da-403f-906a-77647757f607",
+        "name": "Tag de Estágio | Link Enviado | Laser"
+      },
+      {
+        "id": "5634aaad-16ad-4112-93c0-f962f8990171",
+        "name": "Tag de Estágio | Novo Lead"
+      },
+      {
+        "id": "92d08267-7007-4c56-b77b-3d898fef462b",
+        "name": "Tag de Estágio | Parou de Responder"
+      },
+      {
+        "id": "710e2d6f-0031-4584-a0ad-7480644b6748",
+        "name": "Tag de Estágio | Vendido | Laser"
+      }
+    ]
+  }
+}

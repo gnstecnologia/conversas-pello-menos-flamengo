@@ -1,0 +1,1182 @@
+{
+  "messages": {
+    "lastMessageId": "Syc1RAuZwShYGc49nlhl",
+    "nextPage": false,
+    "messages": [
+      {
+        "id": "6Ugcjvt8zvJvrFrnr8Z7",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Olá! Tudo bem?😊\n\nEstamos confirmando sua consulta agendada para o dia 25/09/2026\n às 14:00, com Dr Lucas Scherres, na unidade Campo Grande.",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-25T12:01:08.226Z",
+        "dateUpdated": "2026-09-25T12:01:09.830Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "meta": {
+          "marketplace": {
+            "appId": "68fa04309a0f92631c5dd715"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "d6dDAT0I5QD4Tip5aAxM",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Consulta confirmada para sexta-feira, 25/09/2026, às 14:00, com Dr. Lucas Scherres em Campo Grande. Qualquer dúvida, estamos à disposição! Até lá! 💙",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-24T12:01:41.399Z",
+        "dateUpdated": "2026-09-24T12:01:42.959Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "1xY6JVqtQ9QJA8GmSdCP",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "Confirmada",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-24T12:01:28.421Z",
+        "dateUpdated": "2026-09-24T12:01:28.421Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "Id8AK4jyI6JRzE4PTmst",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Olá! Tudo bem?😊\n\nEstamos confirmando sua consulta agendada para o dia 25/09/2026\n às 14:00, com Dr Lucas Scherres, na unidade Campo Grande.",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-24T12:01:08.527Z",
+        "dateUpdated": "2026-09-24T12:01:09.851Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "meta": {
+          "marketplace": {
+            "appId": "68fa04309a0f92631c5dd715"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "5ccbV4df20reKKd6gelF",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "De nada! Qualquer coisa, estamos à disposição. Até sexta-feira, 25/09, às 14h, com Dr. Lucas Scherres em Campo Grande. Será um prazer receber vocês! 😊",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:31:35.879Z",
+        "dateUpdated": "2026-09-23T14:31:37.286Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "GrfJPIWRUe3HndaqUxQl",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "obrigada",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:31:26.621Z",
+        "dateUpdated": "2026-09-23T14:31:26.621Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "BK1MZZHW51mOPD8gHaQM",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Agendei para sexta-feira, 25/09/2026, às 14:00, com Dr. Lucas Scherres em Campo Grande. Tudo certo para você e Larissa? Se precisar de mais alguma coisa, é só avisar! O endereço é R. Cel. Agostinho, 76 - Sala 401, Campo Grande, RJ. Qualquer dúvida, estamos à disposição! 💙",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:30:59.083Z",
+        "dateUpdated": "2026-09-23T14:31:00.583Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "jsU5QqV6r5sbXDmAWefI",
+        "direction": "outbound",
+        "type": 31,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "LARISSA CABRAL DE SOUZA MOTA | Dr Lucas Scherres | Campo Grande | avaliação | ",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:30:55.439Z",
+        "dateUpdated": "2026-09-23T14:30:55.439Z",
+        "source": "app",
+        "from": "Clínica Multiodonto Odontologia",
+        "to": "+5521983316374",
+        "activity": {
+          "data": {
+            "appointmentTitle": "LARISSA CABRAL DE SOUZA MOTA | Dr Lucas Scherres | Campo Grande | avaliação | ",
+            "timestamp": "2026-09-25T17:00:00.000Z",
+            "members": {},
+            "id": "ogrMRfcQAqjgeRbJ8YhT",
+            "serviceBookingId": null,
+            "industryType": null
+          },
+          "title": "New appointment created",
+          "type": "appointment_created"
+        },
+        "messageType": "TYPE_ACTIVITY_APPOINTMENT"
+      },
+      {
+        "id": "PMOImqUuxEYeTT4XHGyr",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "14:00",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:30:36.667Z",
+        "dateUpdated": "2026-09-23T14:30:36.667Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "ctFi7uX9ahXM710Ct3H5",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Ótimo! Na sexta-feira, 25/09/2026, à tarde com Dr. Lucas Scherres, tenho estes horários:\n14:00\n14:30\n15:00\n15:30\n16:00\n16:30\n17:00\n17:30\n18:30\nQual desses é melhor para vocês?",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:30:18.948Z",
+        "dateUpdated": "2026-09-23T14:30:20.236Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "xUgZVP3gf7jH9m1f5A4m",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "opções",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:30:06.163Z",
+        "dateUpdated": "2026-09-23T14:30:06.163Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "vIi3y8z1OT9wDt1MbT3G",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Na sexta-feira, 25/09/2026, com Dr. Lucas Scherres em Campo Grande, tenho estes horários disponíveis:\n\n10:30\n11:00\n11:30\n12:00\n\n\nQuer agendar em algum desses horários? Se preferir à tarde, também tenho opções!",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:29:42.139Z",
+        "dateUpdated": "2026-09-23T14:29:43.579Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "4DoOW7SMKRwKsujCRPgI",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "Lucas na sexta",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:29:25.157Z",
+        "dateUpdated": "2026-09-23T14:29:25.157Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "Wqgg6GdbWPodnOXmLdh6",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Você prefere agendar com Dr Lucas Castro ou Dra Giovanna Ferreira na quinta, ou com Dr Lucas Scherres ou Dra Thais Campos na sexta?",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:28:41.159Z",
+        "dateUpdated": "2026-09-23T14:28:42.481Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "W0ncc1g7rWPF7iHKTqUq",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "tanto faz, so preciso saber os horarios devido a escola da minha filha",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:28:24.451Z",
+        "dateUpdated": "2026-09-23T14:28:24.451Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "IN1WzrxKqy3ihryWEbPW",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Você prefere agendar com Dr Lucas Castro ou Dra Giovanna Ferreira na quinta, ou com Dr Lucas Scherres ou Dra Thais Campos na sexta?",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:24:36.180Z",
+        "dateUpdated": "2026-09-23T14:24:38.582Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "lhROuo1MW4pkWRNvsNkC",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "quais os horarios de quinta e quais os horarios de sexta?",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:24:01.217Z",
+        "dateUpdated": "2026-09-23T14:24:01.217Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "I90pacQBWNvjplTGcAl5",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Para quinta temos Dr Lucas Castro e Dra Giovanna Ferreira. Para sexta, Dr Lucas Scherres e Dra Thais Campos. Com quem prefere marcar?",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:23:31.380Z",
+        "dateUpdated": "2026-09-23T14:23:32.699Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "EGbSuxNloIsPOfG326ra",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "quinta ou sexta",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:23:19.130Z",
+        "dateUpdated": "2026-09-23T14:23:19.130Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "VVruzZC0H7ArsdmKQwEu",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Perfeito! Agora, para agendarmos, qual dia vocês preferem? Se quiserem para hoje, posso verificar as opções de quarta-feira em Campo Grande. O que acham?",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:18:24.001Z",
+        "dateUpdated": "2026-09-23T14:18:25.834Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "OCNO2QTTmSHsNxSD5Cfg",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "90000004674129015 Larissa",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:18:12.962Z",
+        "dateUpdated": "2026-09-23T14:18:12.962Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "07liuxWPnkidBP8KVrjY",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Obrigada, Geny! Agora, por favor, me envie o número da carteirinha Unimed da Larissa para finalizar e já buscar os horários disponíveis para vocês.",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:18:05.876Z",
+        "dateUpdated": "2026-09-23T14:18:07.512Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "JiFx2rbwYkdRXqcs6aiw",
+        "direction": "outbound",
+        "type": 38,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "Employee action log created",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:18:04.581Z",
+        "dateUpdated": "2026-09-23T14:18:04.581Z",
+        "source": "app",
+        "from": "Clínica Multiodonto Odontologia",
+        "to": "+5521983316374",
+        "activity": {
+          "data": {
+            "contactId": "b14ScFRjb66fwKZgbSS9",
+            "agentId": "3Fzfmx7ViwyD9v16h4DR",
+            "contactUpdateAction": [
+              {
+                "actionName": "Número Carteirinha",
+                "value": "90000004674129007",
+                "field": {
+                  "contactFieldName": "Número Carteirinha"
+                }
+              }
+            ]
+          },
+          "title": "Employee action log created",
+          "type": "employee_action_log_created"
+        },
+        "messageType": "TYPE_ACTIVITY_EMPLOYEE_ACTION_LOG"
+      },
+      {
+        "id": "EDRpkSIyX5W7AhrMa3Cr",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "90000004674129007 Geny",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:17:53.364Z",
+        "dateUpdated": "2026-09-23T14:17:53.364Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "UqrWlA5iD0xGmWJAvefI",
+        "direction": "outbound",
+        "type": 38,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "Employee action log created",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:13:37.422Z",
+        "dateUpdated": "2026-09-23T14:13:37.422Z",
+        "source": "app",
+        "from": "Clínica Multiodonto Odontologia",
+        "to": "+5521983316374",
+        "activity": {
+          "data": {
+            "contactId": "b14ScFRjb66fwKZgbSS9",
+            "agentId": "3Fzfmx7ViwyD9v16h4DR",
+            "contactUpdateAction": [
+              {
+                "actionName": "Especialidade",
+                "value": "Clínico Geral",
+                "field": {
+                  "contactFieldName": "especialidade_solicitada"
+                }
+              }
+            ]
+          },
+          "title": "Employee action log created",
+          "type": "employee_action_log_created"
+        },
+        "messageType": "TYPE_ACTIVITY_EMPLOYEE_ACTION_LOG"
+      },
+      {
+        "id": "QnbQPlGXZXLz4mrwVKce",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Entendi! Para avaliação e dente quebrado, o clínico geral pode te atender normalmente pelo convênio Unimed. Só preciso do número da carteirinha Unimed da Larissa e o seu para seguir com o agendamento. Pode me passar, por favor?",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:13:29.129Z",
+        "dateUpdated": "2026-09-23T14:13:30.418Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "g8O0SQ04iGYwe9sU79cP",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "temos sim",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:13:17.580Z",
+        "dateUpdated": "2026-09-23T14:13:17.580Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "2cEFxeK06wxXr98Q2UVQ",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "mas tambem estou com um dente quebrado",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:13:07.961Z",
+        "dateUpdated": "2026-09-23T14:13:07.961Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "IqWTZMqBEwG88ue9nt9m",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Perfeito! Agora, para agendar, preciso saber: vocês têm carteirinha da Unimed? Se sim, pode me passar o número de cada uma?",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:13:03.443Z",
+        "dateUpdated": "2026-09-23T14:13:04.829Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "2Su1n0Jf5YsefLjmuQap",
+        "direction": "outbound",
+        "type": 38,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "Employee action log created",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:13:02.302Z",
+        "dateUpdated": "2026-09-23T14:13:02.302Z",
+        "source": "app",
+        "from": "Clínica Multiodonto Odontologia",
+        "to": "+5521983316374",
+        "activity": {
+          "data": {
+            "contactId": "b14ScFRjb66fwKZgbSS9",
+            "agentId": "3Fzfmx7ViwyD9v16h4DR",
+            "contactUpdateAction": [
+              {
+                "actionName": "Procedimento Solicitado",
+                "value": "avaliação",
+                "field": {
+                  "contactFieldName": "procedimento_solicitado"
+                }
+              }
+            ]
+          },
+          "title": "Employee action log created",
+          "type": "employee_action_log_created"
+        },
+        "messageType": "TYPE_ACTIVITY_EMPLOYEE_ACTION_LOG"
+      },
+      {
+        "id": "1zMkhF8QdOVEPeQkCmW2",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "avaliação",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:12:49.559Z",
+        "dateUpdated": "2026-09-23T14:12:49.559Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "fLGiJo9KAudZMAwlMJaw",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Ótimo! Só para confirmar: o atendimento será para clínico geral, correto? Algum de vocês precisa de avaliação, limpeza ou tem algum sintoma específico?",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:10:49.928Z",
+        "dateUpdated": "2026-09-23T14:10:51.259Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "nMtDF4dTV866Mz3nsFNV",
+        "direction": "outbound",
+        "type": 38,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "Employee action log created",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:10:44.718Z",
+        "dateUpdated": "2026-09-23T14:10:44.718Z",
+        "source": "app",
+        "from": "Clínica Multiodonto Odontologia",
+        "to": "+5521983316374",
+        "activity": {
+          "data": {
+            "contactId": "b14ScFRjb66fwKZgbSS9",
+            "agentId": "3Fzfmx7ViwyD9v16h4DR",
+            "contactUpdateAction": [
+              {
+                "actionName": "Telefone",
+                "value": "21983316374",
+                "field": {
+                  "contactFieldName": "telefone"
+                }
+              },
+              {
+                "actionName": "Endereço Completo",
+                "value": "23071160 estrada sta maria 1510 Campo Grande",
+                "field": {
+                  "contactFieldName": "Endereço Completo"
+                }
+              }
+            ]
+          },
+          "title": "Employee action log created",
+          "type": "employee_action_log_created"
+        },
+        "messageType": "TYPE_ACTIVITY_EMPLOYEE_ACTION_LOG"
+      },
+      {
+        "id": "oSQYWR3c67DQsKPHLlbb",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "sim",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:10:34.059Z",
+        "dateUpdated": "2026-09-23T14:10:34.059Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "IpykfP5U6wmlQUnEAbnK",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Cadastro concluído! Agora, só confirmando: vocês preferem atendimento na unidade Campo Grande, correto?",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:10:26.556Z",
+        "dateUpdated": "2026-09-23T14:10:28.074Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "SbyWCRI7tKTvpsDVXV50",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "telefone 21983316374\n23071160 estrada sta maria 1510 Campo Grande",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:10:09.863Z",
+        "dateUpdated": "2026-09-23T14:10:09.863Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "9QF7xOWURNDEds6AVuSw",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Perfeito, Geny! Agora, por favor, me informe o endereço completo e um telefone de contato. Assim já seguimos para o agendamento. 😊",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:09:36.491Z",
+        "dateUpdated": "2026-09-23T14:09:37.821Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "NfKRmcOpc0BAZZeBqiDG",
+        "direction": "outbound",
+        "type": 38,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "Employee action log created",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:09:35.141Z",
+        "dateUpdated": "2026-09-23T14:09:35.141Z",
+        "source": "app",
+        "from": "Clínica Multiodonto Odontologia",
+        "to": "+5521983316374",
+        "activity": {
+          "data": {
+            "contactId": "b14ScFRjb66fwKZgbSS9",
+            "agentId": "3Fzfmx7ViwyD9v16h4DR",
+            "contactUpdateAction": [
+              {
+                "actionName": "CPF responsável",
+                "value": "22393806750",
+                "field": {
+                  "contactFieldName": "CPF do responsável"
+                }
+              }
+            ]
+          },
+          "title": "Employee action log created",
+          "type": "employee_action_log_created"
+        },
+        "messageType": "TYPE_ACTIVITY_EMPLOYEE_ACTION_LOG"
+      },
+      {
+        "id": "BD4Rpp5ut3zgX31wH2vR",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "12750380774 GENY",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:09:17.004Z",
+        "dateUpdated": "2026-09-23T14:09:17.004Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "qavIemySTD9jdZlGeIRC",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "22393806750 LARISSA",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:09:11.351Z",
+        "dateUpdated": "2026-09-23T14:09:11.351Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "12yV5gPVaIVQ19k4H6hD",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Ótimo, obrigada! Agora, por favor, me informe o CPF da Larissa e o seu CPF. Depois, peço o endereço e telefone para finalizar o cadastro.",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:08:31.562Z",
+        "dateUpdated": "2026-09-23T14:08:32.940Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "0TiL3LMrhcz5lw82HGRR",
+        "direction": "outbound",
+        "type": 38,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "Employee action log created",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:08:30.646Z",
+        "dateUpdated": "2026-09-23T14:08:30.646Z",
+        "source": "app",
+        "from": "Clínica Multiodonto Odontologia",
+        "to": "+5521983316374",
+        "activity": {
+          "data": {
+            "contactId": "b14ScFRjb66fwKZgbSS9",
+            "agentId": "3Fzfmx7ViwyD9v16h4DR",
+            "contactUpdateAction": [
+              {
+                "actionName": "Nome paciente",
+                "value": "LARISSA CABRAL DE SOUZA MOTA",
+                "field": {
+                  "contactFieldName": "Nome Paciente"
+                }
+              },
+              {
+                "actionName": "Idade",
+                "value": "16",
+                "field": {
+                  "contactFieldName": "idade"
+                }
+              }
+            ]
+          },
+          "title": "Employee action log created",
+          "type": "employee_action_log_created"
+        },
+        "messageType": "TYPE_ACTIVITY_EMPLOYEE_ACTION_LOG"
+      },
+      {
+        "id": "4Em58xm9OS5TweRJF4aU",
+        "direction": "outbound",
+        "type": 38,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "Employee action log created",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:08:22.349Z",
+        "dateUpdated": "2026-09-23T14:08:22.349Z",
+        "source": "app",
+        "from": "Clínica Multiodonto Odontologia",
+        "to": "+5521983316374",
+        "activity": {
+          "data": {
+            "contactId": "b14ScFRjb66fwKZgbSS9",
+            "agentId": "3Fzfmx7ViwyD9v16h4DR",
+            "contactUpdateAction": [
+              {
+                "actionName": "Nome paciente",
+                "value": "LARISSA CABRAL DE SOUZA MOTA",
+                "field": {
+                  "contactFieldName": "Nome Paciente"
+                }
+              },
+              {
+                "actionName": "Idade",
+                "value": "16",
+                "field": {
+                  "contactFieldName": "idade"
+                }
+              },
+              {
+                "actionName": "Data de Nascimento",
+                "value": "2010-04-13",
+                "field": {
+                  "contactFieldName": "Data de Nascimento"
+                }
+              }
+            ]
+          },
+          "title": "Employee action log created",
+          "type": "employee_action_log_created"
+        },
+        "messageType": "TYPE_ACTIVITY_EMPLOYEE_ACTION_LOG"
+      },
+      {
+        "id": "Hwe1XenMas9ZgWFjKSrg",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "GENY KAREN CABRAL DE SOUZA\n37 ANOS \n24/02/1989",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:08:11.936Z",
+        "dateUpdated": "2026-09-23T14:08:11.936Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "oQUsLu0Qsa4fwjDD7Ah0",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "LARISSA CABRAL DE SOUZA MOTA\n16 ANOS \n13/04/2010",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:07:57.110Z",
+        "dateUpdated": "2026-09-23T14:07:57.110Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "sTIKk3zdzpUYUfGfja4F",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Claro! Vou te ajudar com os dois agendamentos. Primeiro, preciso dos dados da sua filha: nome completo, idade e data de nascimento, por favor. 👧",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:07:06.224Z",
+        "dateUpdated": "2026-09-23T14:07:07.572Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "03Aguk5T64sUFEgMAGQl",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "Gostaria de agendar para minha filha e pra mim",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:06:44.100Z",
+        "dateUpdated": "2026-09-23T14:06:44.100Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "LidZAodh5gogbyGWcFeR",
+        "direction": "outbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "attachments": [],
+        "body": "Olá! Aceitamos o plano odontológico da Unimed para consultas de clínico geral e procedimentos básicos, tanto em Campo Grande quanto na Barra da Tijuca. Posso te ajudar a agendar uma avaliação? 😊",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:05:57.977Z",
+        "dateUpdated": "2026-09-23T14:05:59.839Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "stevo",
+        "to": "+5521983316374",
+        "messageType": "TYPE_CUSTOM_SMS"
+      },
+      {
+        "id": "Syc1RAuZwShYGc49nlhl",
+        "direction": "inbound",
+        "status": "delivered",
+        "type": 20,
+        "locationId": "3R4hY0j3TJyj2SkmSQL3",
+        "body": "bom dia aceitam plano odontologico da Unimed?",
+        "contactId": "b14ScFRjb66fwKZgbSS9",
+        "contentType": "text/plain",
+        "conversationId": "GQoEj1mESERHCL0jX8P6",
+        "dateAdded": "2026-09-23T14:05:39.023Z",
+        "dateUpdated": "2026-09-23T14:05:39.023Z",
+        "source": "api",
+        "conversationProviderId": "682cdb5dc127505befd9fc7e",
+        "from": "+5521983316374",
+        "to": "Clínica Multiodonto Odontologia",
+        "meta": {
+          "marketplace": {
+            "appId": "682cd9287059b4173d8b17bd",
+            "appName": "STEVO"
+          }
+        },
+        "messageType": "TYPE_CUSTOM_SMS"
+      }
+    ]
+  },
+  "traceId": "c042840f-3957-46ff-b6ce-5136056e9b66"
+}

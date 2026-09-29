@@ -1,0 +1,127 @@
+{
+  "pipelines": [
+    {
+      "id": "FTE8a7obmdzlGXLObCuj",
+      "name": "Atendimento Pello Menos",
+      "showInFunnel": false,
+      "showInPieChart": false,
+      "useOpportunityProbability": false,
+      "dateAdded": "2026-07-27T15:00:05.556Z",
+      "dateUpdated": "2026-07-27T15:00:05.556Z",
+      "stages": [
+        {
+          "id": "f3b8f438-a513-40af-8d83-585390af54e4",
+          "name": "Triagem",
+          "showInFunnel": false,
+          "showInPieChart": false,
+          "position": 0,
+          "stageWinProbability": 20
+        },
+        {
+          "id": "d195590f-bfae-47a9-b068-40ce52a9e573",
+          "name": "Em atendimento",
+          "showInFunnel": false,
+          "showInPieChart": false,
+          "position": 1,
+          "stageWinProbability": 40
+        },
+        {
+          "id": "68c604d9-f835-4eb6-b429-896c39088af9",
+          "name": "Qualificado",
+          "showInFunnel": false,
+          "showInPieChart": false,
+          "position": 2,
+          "stageWinProbability": 60
+        },
+        {
+          "id": "df712047-e1bd-4e5a-8de0-a678438b5eb2",
+          "name": "Fechado",
+          "showInFunnel": false,
+          "showInPieChart": false,
+          "position": 3,
+          "stageWinProbability": 80
+        }
+      ],
+      "locationId": "xXSw3xjZQTFUqIEI3VSR",
+      "position": "Zzs8HOf"
+    },
+    {
+      "id": "RHT4ev5zDfioqAqllNtD",
+      "name": "Pipeline de Vendas",
+      "showInFunnel": false,
+      "showInPieChart": false,
+      "useOpportunityProbability": false,
+      "dateAdded": "2026-07-27T15:20:45.907Z",
+      "dateUpdated": "2026-07-27T15:20:45.907Z",
+      "stages": [
+        {
+          "id": "b0694c0c-83e5-4681-b1b4-8b045b63d955",
+          "name": "Novo Lead [Chatbot]",
+          "showInFunnel": false,
+          "showInPieChart": false,
+          "position": 0,
+          "stageWinProbability": 11.11
+        },
+        {
+          "id": "0e19cedf-4871-46c3-9797-302a0e9b9093",
+          "name": "Em Atendimento [Humano]",
+          "showInFunnel": false,
+          "showInPieChart": false,
+          "position": 1,
+          "stageWinProbability": 22.22
+        },
+        {
+          "id": "d86cd8d6-c292-402c-8c24-6713a337d7c8",
+          "name": "Comanda de Cortesia Aberta",
+          "showInFunnel": false,
+          "showInPieChart": false,
+          "position": 2,
+          "stageWinProbability": 33.33
+        },
+        {
+          "id": "c63c6e90-2176-4635-ba41-6f936e68b6d0",
+          "name": "Em Negociacao",
+          "showInFunnel": false,
+          "showInPieChart": false,
+          "position": 3,
+          "stageWinProbability": 44.44
+        },
+        {
+          "id": "68eae16e-c7c1-4744-906d-c6a1c4c18795",
+          "name": "Link Enviado | Laser",
+          "showInFunnel": false,
+          "showInPieChart": false,
+          "position": 4,
+          "stageWinProbability": 55.56
+        },
+        {
+          "id": "aee7f249-962b-494e-aeca-c4606639509a",
+          "name": "Vendido | Laser",
+          "showInFunnel": false,
+          "showInPieChart": false,
+          "position": 5,
+          "stageWinProbability": 66.67
+        },
+        {
+          "id": "b8a211ea-351d-4a21-a11c-ec31f2ffdf82",
+          "name": "Interesse em Cera",
+          "showInFunnel": false,
+          "showInPieChart": false,
+          "position": 6,
+          "stageWinProbability": 77.78
+        },
+        {
+          "id": "56b4a18c-cdce-4d4b-b3bf-ad3660c81b71",
+          "name": "Parou de Responder",
+          "showInFunnel": false,
+          "showInPieChart": false,
+          "position": 7,
+          "stageWinProbability": 88.89
+        }
+      ],
+      "locationId": "xXSw3xjZQTFUqIEI3VSR",
+      "position": "ZzxN2M2t"
+    }
+  ],
+  "traceId": "a1bcce76-44ad-4498-a41f-542a52b3245a"
+}

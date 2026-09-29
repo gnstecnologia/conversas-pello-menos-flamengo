@@ -1,0 +1,1439 @@
+{
+  "range": {
+    "start": "2026-08-01T00:00:00-03:00",
+    "end_exclusive": "2026-08-19T00:00:00-03:00"
+  },
+  "scan": {
+    "conv_pages": 43,
+    "convs_checked": 860,
+    "conv_leads": 166,
+    "ad_search_leads": 6,
+    "contact_search_leads": 0,
+    "total_unique": 166
+  },
+  "by_ad": {
+    "120253509877330523": 12,
+    "120253508815200523": 10,
+    "120245782879890523": 52,
+    "120253510024870523": 7,
+    "120248618435700523": 28,
+    "120244183810290523": 57
+  },
+  "by_tag": {
+    "a hora é agora - trafego": 12,
+    "sus - trafego": 10,
+    "coisas com a cdt - trafego": 52,
+    "ana mari - trafego": 7,
+    "só legenda - trafego": 28,
+    "com a cdt - trafego": 57
+  },
+  "tagged_before": {
+    "ok": 156,
+    "by_tag": {
+      "sus - trafego": 8,
+      "só legenda - trafego": 27,
+      "coisas com a cdt - trafego": 48,
+      "com a cdt - trafego": 56,
+      "a hora é agora - trafego": 11,
+      "ana mari - trafego": 6
+    }
+  },
+  "apply": {
+    "missing_tag_before": 10,
+    "missing_field_before": 10,
+    "applied": [
+      {
+        "contactId": "KEhqPlLVXCtYiDf0Clko",
+        "tag": "sus - trafego",
+        "ad": "120253508815200523"
+      },
+      {
+        "contactId": "NUoPG9hZfWrhU4qtBHM7",
+        "tag": "coisas com a cdt - trafego",
+        "ad": "120245782879890523"
+      },
+      {
+        "contactId": "wYAvlPw0pkOaDpsm0Ua2",
+        "tag": "ana mari - trafego",
+        "ad": "120253510024870523"
+      },
+      {
+        "contactId": "sFSqohLVtKUDyfOyaguV",
+        "tag": "sus - trafego",
+        "ad": "120253508815200523"
+      },
+      {
+        "contactId": "yfeVBJfAOSh4qozKxYZu",
+        "tag": "coisas com a cdt - trafego",
+        "ad": "120245782879890523"
+      },
+      {
+        "contactId": "2VW3Ygkq9DdnR5LKhN41",
+        "tag": "coisas com a cdt - trafego",
+        "ad": "120245782879890523"
+      },
+      {
+        "contactId": "MRP1ewC8uFq3SGUP9M26",
+        "tag": "coisas com a cdt - trafego",
+        "ad": "120245782879890523"
+      },
+      {
+        "contactId": "XO7nJ3ker3xM6k8c5rCt",
+        "tag": "a hora é agora - trafego",
+        "ad": "120253509877330523"
+      },
+      {
+        "contactId": "Q3hcW9myabs6geDgKTb6",
+        "tag": "com a cdt - trafego",
+        "ad": "120244183810290523"
+      },
+      {
+        "contactId": "H9FDUQevclDArTFHKlEl",
+        "tag": "só legenda - trafego",
+        "ad": "120248618435700523"
+      }
+    ],
+    "errors": []
+  },
+  "tagged_after": {
+    "ok": 165,
+    "by_tag": {
+      "sus - trafego": 10,
+      "só legenda - trafego": 28,
+      "coisas com a cdt - trafego": 52,
+      "com a cdt - trafego": 57,
+      "a hora é agora - trafego": 12,
+      "ana mari - trafego": 6
+    }
+  },
+  "leads": [
+    {
+      "contactId": "BQvBuKtluumVHIAUf9tX",
+      "conv": "PgdffAfpwXlzohIGy2IP",
+      "ad": "120253509877330523",
+      "tag": "a hora é agora - trafego",
+      "date": "2026-08-18T20:54:31.495000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "KEhqPlLVXCtYiDf0Clko",
+      "conv": "RB4nSabOVZbZzmcx0vKh",
+      "ad": "120253508815200523",
+      "tag": "sus - trafego",
+      "date": "2026-08-19T02:57:42.596000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "NUoPG9hZfWrhU4qtBHM7",
+      "conv": "NpQnOgRhuwI0q692PJsG",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-19T00:33:05.170000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "wYAvlPw0pkOaDpsm0Ua2",
+      "conv": "9PcU8pFPGmc1ULci48Ax",
+      "ad": "120253510024870523",
+      "tag": "ana mari - trafego",
+      "date": "2026-08-18T21:25:34.860000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "sFSqohLVtKUDyfOyaguV",
+      "conv": "LsqGKAaHdu3Ukx5JXk4z",
+      "ad": "120253508815200523",
+      "tag": "sus - trafego",
+      "date": "2026-08-18T23:42:54.629000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "waCVkl7fmISImSQzWXA4",
+      "conv": "Q8parhvTbQwNPyRjYwg0",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-18T20:32:25.649000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "oOTRVXEvM7qGgndOyInO",
+      "conv": "Fho3IphxPSRTrHYrPlym",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-18T20:41:33.459000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "d57J1Zl4wZAhcBf4eYpH",
+      "conv": "kXFHoOiXbl0BYSaYwRQ7",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-18T19:31:26.874000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "yfeVBJfAOSh4qozKxYZu",
+      "conv": "A1EIBoBHqz2XeRwQVpzk",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-18T22:55:00.355000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "2VW3Ygkq9DdnR5LKhN41",
+      "conv": "5GUbTCco4ycn6vLLKeQa",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-19T02:27:01.750000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "MRP1ewC8uFq3SGUP9M26",
+      "conv": "iTwQ9b0PjH1roY6l4LPm",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-18T23:54:21.323000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "XO7nJ3ker3xM6k8c5rCt",
+      "conv": "OrcGqeOuNNCMupDKjSFz",
+      "ad": "120253509877330523",
+      "tag": "a hora é agora - trafego",
+      "date": "2026-08-18T21:44:09.791000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "Q3hcW9myabs6geDgKTb6",
+      "conv": "Gv3ZBSucRJjXIYFmeEu3",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-18T21:24:30.463000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "j7TagLHiYAwpUmK5Afkf",
+      "conv": "t70AHWP4GXERnL6U0v9b",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-18T20:43:16.939000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "7jwHYFGQziInZNYfD9wI",
+      "conv": "S4ENCSvMnhZrqsrxBZnV",
+      "ad": "120253509877330523",
+      "tag": "a hora é agora - trafego",
+      "date": "2026-08-18T20:35:26.295000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "H9FDUQevclDArTFHKlEl",
+      "conv": "g35NsOiUwY6XtLJXldGB",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-18T23:08:49.276000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "YCKB34NMnuPk8RKkmBHJ",
+      "conv": "qkS0TBJIDpdZPqRVejIY",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-06T00:45:20.067000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "FcdijGK5MDQNVhruba7l",
+      "conv": "SIPBz3VLXtRBcAxsyd4f",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-18T20:59:47.684000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "KmpSC3PRgZ8BN7ohFqJ2",
+      "conv": "MLHBM1jo92zSdtB4bGHf",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-18T20:28:42.559000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "YhdT199allQr3oo6Gldw",
+      "conv": "DmjekY5sLy9PiY5Oks2K",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-18T19:43:49.634000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "5FiQa7JO0IBkhBWfq7St",
+      "conv": "IsCgagqSpo3AxcIq9HAe",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-18T18:57:43.987000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "SjdFByeXQKNrkP7GbxL8",
+      "conv": "Akv2432vGkbCSc7NCQh1",
+      "ad": "120253508815200523",
+      "tag": "sus - trafego",
+      "date": "2026-08-12T20:09:25.679000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "aMT7pqKZ9oska4qZ3qj6",
+      "conv": "c64PTD0D57ZFPr0Fopns",
+      "ad": "120253509877330523",
+      "tag": "a hora é agora - trafego",
+      "date": "2026-08-15T15:09:23.096000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "MIesvtTxfER40iwV5IuT",
+      "conv": "h4zAk0VYNRQ5wSPZTtRF",
+      "ad": "120253510024870523",
+      "tag": "ana mari - trafego",
+      "date": "2026-08-15T18:42:52.452000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "bzreBK7u3XW4vJAILLpF",
+      "conv": "dob3xojBY5YWG55Tm6PC",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-15T12:37:20.138000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "SiCk5FCD5uM17svoq3Ay",
+      "conv": "mfwQDHmF4CrfmEZMro2x",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-15T08:30:18.437000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "ByT8c0ac64Vzd5foFr85",
+      "conv": "u4Ig9BEifQqNwjqf3mAQ",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-14T00:35:50.252000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "YTRyEuksEkM8NqGIfROZ",
+      "conv": "Z5dBFHgUChrtqfU9B1QT",
+      "ad": "120253509877330523",
+      "tag": "a hora é agora - trafego",
+      "date": "2026-08-14T14:03:11.298000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "32OsIiino0SBAACaP0OM",
+      "conv": "AxHEf2Kp7R9um3fQtSvW",
+      "ad": "120253510024870523",
+      "tag": "ana mari - trafego",
+      "date": "2026-08-15T13:47:44.863000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "TUZyjcsd6uu6heeEZQGi",
+      "conv": "V8juTRWkJDpQUFLkThsK",
+      "ad": "120253509877330523",
+      "tag": "a hora é agora - trafego",
+      "date": "2026-08-14T22:27:34.850000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "OeYW302LryOlEZdpB4kr",
+      "conv": "rztC0QJXQN0XByZOen0d",
+      "ad": "120253510024870523",
+      "tag": "ana mari - trafego",
+      "date": "2026-08-14T18:50:42.400000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "GykedoCSHb2nBELS3G1L",
+      "conv": "wPWGMjBFfZxVD6LxD4RU",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-14T20:57:20.751000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "xAniGDvsuwBJOWY3XNSr",
+      "conv": "NBmoxMnzQ4ObdOUi5r6q",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-14T23:51:36.453000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "Vp1VnzNpxNLFtp1CiJAj",
+      "conv": "3kXoFONAe2n6cZccdajC",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-15T01:24:40.624000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "QmOc0FkuzW3kvKUm9AP5",
+      "conv": "kv7OcDfOZd4LPkgtzmYq",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-15T00:30:20.924000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "MkcHYIuSwsJEd3NIR7wg",
+      "conv": "rskEEhc2yNRSN6jpLJv4",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-14T00:58:20.388000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "BaksPRt2QXSbAuwabEOG",
+      "conv": "GhkEmKcgPw88aEH7LR1o",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-13T22:37:30.219000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "jQKiHDoxmm19iffFQtKk",
+      "conv": "0ZPxCzZY7XDqjEYeYb9C",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-14T02:43:02.917000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "eDOtUjJSqjh2HnnnCMuK",
+      "conv": "bdefLA2Vc3L31Qwo1CLk",
+      "ad": "120253508815200523",
+      "tag": "sus - trafego",
+      "date": "2026-08-14T14:09:00.610000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "yd8EIU5q2yRuTjY6PpYi",
+      "conv": "1U4hz0j2LkC9oyCTBVJi",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-14T16:48:52.571000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "asbkrBvqO4zXnzwyZDzU",
+      "conv": "vOT9BvUgcI9WcTeLwXnx",
+      "ad": "120253509877330523",
+      "tag": "a hora é agora - trafego",
+      "date": "2026-08-14T16:48:04.270000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "0bN0xGuTGDdLej3IHksS",
+      "conv": "R1F8Cf1Db1jyfSrYswIx",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-14T13:26:18.251000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "J9yZD2dndTYrcbv91sfO",
+      "conv": "X6AhcsgzmVZZMWcSqL83",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-08T19:05:45.696000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "8IyzeCwuCRhMmUT3NyHM",
+      "conv": "h7Fc4HWp0zDwK5ukFiWz",
+      "ad": "120253508815200523",
+      "tag": "sus - trafego",
+      "date": "2026-08-13T16:02:01.801000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "ypFVGUbBxRF5dsiFlYqa",
+      "conv": "DEJvsgLDh4wwUUHuZ4MA",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-13T10:45:24.153000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "JH04yhUSgOLxFiayEOl5",
+      "conv": "Y4KmtwZtSART6NIz0B8J",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-12T22:11:16.876000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "YhfxoxHzvc3TWnnvGmiz",
+      "conv": "LIPvae4eqMA82RxwGmf4",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-13T12:57:35.296000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "uIyxmnTPSQnLf7AIEI8f",
+      "conv": "c25U51zF9BnbDufl0R6k",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-13T19:08:03.560000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "CK4UYftNErbGW87azfWI",
+      "conv": "Oo8CAmxJeSR5nRZPtsfk",
+      "ad": "120253508815200523",
+      "tag": "sus - trafego",
+      "date": "2026-08-13T21:17:48.721000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "T4eAPeQSQ6it7UZi25GX",
+      "conv": "eoEfWBpmC2CFq5V1tUcf",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-14T00:53:23.202000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "1ZOoIIJbCOq1ghupyvVz",
+      "conv": "wPoxDIICtpMc8ULvbLXR",
+      "ad": "120253510024870523",
+      "tag": "ana mari - trafego",
+      "date": "2026-08-14T03:51:52.184000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "lhXDhN2FN8hMlzv7Dgyj",
+      "conv": "VlpWWpBth5B3gZGcBw6Z",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-14T09:45:39.883000+00:00",
+      "source": "ad_search"
+    },
+    {
+      "contactId": "jeaYIkgGJp4847d9LFSb",
+      "conv": "KN6o361ayNSdhqyWEe4S",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-14T00:00:13.863000+00:00",
+      "source": "ad_search"
+    },
+    {
+      "contactId": "3wkwThsqjHoZoVNKZQir",
+      "conv": "oMA0RD8op3K8ZNGU7UBU",
+      "ad": "120253509877330523",
+      "tag": "a hora é agora - trafego",
+      "date": "2026-08-13T19:21:58.830000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "IsAxGUAd1YAF2HcWerWq",
+      "conv": "zQxfu18KMFxRue9vQ1sn",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-13T20:05:22.361000+00:00",
+      "source": "ad_search"
+    },
+    {
+      "contactId": "oGkHgchOkadjfz60vQw1",
+      "conv": "e5SxTRZeDVI6ZNd9ln2b",
+      "ad": "120253508815200523",
+      "tag": "sus - trafego",
+      "date": "2026-08-13T14:37:30.444000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "vSAhdQ1n6RMmEL5fGC07",
+      "conv": "RE0yq5nnhcS2pD5JdoNZ",
+      "ad": "120253509877330523",
+      "tag": "a hora é agora - trafego",
+      "date": "2026-08-13T11:51:55.037000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "zBqt7o9DZCrv04WLcpE8",
+      "conv": "jo3rOhRlIuEaj0jEuKkk",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-13T10:23:15+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "Vyp7TQPi5xrzlu5XnWq5",
+      "conv": "uOaspAYfvEglInUJYqFn",
+      "ad": "120253508815200523",
+      "tag": "sus - trafego",
+      "date": "2026-08-12T19:57:49.902000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "J0I4m9YwjjnjeGJw7stP",
+      "conv": "32DVv6dij4Sz3CQYN2z2",
+      "ad": "120253508815200523",
+      "tag": "sus - trafego",
+      "date": "2026-08-12T17:04:14.713000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "6uxGKBfR4d0ixLgVGjbf",
+      "conv": "NemrOGHtGAt7lOzxtOOh",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-13T18:28:52.172000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "3PaINugz4iPUkUM6Cay0",
+      "conv": "drRR3wJ6LHfhGBKLKvt2",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-12T13:44:29.231000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "x4N6bOsfGlE32tqthUJ2",
+      "conv": "hpe5DxqudFavkOMOBWUQ",
+      "ad": "120253509877330523",
+      "tag": "a hora é agora - trafego",
+      "date": "2026-08-12T10:50:39.529000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "lNhI1Gwsbz0Vm2SKc1Eo",
+      "conv": "0aSdFXBXdNH4wmdteCKF",
+      "ad": "120253509877330523",
+      "tag": "a hora é agora - trafego",
+      "date": "2026-08-12T10:12:08.912000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "4Gcs8w6V7ShGUSfJKhKH",
+      "conv": "6oH1wlHOEM06ZYaPHobA",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-12T06:50:36.834000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "BiOhHHNXgiEq4k81cMvG",
+      "conv": "QjFLV8SH3VDUM8Xnpwp0",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-13T12:09:14.484000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "29jKz6T3w9KsOEKgmMDu",
+      "conv": "nLlapWsP2VUrYv1WhuCw",
+      "ad": "120253509877330523",
+      "tag": "a hora é agora - trafego",
+      "date": "2026-08-13T12:18:14.634000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "7TtRxBGCLoH3azpI3Fh6",
+      "conv": "003nIHlj1LbylWpKToca",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-09T21:18:32.882000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "qwSHIQUyo2yiYLNxkSbC",
+      "conv": "xLYGlfn9SsKfV0n5SQvw",
+      "ad": "120253510024870523",
+      "tag": "ana mari - trafego",
+      "date": "2026-08-12T04:06:29.541000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "zFqP5f89prec1jjw8l3g",
+      "conv": "ussL7vpkw7TB6BWRB3R5",
+      "ad": "120253508815200523",
+      "tag": "sus - trafego",
+      "date": "2026-08-12T14:39:57.533000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "IlvjJrsmZnP70u4nkeqc",
+      "conv": "J1rpH1Znn0hBLCtacjp8",
+      "ad": "120253510024870523",
+      "tag": "ana mari - trafego",
+      "date": "2026-08-12T01:26:48.822000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "7nEtLjTnTSlSSbP4whfV",
+      "conv": "kkc8aHY0cc1J7wAGAOPA",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-12T16:03:28.945000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "guZUXMIANYbcJrvwDQTf",
+      "conv": "fdlrmNqa0ZRhzjHjN000",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-12T14:13:34.395000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "B67xMFuFERM2dXLvEWWi",
+      "conv": "7jzpc8Fy9ebSXNxoDWRQ",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-12T13:50:08.621000+00:00",
+      "source": "ad_search"
+    },
+    {
+      "contactId": "eZapMoyHU2g7lFRI858D",
+      "conv": "3QamR83YAxHX8bMAYXON",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-09T01:37:56.483000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "ZwzhYxcS2wJo5n35eezN",
+      "conv": "U1tEKsQda7aJzfQ1BoVJ",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-08T09:43:41.305000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "CZ1CV4BkaayqQoeMKy2h",
+      "conv": "g3asjZUiDA0bZl5zi9ir",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-06T18:54:59.923000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "wXmQe3Y85GTQAamh3hjp",
+      "conv": "Xn43UeGqpGdWU4duyhut",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-06T16:58:38.328000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "rdQdJyhsNfl57eKUKvvq",
+      "conv": "E4stGlhdrxaTdE3PBWWk",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-06T15:00:15.649000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "wv2LJlnI3qKenOEeov8p",
+      "conv": "Q8NIZEPDuUYfcfWEyS6F",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-10T06:10:06.488000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "Rvu2esS4Os2paIa7yovk",
+      "conv": "f7xKANTBOZhnURHumwRg",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-10T10:17:51.071000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "H7TCW9qeac0pWNgJkMMf",
+      "conv": "R29dx5n0SdQPjpZBXpJa",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-09T23:52:41.665000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "WBdSOaSSVKPRGWVqRrtz",
+      "conv": "UtGmfinAOcbdlErb6f0G",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-10T09:54:56.230000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "fQpvrRaxURSfgQwWYnLp",
+      "conv": "wbJvEPwlXY1raNWwU7XG",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-09T23:24:14.703000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "iJdybbqKYAdJQBKfWEdJ",
+      "conv": "MzNb7tBy6ALBTbRlBUzr",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-09T22:52:15.992000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "ZBS9QfeokpTxwAEi9lKo",
+      "conv": "CPl6zu1b1nPdg24PGD4O",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-10T19:24:03.847000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "aSpIDMTdj9M0Qn7Nq9Ys",
+      "conv": "UUs3G30uDFIxgNuAQRxj",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-10T19:52:24.224000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "HFxFtekU60734zsOaIeh",
+      "conv": "YUFe4XTIPnkNqKGso9dg",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-11T18:26:56.806000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "WzZJfF3LoNdMaLEf4MtI",
+      "conv": "ulIKHHtbvoNpibXRyXh9",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-10T12:38:10.593000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "kFB1fhQv1lsguZHXENJY",
+      "conv": "5cJRr7KCluJ8s3sfhCBB",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-08T15:49:47.850000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "f6Uf9A1tH5yuE2LDAYKG",
+      "conv": "3kNNWyLKFHBZZh1tS3yo",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-08T20:52:33.853000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "ez2JVScbXoBP3avSnlC1",
+      "conv": "UfYlVmD5uYtFyY2EwljF",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-11T14:28:20.243000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "5Tv33K1LPlQUXQfgJ1mO",
+      "conv": "vI9nhi3BvhGP7lZmbWA4",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-11T10:55:40.252000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "X9UBAaUxnrcVmZB8qKcX",
+      "conv": "dC0eojJZ4ubcwlUmuJuh",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-10T12:23:44.768000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "HzYU7rzxmmjXVF3juxcJ",
+      "conv": "ecIAvdELuP5ZdAit5m8s",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-11T11:15:05.503000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "X2ad1nHByWUFYggiKQSO",
+      "conv": "7TEqExNBj0xp0xZyafDD",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-11T09:29:25.963000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "X5nRN286P30Y7pJXtHm2",
+      "conv": "6jkBm3CxsWqznIjxttNw",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-10T19:57:40.166000+00:00",
+      "source": "ad_search"
+    },
+    {
+      "contactId": "rSXACGzRloUomIPhcloS",
+      "conv": "5gSrIIxFnAG6SkAHvGe4",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-10T11:00:43.366000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "cvi1gxXouHId0cFCcWHW",
+      "conv": "0a0RsvgFol5efdZJg3n3",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-10T15:10:34.212000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "VWbTL5aq5zOPCgwxLrDb",
+      "conv": "eR4qoGXpv7qLZaAofRvF",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-04T23:26:40.546000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "j5mdN9ww24BNEMaFWSVz",
+      "conv": "sEk1ePRiwO6eKspMFnSX",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-09T17:52:18.806000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "01pjo5GY6nSjKx4eBv5f",
+      "conv": "wTiiGGyxtT87enjbI8Wg",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-09T13:28:57.427000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "V4qQOmymZ3lvV2sv6guR",
+      "conv": "jMqFy7GujdNHtQCjtncP",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-08T16:34:44.995000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "5D5ctWdIXia0PmPGtidI",
+      "conv": "zYRqoQGLoyJNCR1T4DA7",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-08T14:54:51.781000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "BRztEJy6umcBYjguOcgK",
+      "conv": "nuPm2GqsRt0SOE5Ol9ka",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-08T13:52:29.111000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "f2ATLGyfNrhEABbX5Aq5",
+      "conv": "De8KbpDTjzNcP8MQt43a",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-07T20:41:49.450000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "Hy3IEMuxGIccaqzniKtB",
+      "conv": "lII8Pp3LBm5Sj9GjEH8Q",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-07T18:38:00.138000+00:00",
+      "source": "ad_search"
+    },
+    {
+      "contactId": "VGRxL7eQ6strZT9yaJLz",
+      "conv": "5bSgyLckQL79oCxzMuAI",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-05T16:46:45.625000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "auf7hvdrzuZhfVfYbQUJ",
+      "conv": "f5p2fiwkak1H7QjRXMMH",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-07T17:44:34.951000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "nXtoA3Iu5WSGdh980W4E",
+      "conv": "Jso8S8UlrHVKxEdBmnuj",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-05T22:35:09.094000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "QCWmFsKtUPGz6YNDqElU",
+      "conv": "nW9HPZAw3yjQcRpQgYWu",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-06T01:33:44.472000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "bsgEVHX1TCcprwwbEeIt",
+      "conv": "tUDwOhVCRdw48hH7eo5n",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-07T11:27:24.576000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "Hch9YgO9CnFAYc5YywO7",
+      "conv": "xkSDNnLIWyZ0RSS9KfnG",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-06T22:10:07.591000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "zGYbd4OiyLqkZ1y3wNKW",
+      "conv": "BtsNOv0vn5VsYCDV34VF",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-06T23:43:27.883000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "aR0nBNRFzCXk5bhWcgNy",
+      "conv": "kcX2oKPRdt2mRKy5k2dR",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-05T20:43:18.488000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "UqxddBfA0rDGBzyuU4Vh",
+      "conv": "5ddFc6XiLtwdzOUM2LaT",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-06T21:25:35.747000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "GX0BoOSGOrlBwb9hFnlL",
+      "conv": "cFmrFgflLM0gnJLjA59o",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-06T16:02:57.983000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "ciRUw9UqE32gMe4sFnLb",
+      "conv": "yblgNuE3lDn0mPdnPGrX",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-03T14:08:14.179000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "1XcRhgfmLtJCfhI7Wfdy",
+      "conv": "rl3WHs3gq42eqXQ6TVfy",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-03T12:19:56.624000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "JLi14EmAtoDxfmBlbbne",
+      "conv": "XA3B8eS8icpSNYiHMM5u",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-02T20:13:38.302000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "jHLAlXfxPQE4v8yG6ZAU",
+      "conv": "NOV8v27WOwBvrOBKIqaE",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-04T20:30:43.168000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "uSYdoN84g4H071owRzuH",
+      "conv": "NGJvyP6igrv5aLvlG0hB",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-05T11:51:16.355000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "SBzhkqlaK2iQGywfVQMF",
+      "conv": "0DwpOjpbt0HVi5513wMq",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-05T04:27:52.531000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "BSenhOrkUJHYFMZCD7T2",
+      "conv": "YCW7aBG1QIkZWobDtdyF",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-05T10:46:16.611000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "FwMnTtStTxjXh0I1mfgQ",
+      "conv": "81N74OJk3vgNYHHbgFKh",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-05T12:49:20.904000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "YQqZiEGXuxTx7XwRNp5d",
+      "conv": "HXnkH5YoEJdntJVN1GJG",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-05T02:22:42.782000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "tHhQQfTWZoBiBus1XJYR",
+      "conv": "h614pE7c1vQegV4576yc",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-05T16:06:34.243000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "i9z0xo55WFCnPoTb153v",
+      "conv": "N2GTv9MWgnh0t0a6ojZO",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-05T16:15:47.875000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "n1rbJEzXr5NJXGHe6muq",
+      "conv": "oSlXnNFkneJFEo7EBEBr",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-01T22:25:38.754000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "LU9xTUEBNLSs1ujpvyc4",
+      "conv": "rR9PYvNy2QMLA2oZoVyP",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-04T21:15:33.285000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "kHOwZ1TWRgSfi7AEDLsC",
+      "conv": "qtHHll40Fqsgg9ygu41B",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-05T14:07:52.241000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "3zjkKT8jQW8IsP05pvhw",
+      "conv": "JjANulfQTXNJOwKsU1V7",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-03T18:57:56.259000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "FGnvZPeu47k5Cxc7NJJt",
+      "conv": "K6v1yvEaP0LGfL44cvrR",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-01T10:45:19.068000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "EufoJBCaxyByP5uN267n",
+      "conv": "7ZzqhDjdxi8ygAjfrd0K",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-04T19:49:42.918000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "7ZHCP5sZovZ23ujGMCI2",
+      "conv": "Sjr6ZbSEqTVCVBRVA25k",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-03T14:40:08.396000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "DXWffhVBhvsXhF4oAdFl",
+      "conv": "4iQn5qAN48jhyBaxEljB",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-01T14:36:51.581000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "rUdpBBUo7UdhbrhSeRGv",
+      "conv": "CwKktYg45zjRssHyIuS8",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-01T21:57:32.743000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "rcFfxedGhjvZjMHH2Oit",
+      "conv": "6UTJ7fbt7OONvBTFNWF1",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-04T00:35:17.967000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "tFJe3IajoDOr7xWVg6Ai",
+      "conv": "ihrV7dZLjCOPEZJHhHzz",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-03T20:23:36.908000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "8IENF8TP7COxu46R5ssw",
+      "conv": "QZWhjiFSl42Yq6pmCJSW",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-05T10:41:03.485000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "rOIaconRTuBdBWr8b6Qd",
+      "conv": "FXr8Eaik8MaZlnmnEEcZ",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-01T19:31:51.906000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "vlSJBVoHFDYKJu5MUu2h",
+      "conv": "eEKLdp6qsVOqHb2wX99E",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-04T18:48:54.144000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "AmNYxKT6hGtQEmUgXQtD",
+      "conv": "2tGTgxW5n1Tz06CtuoAP",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-02T12:48:05.918000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "ZqKKes4AC7590ajobJjJ",
+      "conv": "oJ8fCwnUsL1oUCkDHgQf",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-02T01:09:39.869000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "tuSp4vqSexQni1Z4yr8a",
+      "conv": "xSqU2p4LCyChIXN2idyM",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-01T22:11:50.458000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "8jPcqvJJ7eNjkXTHgaWX",
+      "conv": "ohbBABdaluZCrG0Ujhbk",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-05T00:33:01.262000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "CIhCTDSJkK5jtAu9FZnn",
+      "conv": "3r5BTTGY9z0Dgx01lW1D",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-04T15:15:40.872000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "v3xPuPqi9EL4C9OXozEe",
+      "conv": "wVsUoP1Ft2Zsye0pYz3a",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-04T12:42:01.804000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "ApCl9uUWX1cqLSUWari0",
+      "conv": "rIfEjWoX6mQ9HfoZj14P",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-03T17:16:16.558000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "F5TTqlETReyn6DFJuQ2M",
+      "conv": "D8evM5943l0vlTGyfbVz",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-04T02:03:53.946000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "ZAz8GnE5vZrxsmqGlyw8",
+      "conv": "jbsO7R9fsH2KGQ2ycgF9",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-04T08:35:56.674000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "aJ9lK0sVhgrj7ZwgJm3S",
+      "conv": "m5PWRkCx06qxzbesvxjZ",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-01T21:01:02.408000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "9KxKNO0zqucRKefAv3Hj",
+      "conv": "QmaVnnRcH9ZrxTFYcjWe",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-02T16:14:25.789000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "ODAHmtLtNpy91pCdgSEv",
+      "conv": "FpqasRCj8LsZv4HjiBkW",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-03T01:36:10.079000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "gGAYW1hUIaZCB8klZZiW",
+      "conv": "H476NV2SsIK4HTL0xMzu",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-01T14:13:21.539000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "gSZ55OzuxHAgf9eFjgwi",
+      "conv": "NOgd5mxjht93t9tCqitN",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-02T11:01:13.980000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "c30bpnQNvhWGVELOVdUb",
+      "conv": "J8fGbs826YE332Skj36a",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-03T18:46:01.699000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "K8gUziJNoTkcyz6Kv9Ze",
+      "conv": "rNyoorysYDSREFdKFrEL",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-02T11:15:04.196000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "hIbWbZT2gy3hinYcDsaB",
+      "conv": "ZtEBweGskYG96yrw6mbb",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-03T15:37:40.116000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "nAq4fI00DYvLSmLCbIsG",
+      "conv": "LkkeLINGvbblrT7WAHLP",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-03T15:20:11.865000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "wY6X2FpkPUYn88PW591b",
+      "conv": "a3g5QfICfPm38qZrKLec",
+      "ad": "120248618435700523",
+      "tag": "só legenda - trafego",
+      "date": "2026-08-03T15:34:18.514000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "KYneFcRu1akuoEk2OxvH",
+      "conv": "0AbY5jPuEVd8SWOBXLyT",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-02T13:15:12.132000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "muBrO0Feb2QzspgtwrZR",
+      "conv": "X9O9L8AJSL6nBzN5lPIO",
+      "ad": "120244183810290523",
+      "tag": "com a cdt - trafego",
+      "date": "2026-08-02T17:05:05.959000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "Glocl04X6XhcCVHxE06W",
+      "conv": "MwR6fsKDyo7knzlkOHps",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-03T09:45:41.755000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "2pgW3FYNd9oU2AuvJS4W",
+      "conv": "mvd2EQnpbJiB9J06TUHD",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-02T03:10:57.522000+00:00",
+      "source": "conv_scan"
+    },
+    {
+      "contactId": "nlzE8XEZQAT7QhBmqxBX",
+      "conv": "VZwaGUlXuikBD0bnUdHh",
+      "ad": "120245782879890523",
+      "tag": "coisas com a cdt - trafego",
+      "date": "2026-08-01T18:56:23.710000+00:00",
+      "source": "conv_scan"
+    }
+  ]
+}

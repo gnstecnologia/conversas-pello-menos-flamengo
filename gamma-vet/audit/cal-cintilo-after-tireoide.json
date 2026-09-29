@@ -1,0 +1,137 @@
+{
+  "id": "HeFRPrO55KkQjhfJIaNc",
+  "notifications": [],
+  "locationId": "MhplIQf1baCvRBNGPTOj",
+  "teamMembers": [],
+  "name": "Cintilografia",
+  "description": "Cintilografia de TIREOIDE. Seg/qui: 9:30, 10:00, 13:00, 13:30, 16:00. Terça: 13:00, 13:30, 16:00. Renal e outros protocolos = encaixe humano (IA não agenda).",
+  "widgetSlug": "HeFRPrO55KkQjhfJIaNc",
+  "calendarType": "event",
+  "widgetType": "classic",
+  "eventTitle": "{{contact.pet_1_nome}} | Cintilografia | {{contact.procedimento_interesse}}",
+  "eventColor": "#039BE5",
+  "slotDuration": 90,
+  "slotDurationUnit": "mins",
+  "slotInterval": 30,
+  "slotIntervalUnit": "mins",
+  "slotBuffer": 0,
+  "slotBufferUnit": "mins",
+  "appoinmentPerSlot": 1,
+  "appointmentPerSlot": 1,
+  "openHours": [
+    {
+      "daysOfTheWeek": [
+        1
+      ],
+      "hours": [
+        {
+          "openHour": 9,
+          "openMinute": 30,
+          "closeHour": 11,
+          "closeMinute": 0
+        },
+        {
+          "openHour": 10,
+          "openMinute": 0,
+          "closeHour": 11,
+          "closeMinute": 30
+        },
+        {
+          "openHour": 13,
+          "openMinute": 0,
+          "closeHour": 14,
+          "closeMinute": 30
+        },
+        {
+          "openHour": 13,
+          "openMinute": 30,
+          "closeHour": 15,
+          "closeMinute": 0
+        },
+        {
+          "openHour": 16,
+          "openMinute": 0,
+          "closeHour": 17,
+          "closeMinute": 30
+        }
+      ]
+    },
+    {
+      "daysOfTheWeek": [
+        2
+      ],
+      "hours": [
+        {
+          "openHour": 13,
+          "openMinute": 0,
+          "closeHour": 14,
+          "closeMinute": 30
+        },
+        {
+          "openHour": 13,
+          "openMinute": 30,
+          "closeHour": 15,
+          "closeMinute": 0
+        },
+        {
+          "openHour": 16,
+          "openMinute": 0,
+          "closeHour": 17,
+          "closeMinute": 30
+        }
+      ]
+    },
+    {
+      "daysOfTheWeek": [
+        4
+      ],
+      "hours": [
+        {
+          "openHour": 9,
+          "openMinute": 30,
+          "closeHour": 11,
+          "closeMinute": 0
+        },
+        {
+          "openHour": 10,
+          "openMinute": 0,
+          "closeHour": 11,
+          "closeMinute": 30
+        },
+        {
+          "openHour": 13,
+          "openMinute": 0,
+          "closeHour": 14,
+          "closeMinute": 30
+        },
+        {
+          "openHour": 13,
+          "openMinute": 30,
+          "closeHour": 15,
+          "closeMinute": 0
+        },
+        {
+          "openHour": 16,
+          "openMinute": 0,
+          "closeHour": 17,
+          "closeMinute": 30
+        }
+      ]
+    }
+  ],
+  "enableRecurring": false,
+  "autoConfirm": false,
+  "googleInvitationEmails": true,
+  "allowReschedule": true,
+  "allowCancellation": true,
+  "formSubmitType": "ThankYouMessage",
+  "formSubmitThanksMessage": "Thank you for your appointment request. We will contact you shortly to confirm your request. Please call our office at {{contactMethod}} if you have any questions.",
+  "availabilities": [],
+  "guestType": "collect_detail",
+  "guestCollectionMode": "email",
+  "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+  "preBuffer": 0,
+  "preBufferUnit": "mins",
+  "isActive": true,
+  "enableClientPortalBooking": false
+}

@@ -1,0 +1,70 @@
+﻿{
+    "updatedAt":  "2026-07-10T16:01:43.775Z",
+    "createdAt":  "2026-07-10T16:01:43.776Z",
+    "name":  "Appointment Booking Action",
+    "type":  "appointmentBooking",
+    "details":  {
+                    "calendarIds":  [
+                                        {
+                                            "id":  "fUvShjVjDVERgGZUuNls",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "e6FA0Add4dZVXt6qN40y",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "dypic8EB1pS2Zh8hJw1c",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "dpnGTRPb4wLTjWxPfO3M",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "cNAnPs8MGpkjO1bSyba9",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "bOur6KKgSm1cQvIxYnwQ",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "Sq4S1RHRaAoVfLbcb6Gj",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "N018p8fGK2boOyTkcqWw",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "ACcmwEr9OeexBtiU4yl6",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "6gGUl22jF15ON7RWKeBB",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "1X5AaBX8WCmn4FpAuMxJ",
+                                            "triggerCondition":  ""
+                                        }
+                                    ],
+                    "calendarActionType":  "multiple",
+                    "aiDescription":  "descrição para mudar",
+                    "fallbackCalendar":  false,
+                    "fallbackCalendarId":  null,
+                    "onlySendLink":  false,
+                    "triggerWorkflow":  false,
+                    "workflowIds":  null,
+                    "sleepAfterBooking":  false,
+                    "sleepTimeUnit":  null,
+                    "sleepTime":  null,
+                    "transferBot":  false,
+                    "transferEmployee":  null,
+                    "rescheduleEnabled":  true,
+                    "cancelEnabled":  true
+                },
+    "agentId":  "3Fzfmx7ViwyD9v16h4DR",
+    "id":  "zeWiS2QJD0LcF6UOaejG"
+}

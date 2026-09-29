@@ -1,0 +1,86 @@
+[
+  {
+    "staff": {
+      "name": "Marcello Comodo",
+      "id": "4cReWV57zGHdRk2jHVCI",
+      "phone": "+5521964430925"
+    },
+    "tried": [
+      [
+        "POST",
+        "/conversation-ai/bot",
+        "404",
+        "{\"message\":\"Cannot POST /conversation-ai/bot\",\"error\":\"Not Found\",\"statusCode\":4"
+      ],
+      [
+        "PUT",
+        "/contacts/4cReWV57zGHdRk2jHVCI",
+        "200",
+        "{\"succeded\":true,\"succeeded\":true,\"contact\":{\"id\":\"4cReWV57zGHdRk2jHVCI\",\"dateAd"
+      ]
+    ]
+  },
+  {
+    "staff": {
+      "name": "Gustavo Cobucci",
+      "id": "JG54i4qh14CCpm6QmM6S",
+      "phone": "+553196579532"
+    },
+    "tried": [
+      [
+        "POST",
+        "/conversation-ai/bot",
+        "404",
+        "{\"message\":\"Cannot POST /conversation-ai/bot\",\"error\":\"Not Found\",\"statusCode\":4"
+      ],
+      [
+        "PUT",
+        "/contacts/JG54i4qh14CCpm6QmM6S",
+        "200",
+        "{\"succeded\":true,\"succeeded\":true,\"contact\":{\"id\":\"JG54i4qh14CCpm6QmM6S\",\"dateAd"
+      ]
+    ]
+  },
+  {
+    "staff": {
+      "name": "Fernanda Meirelles",
+      "id": "N2PEcvlRNaHyRBh4Qn3y",
+      "phone": "+5524988238762"
+    },
+    "tried": [
+      [
+        "POST",
+        "/conversation-ai/bot",
+        "404",
+        "{\"message\":\"Cannot POST /conversation-ai/bot\",\"error\":\"Not Found\",\"statusCode\":4"
+      ],
+      [
+        "PUT",
+        "/contacts/N2PEcvlRNaHyRBh4Qn3y",
+        "200",
+        "{\"succeded\":true,\"succeeded\":true,\"contact\":{\"id\":\"N2PEcvlRNaHyRBh4Qn3y\",\"dateAd"
+      ]
+    ]
+  },
+  {
+    "staff": {
+      "name": "Mariana Gantois",
+      "id": "scU5xY2AVThJ70eiltmJ",
+      "phone": "+5521997805456"
+    },
+    "tried": [
+      [
+        "POST",
+        "/conversation-ai/bot",
+        "404",
+        "{\"message\":\"Cannot POST /conversation-ai/bot\",\"error\":\"Not Found\",\"statusCode\":4"
+      ],
+      [
+        "PUT",
+        "/contacts/scU5xY2AVThJ70eiltmJ",
+        "200",
+        "{\"succeded\":true,\"succeeded\":true,\"contact\":{\"id\":\"scU5xY2AVThJ70eiltmJ\",\"dateAd"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "locationId": "MhplIQf1baCvRBNGPTOj",
+  "count": 1,
+  "users": [
+    {
+      "id": "LxQOtMzWVhRqNLlWnLCI",
+      "name": "Marcello Comodo",
+      "email": "marcello.comodo@gammavet.com.br",
+      "role": "admin",
+      "type": "account",
+      "deleted": false
+    }
+  ]
+}

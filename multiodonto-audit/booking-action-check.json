@@ -1,0 +1,47 @@
+﻿{
+    "createdAt":  "2026-07-10T16:01:43.776Z",
+    "name":  "Appointment Booking Action",
+    "type":  "appointmentBooking",
+    "details":  {
+                    "calendarId":  "fUvShjVjDVERgGZUuNls",
+                    "calendarIds":  [
+                                        {
+                                            "id":  "fUvShjVjDVERgGZUuNls",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "dpnGTRPb4wLTjWxPfO3M",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "bOur6KKgSm1cQvIxYnwQ",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "Sq4S1RHRaAoVfLbcb6Gj",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "ACcmwEr9OeexBtiU4yl6",
+                                            "triggerCondition":  ""
+                                        },
+                                        {
+                                            "id":  "1X5AaBX8WCmn4FpAuMxJ",
+                                            "triggerCondition":  ""
+                                        }
+                                    ],
+                    "calendarActionType":  "multiple",
+                    "aiDescription":  "Agendar SOMENTE clinico geral. Barra: so Juliana seg-qui. Barra sex/sab NAO booking — paciente liga. NUNCA Carlos/Leonardo/Giovanna Barra/Rafael Barra.",
+                    "fallbackCalendar":  false,
+                    "fallbackCalendarId":  "",
+                    "onlySendLink":  false,
+                    "triggerWorkflow":  false,
+                    "sleepAfterBooking":  false,
+                    "transferBot":  false,
+                    "rescheduleEnabled":  true,
+                    "cancelEnabled":  true
+                },
+    "updatedAt":  "2026-08-13T16:04:22.274Z",
+    "agentId":  "3Fzfmx7ViwyD9v16h4DR",
+    "id":  "zeWiS2QJD0LcF6UOaejG"
+}

@@ -1,0 +1,16 @@
+{
+  "hits": [],
+  "custom_values": [],
+  "kb_data_keys": [
+    "id",
+    "name",
+    "nameLowerCase",
+    "locationId",
+    "deleted",
+    "createdAt",
+    "updatedAt",
+    "isDefault",
+    "kbMetadata",
+    "description"
+  ]
+}

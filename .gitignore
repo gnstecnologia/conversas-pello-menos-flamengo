@@ -1,0 +1,20 @@
+# secrets
+.env
+**/.env
+**/*token*.json
+**/ghl-web-tokens.json
+**/ghl-storage.json
+**/*credentials*
+**/*.pem
+**/deploy_key*
+
+# python / os
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.log
+
+# local junk
+.cursor/
+.stackflow-backups/

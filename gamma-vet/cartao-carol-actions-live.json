@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "createdAt": "2026-03-06T14:15:59.378Z",
+      "type": "triggerWorkflow",
+      "name": "Cliente ativo2",
+      "details": {
+        "workflowIds": [
+          "57c570c8-8b44-43c4-a979-bb414c302866"
+        ],
+        "triggerCondition": "Usuário escolheu 2 - Já fui ou sou cliente no menu inicial e, dentro desse fluxo, selecionar opções operacionais que indicam que já possui vínculo ativo com o Cartão de Todos. Considerar como cliente ativo quando ele falar que já fez ou que possui o cartão de todos ou quando ele navegar por: 2→2 (Marcar consulta), 2→3 (Cancelamento), 2→4 (Adicionar dependentes) ou acessar 2→1 (Financeiro) e escolher 1 (Trocar cartão) ou 2 (Pagar mensalidade atrasada), caracterizando uso ou manutenção do serviço."
+      },
+      "updatedAt": "2026-08-03T19:47:05.927Z",
+      "agentId": "Uu90vMQPy1h3b9CAON08",
+      "id": "94rVTPbjdOrFvXrfnTAj"
+    },
+    {
+      "createdAt": "2026-03-12T20:41:13.362Z",
+      "type": "triggerWorkflow",
+      "name": "opção 5 Ex cliente",
+      "details": {
+        "workflowIds": [
+          "0b6d845f-8421-47ae-a96b-57a99721dc26"
+        ],
+        "triggerCondition": "Quando o usuário percorre o fluxo selecionando 2 - Já fui ou sou cliente, e em seguida escolhe 5 - Já fui cliente e gostaria de saber minhas condições, o sistema deve identificar essa ação como interesse de ex-cliente. Ao receber o número 5, deve distribuir o lead imediatamente, sem aguardar dados, e em seguida enviar a mensagem solicitando Nome e CPF."
+      },
+      "updatedAt": "2026-06-09T19:20:11.293Z",
+      "agentId": "Uu90vMQPy1h3b9CAON08",
+      "id": "CNrCo1kdhJ4fPMfCEY29"
+    },
+    {
+      "createdAt": "2026-03-17T18:50:09.461Z",
+      "type": "updateContactField",
+      "name": "CPF",
+      "details": {
+        "contactFieldId": "sq22OzXcbazNYMg6TKiZ",
+        "description": "Atualizar o valor para o número de CPF",
+        "contactUpdateExamples": [
+          "47428524854",
+          "444.285.248-54",
+          "CPF:474.585.248-54",
+          "CPF:47428523854"
+        ]
+      },
+      "updatedAt": "2026-03-17T18:52:57.677Z",
+      "agentId": "Uu90vMQPy1h3b9CAON08",
+      "id": "GI8p5zuvRZGn7BIaqXUf"
+    },
+    {
+      "updatedAt": "2026-03-06T14:15:58.946Z",
+      "createdAt": "2026-03-06T14:15:58.946Z",
+      "name": "Detecção de despedida",
+      "type": "stopBot",
+      "details": {
+        "stopBotExamples": [
+          "Tchau",
+          "Adeus",
+          "Obrigado! Tenha um bom dia"
+        ],
+        "stopBotDetectionType": "Goodbye",
+        "stopBotTriggerCondition": "Quando o contato se despede ou utiliza frases semelhantes ",
+        "finalMessage": "Agradecemos pelo seu tempo. Tenha um bom dia.",
+        "enabled": false,
+        "reactivateEnabled": true,
+        "sleepTimeUnit": "hours",
+        "sleepTime": 24,
+        "tags": [
+          "stop bot"
+        ]
+      },
+      "agentId": "Uu90vMQPy1h3b9CAON08",
+      "id": "Kr8TAFjOpvEmpec8J50k"
+    },
+    {
+      "createdAt": "2026-03-06T14:15:58.716Z",
+      "name": "O contato parou de responder",
+      "type": "advancedFollowup",
+      "details": {
+        "enabled": true,
+        "followupSequence": [
+          {
+            "aiEnabledMessage": true,
+            "triggerWorkflow": false,
+            "id": 1,
+            "followupTime": 10,
+            "followupTimeUnit": "minutes",
+            "customMessage": null,
+            "workflowId": null
+          },
+          {
+            "aiEnabledMessage": true,
+            "triggerWorkflow": false,
+            "followupTime": 2,
+            "followupTimeUnit": "hours",
+            "customMessage": "",
+            "workflowId": "",
+            "id": 2
+          },
+          {
+            "aiEnabledMessage": true,
+            "triggerWorkflow": false,
+            "followupTime": 1,
+            "followupTimeUnit": "days",
+            "customMessage": "",
+            "workflowId": "",
+            "id": 3
+          },
+          {
+            "aiEnabledMessage": true,
+            "triggerWorkflow": true,
+            "followupTime": 2,
+            "followupTimeUnit": "days",
+            "customMessage": "",
+            "workflowId": "0b081419-6754-47be-94bb-09e1221171fb",
+            "id": 4
+          }
+        ],
+        "scenarioId": "contactStoppedReplying"
+      },
+      "updatedAt": "2026-03-17T16:24:57.656Z",
+      "agentId": "Uu90vMQPy1h3b9CAON08",
+      "id": "PO8lr6D8GIv1zWObVBye"
+    },
+    {
+      "updatedAt": "2026-03-06T14:15:59.276Z",
+      "createdAt": "2026-03-06T14:15:59.276Z",
+      "name": "Valor da Assinatura",
+      "type": "updateContactField",
+      "details": {
+        "contactFieldId": "ubcDAQRaUpS0FxQ4Zstp",
+        "description": "Valor da Assinatura que o agente de ia propôs ao cliente interessado",
+        "contactUpdateExamples": [
+          "R$33,40",
+          "R$56,80"
+        ]
+      },
+      "agentId": "Uu90vMQPy1h3b9CAON08",
+      "id": "Q1KEkHHmvZ6R0OdtllJo"
+    },
+    {
+      "updatedAt": "2026-03-06T14:15:59.164Z",
+      "createdAt": "2026-03-06T14:15:59.164Z",
+      "name": "É cliente",
+      "type": "updateContactField",
+      "details": {
+        "contactFieldId": "DXSjH6WmoOr9og9IMSaz",
+        "description": "Deve colocar se o usuário é cliente ou não",
+        "contactUpdateExamples": [
+          "Não, eu não sou cliente",
+          "Sim, eu sou cliente"
+        ]
+      },
+      "agentId": "Uu90vMQPy1h3b9CAON08",
+      "id": "RIqcMOggHHwQyJGSgQc8"
+    },
+    {
+      "updatedAt": "2026-03-06T14:15:58.828Z",
+      "createdAt": "2026-03-06T14:15:58.829Z",
+      "name": "O contato está ocupado",
+      "type": "advancedFollowup",
+      "details": {
+        "enabled": true,
+        "followupSequence": [
+          {
+            "aiEnabledMessage": true,
+            "triggerWorkflow": false,
+            "id": 1,
+            "followupTime": 2,
+            "followupTimeUnit": "hours",
+            "customMessage": null,
+            "workflowId": null
+          }
+        ],
+        "scenarioId": "contactIsBusy"
+      },
+      "agentId": "Uu90vMQPy1h3b9CAON08",
+      "id": "TeweVBaFLoWhuRuGPrcL"
+    },
+    {
+      "createdAt": "2026-03-06T14:15:59.064Z",
+      "type": "triggerWorkflow",
+      "name": "Opção subfinanceiro",
+      "details": {
+        "workflowIds": [
+          "0b6d845f-8421-47ae-a96b-57a99721dc26"
+        ],
+        "triggerCondition": "Quando o usuário percorre o fluxo selecionando 2 - Já fui ou sou cliente, depois 1 - Financeiro, e responde com 3 - Já fui cliente e gostaria de saber suas condições, o sistema deve identificar essa ação como interesse de ex-cliente. Ao receber o número 3, deve distribuir o lead imediatamente, sem aguardar dados, e em seguida enviar a mensagem solicitando Nome, Telefone e CPF."
+      },
+      "updatedAt": "2026-03-17T16:19:41.263Z",
+      "agentId": "Uu90vMQPy1h3b9CAON08",
+      "id": "U3lAxYih64U8f1zGMOR2"
+    },
+    {
+      "createdAt": "2026-03-06T14:36:34.900Z",
+      "type": "triggerWorkflow",
+      "name": "Distribuição Leads",
+      "details": {
+        "workflowIds": [
+          "0b6d845f-8421-47ae-a96b-57a99721dc26"
+        ],
+        "triggerCondition": "Acionar quando o usuário selecionar a opção 1 - Quero mais informações sobre o Cartão de Todos, demonstrando interesse em conhecer, entender ou contratar o plano. Inclui dúvidas sobre benefícios, valores, coberturas ou funcionamento dos serviços, e contatos por indicação, anúncio ou curiosidade, sem vínculo anterior com o cartão. Palavras-chave: quero saber, informações, como funciona, quero contratar, como eu faço, tenho dúvidas, quanto custa.\nNão distribuir quando o cliente é ativo ou"
+      },
+      "updatedAt": "2026-08-03T19:48:21.752Z",
+      "agentId": "Uu90vMQPy1h3b9CAON08",
+      "id": "d3ShPET5DEBgnktB7MiG"
+    },
+    {
+      "updatedAt": "2026-03-12T21:00:55.745Z",
+      "createdAt": "2026-03-12T21:00:55.745Z",
+      "name": "Cliente Ativo",
+      "type": "triggerWorkflow",
+      "details": {
+        "workflowIds": [
+          "57c570c8-8b44-43c4-a979-bb414c302866"
+        ],
+        "triggerCondition": "Acionar este fluxo quando o usuário selecionar a opção “Já fui ou sou cliente” no primeiro menu do atendimento. Essa ação indica que o contato já possui ou já teve vínculo com o Cartão de Todos. O sistema deve mover automaticamente o lead no Kanban para a etapa Cliente Ativo, atualizando o status do contato antes da continuidade do atendimento no fluxo de cliente."
+      },
+      "agentId": "Uu90vMQPy1h3b9CAON08",
+      "id": "rcTcBTtB5Jo9Ub62Nao8"
+    },
+    {
+      "createdAt": "2026-03-06T14:45:08.939Z",
+      "name": "Solicitação de ser humano",
+      "type": "humanHandOver",
+      "details": {
+        "enabled": false,
+        "triggerCondition": "Solicitação direta para falar com um ser humano",
+        "examples": [
+          "Consultar minhas condições",
+          "Consultar minhas situação"
+        ],
+        "assignToUserId": "oAwKV1KsRrmMmWyATsI7",
+        "skipAssignToUser": true,
+        "createTask": true,
+        "finalMessage": "Claro! Estou transferindo sua solicitação para Nayalle Freitas. Alguém da equipe entrará em contato com você em até 24 horas.",
+        "reactivateEnabled": false,
+        "sleepTimeUnit": null,
+        "sleepTime": null,
+        "tags": [
+          "transferência humana"
+        ],
+        "handoverType": "contactRequest"
+      },
+      "updatedAt": "2026-03-16T22:20:12.347Z",
+      "agentId": "Uu90vMQPy1h3b9CAON08",
+      "id": "sog4alKCDS05H9qaLues"
+    },
+    {
+      "createdAt": "2026-03-13T14:55:12.894Z",
+      "type": "updateContactField",
+      "details": {
+        "contactFieldId": "KvGDSsWs34W2wlYVR5rX",
+        "description": "Nome do Contato",
+        "contactUpdateExamples": []
+      },
+      "name": "Nome Contato Business",
+      "updatedAt": "2026-04-01T15:02:57.790Z",
+      "agentId": "Uu90vMQPy1h3b9CAON08",
+      "id": "umqpfDfFNITsJibL9cZW"
+    }
+  ],
+  "success": true,
+  "traceId": "edae41df-3e91-484a-9f75-ef13ea20954e"
+}

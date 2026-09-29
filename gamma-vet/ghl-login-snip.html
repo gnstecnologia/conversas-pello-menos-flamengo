@@ -1,0 +1,45 @@
+<!DOCTYPE html><html lang="en" class="overflow-hidden lead-connector"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><style cssr-id="hr-notification">.hr-notification-container {
+
+ z-index: 4000;
+ position: fixed;
+ overflow: visible;
+ display: flex;
+ flex-direction: column;
+ align-items: flex-end;
+ 
+}
+
+.hr-notification-container > .hr-scrollbar {
+
+ width: initial;
+ overflow: visible;
+ height: -moz-fit-content !important;
+ height: fit-content !important;
+ max-height: 100vh !important;
+ 
+}
+
+.hr-notification-container > .hr-scrollbar > .hr-scrollbar-container {
+
+ height: -moz-fit-content !important;
+ height: fit-content !important;
+ max-height: 100vh !important;
+ 
+}
+
+.hr-notification-container > .hr-scrollbar > .hr-scrollbar-container .hr-scrollbar-content {
+
+ padding-top: 12px;
+ padding-bottom: 33px;
+ 
+}
+
+.hr-notification-container.hr-notification-container--top, .hr-notification-container.hr-notification-container--top-right, .hr-notification-container.hr-notification-container--top-left {
+
+ top: 12px;
+ 
+}
+
+.hr-notification-container.hr-notification-container--top.transitioning > .hr-scrollbar > .hr-scrollbar-container, .hr-notification-container.hr-notification-container--top-right.transitioning > .hr-scrollbar > .hr-scrollbar-container, .hr-notification-container.hr-notification-container--top-left.transitioning > .hr-scrollbar > .hr-scrollbar-container {
+
+ min-height: 100vh 

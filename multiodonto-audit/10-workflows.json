@@ -1,0 +1,95 @@
+﻿{
+    "workflows":  [
+                      {
+                          "id":  "06b00454-2888-4a47-8386-3102edd2e5cb",
+                          "name":  "2. Confimação e Lembretes de Agendamento",
+                          "status":  "draft",
+                          "version":  2,
+                          "createdAt":  "2026-02-03T14:55:53.471Z",
+                          "updatedAt":  "2026-02-03T14:57:28.806Z",
+                          "locationId":  "3R4hY0j3TJyj2SkmSQL3"
+                      },
+                      {
+                          "id":  "09e55a4c-3fb5-416b-8636-715cce5a0d97",
+                          "name":  "Acionamento IA",
+                          "status":  "published",
+                          "version":  14,
+                          "createdAt":  "2025-10-23T10:49:00.031Z",
+                          "updatedAt":  "2026-05-04T12:58:07.214Z",
+                          "locationId":  "3R4hY0j3TJyj2SkmSQL3"
+                      },
+                      {
+                          "id":  "16867e79-43f8-4315-8f4f-1deb6e6fefae",
+                          "name":  "Atendimento Inicial",
+                          "status":  "draft",
+                          "version":  4,
+                          "createdAt":  "2025-10-23T10:14:21.988Z",
+                          "updatedAt":  "2025-10-23T17:50:23.484Z",
+                          "locationId":  "3R4hY0j3TJyj2SkmSQL3"
+                      },
+                      {
+                          "id":  "4e104e06-d927-4577-b968-6286f193a28b",
+                          "name":  "Atendimento Inicial SMS para WhatsApp",
+                          "status":  "draft",
+                          "version":  4,
+                          "createdAt":  "2025-10-23T10:14:22.189Z",
+                          "updatedAt":  "2025-10-23T19:51:17.818Z",
+                          "locationId":  "3R4hY0j3TJyj2SkmSQL3"
+                      },
+                      {
+                          "id":  "a541454d-8dc8-40b4-8c78-4b0f24a1c825",
+                          "name":  "New Workflow : 1762896166438",
+                          "status":  "draft",
+                          "version":  2,
+                          "createdAt":  "2025-11-11T21:22:46.757Z",
+                          "updatedAt":  "2025-11-13T12:42:22.183Z",
+                          "locationId":  "3R4hY0j3TJyj2SkmSQL3"
+                      },
+                      {
+                          "id":  "c4e32fe3-8859-4029-9b97-02656d9db367",
+                          "name":  "New Workflow : 1763046728164",
+                          "status":  "draft",
+                          "version":  1,
+                          "createdAt":  "2025-11-13T15:12:08.470Z",
+                          "updatedAt":  "2025-11-13T15:12:08.470Z",
+                          "locationId":  "3R4hY0j3TJyj2SkmSQL3"
+                      },
+                      {
+                          "id":  "c79dd395-e608-41bd-9295-882e08c6fd17",
+                          "name":  "New Workflow : 1768834228925",
+                          "status":  "draft",
+                          "version":  1,
+                          "createdAt":  "2026-01-19T14:50:29.258Z",
+                          "updatedAt":  "2026-01-19T14:50:29.258Z",
+                          "locationId":  "3R4hY0j3TJyj2SkmSQL3"
+                      },
+                      {
+                          "id":  "950b6398-db64-49c0-8320-88ea3c7000e5",
+                          "name":  "New Workflow : 1769100854877",
+                          "status":  "draft",
+                          "version":  2,
+                          "createdAt":  "2026-01-22T16:54:15.127Z",
+                          "updatedAt":  "2026-01-22T19:52:37.281Z",
+                          "locationId":  "3R4hY0j3TJyj2SkmSQL3"
+                      },
+                      {
+                          "id":  "210a7f4d-c0a1-4808-a06d-cbee38061e46",
+                          "name":  "New Workflow : 1770745372721",
+                          "status":  "draft",
+                          "version":  1,
+                          "createdAt":  "2026-02-10T17:42:52.881Z",
+                          "updatedAt":  "2026-02-10T17:42:52.881Z",
+                          "locationId":  "3R4hY0j3TJyj2SkmSQL3"
+                      },
+                      {
+                          "id":  "8a82b7ad-53fa-4826-b243-f43b24f10817",
+                          "name":  "Parar automações para atendimento",
+                          "status":  "draft",
+                          "version":  4,
+                          "createdAt":  "2025-10-23T10:14:22.388Z",
+                          "updatedAt":  "2025-10-30T18:54:40.038Z",
+                          "locationId":  "3R4hY0j3TJyj2SkmSQL3"
+                      }
+                  ],
+    "traceId":  "a804eb99-6ef7-40be-bffb-73653288474c"
+}

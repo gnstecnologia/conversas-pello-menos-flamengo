@@ -1,0 +1,23 @@
+﻿{
+    "data":  [
+                 {
+                     "updatedAt":  "2025-11-06T13:11:35.948Z",
+                     "createdAt":  "2025-11-06T13:11:35.948Z",
+                     "name":  "Default Transfer Bot",
+                     "type":  "transferBot",
+                     "details":  {
+                                     "transferBotExamples":  [
+
+                                                             ],
+                                     "transferBotTriggerCondition":  "If Bot doesnt know the answer",
+                                     "enabled":  false,
+                                     "transferToBot":  "3Fzfmx7ViwyD9v16h4DR",
+                                     "transferBotType":  "Default"
+                                 },
+                     "agentId":  "6AHezk4hHD9cXu4ldDU9",
+                     "id":  "zmsysa6WYGCzRtTb3n8Y"
+                 }
+             ],
+    "success":  true,
+    "traceId":  "6b106ded-cddc-49e8-bea6-aa26b9033ffd"
+}

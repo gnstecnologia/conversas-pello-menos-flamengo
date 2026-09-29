@@ -1,0 +1,11 @@
+firstName,lastName,phone,email,tags,Pet 1 Nome,Pet 1 Especie,Pet 1 Raca,Pet 2 Nome,Pet 2 Especie,Pet 3 Nome,Pet 3 Especie,Ja Paciente
+Marcelo,Gamma,+5521999990001,marcelo.teste@gammavet.local,cliente_ativo;teste_interno,Tonico,canino,SRD,Mike,canino,Patch,canino,true
+Mariana,Gamma,+5521999990002,mari.teste@gammavet.local,cliente_ativo;teste_interno,Luna,felino,Persa,,,,,true
+Gustavo,Teste,+5521999990003,gustavo.teste@gammavet.local,teste_interno,Bidu,canino,Lab,,,,,false
+Recepcao,Gamma,+5521999990004,recepcao.teste@gammavet.local,teste_interno,,,,,,,false
+Marcela,Rosa,+5521999990005,marcela.teste@gammavet.local,teste_interno,,,,,,,false
+Julia,Teste,+5521999990006,julia.teste@gammavet.local,teste_interno,,,,,,,false
+Fernanda,US,+5521999990007,fernanda.teste@gammavet.local,cliente_ativo;teste_interno,Mel,canino,Poodle,,,,,true
+Ativo,Exemplo1,+5521999990010,ativo1@gammavet.local,cliente_ativo;teste_interno;multi_pet,Rex,canino,Golden,Nina,canina,Bob,canino,true
+Ativo,Exemplo2,+5521999990011,ativo2@gammavet.local,cliente_ativo;teste_interno,Mimi,felino,Siames,,,,,true
+Ativo,Exemplo3,+5521999990012,ativo3@gammavet.local,cliente_ativo;teste_interno,Thor,canino,Bulldog,,,,,true

@@ -1,0 +1,426 @@
+[
+  {
+    "conv": "HOf1RIlm0RfDrWgy3TIe",
+    "date": "2026-08-18T20:21:07.066Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Aaah, prazer falar com você, Sônia Mousinho 😍\n\nEu sou a assistente virtual da Pello Menos, vou te ajudar por aqui rapidinho e já te encaminho para uma de nossas especialistas.\n\nA Pello Menos é pioneira em depilação segura há mais de 28 anos, com o Laser Hakon 4D, que atua em quatro dimensões do pelo e garante mais conforto com ponteira a -12 °C.\n\nPara eu fazer seu cadastro e lançar seu presente no nosso sistema, digita aqui seu CPF, por favor ⬇️"
+  },
+  {
+    "conv": "HOf1RIlm0RfDrWgy3TIe",
+    "date": "2026-08-18T19:54:10.418Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.*\n\nCom o *Laser Hacok 4D* que acelera seus resultados e tem a ponteira resfriada garantindo o conforto em cada sessão.\n\nPara liberar seu presente, digita aqui pra mim: *qual o seu nome completo?*"
+  },
+  {
+    "conv": "HOf1RIlm0RfDrWgy3TIe",
+    "date": "2026-08-18T17:27:50.584Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Você esta falando com a unidade estrada dos bandeirantes e nessa unidade que deseja realizar suas sessões?"
+  },
+  {
+    "conv": "HOf1RIlm0RfDrWgy3TIe",
+    "date": "2026-08-18T15:37:28.783Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Agora só preciso que você me responda rapidinho sobre as contraindicações, para garantir sua segurança no tratamento, tudo bem?\n\n1️⃣ Tem tatuagem ou cicatriz na área a ser tratada?\n2️⃣ Possui pelos brancos, loiros ou ruivos na região?\n3️⃣ Tem alguma doença diagnosticada? Se sim, qual?\n4️⃣ Já teve algum tipo de câncer ?\n5️⃣ Está usando algum medicamento atualmente?\n6️⃣ Faz bronzeamento artificial com frequência?\n7️⃣ Está grávida ou amamentando ?\n8️⃣ Tem melasma ou outras condições na pele, como manchas ou sensibilidade?\n👉 Se nenhuma das opções se aplicar a você, pode responder: \"Não para todas\". Assim, consigo Garantir o seu Presente com total segurança e tranquilidade! 😉\nSó lembrando que esta é uma pre-anamnese, e quando for a loja para iniciar o seu tratamento precisará preencher a anamne"
+  },
+  {
+    "conv": "HOf1RIlm0RfDrWgy3TIe",
+    "date": "2026-08-18T15:36:23.393Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Sim, ainda está válido! Essa condição promocional maravilhosa vai até o final deste mês, então você ainda consegue aproveitar.\nPara deixar tudo mais prático e seguro para você, podemos realizar toda a contratação por aqui mesmo. Eu vou te enviar todos os dados necessários e, em seguida, o link de pagamento.\nAssim que finalizar o pagamento, é só me enviar o comprovante por aqui para que eu possa dar baixa no sistema e liberar suas sessões. Depois que estiver tudo confirmado, você já poderá realizar suas sessões normalmente.\nPode ficar tranquila, vou acompanhar todo o processo com você e te orientar em cada etapa para que seja tudo simples, seguro e sem complicação. 💖"
+  },
+  {
+    "conv": "HOf1RIlm0RfDrWgy3TIe",
+    "date": "2026-08-18T14:08:01.369Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Bom dia! Vou dar continuidade ao seu atendimento. Irei te explicar como nosso tratamento funciona, Na Pello Menos, utilizamos o moderno laser HAKON 4D, que oferece uma redução de pelos mais rápida, eficiente e duradoura. Sua ponteira gelada a -12°C proporciona mais conforto e segurança durante a aplicação, sendo indicado para todos os tipos de pele. As sessões são realizadas a cada 30 dias e atendemos por ordem de chegada, sem necessidade de agendamento. A cada sessão, a quantidade de pelos diminui progressivamente, até tratarmos os últimos fios nas etapas finais do protocolo. Após a conclusão do tratamento, sessões de manutenção podem ser recomendadas para preservar os resultados. Para melhor eficácia, é necessário raspar a região um dia antes da aplicação."
+  },
+  {
+    "conv": "HOf1RIlm0RfDrWgy3TIe",
+    "date": "2026-08-05T17:57:50.226Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Olá boa tarde sou a hyani , consultora especialista da Pello menos, unidade Estrada dos bandeirantes. Eu vou cuidar pessoalmente do seu atendimento. você já fez depilação a laser antes ou vai ser a primeira vez?"
+  },
+  {
+    "conv": "BH0lBXRFgFcMHbs7Fqjj",
+    "date": "2026-08-18T20:14:29.766Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Já anotei tudo aqui 💜\nAgora só preciso que você me responda rapidinho sobre as contraindicações, para garantir sua segurança no tratamento, tudo bem?\n\n1️⃣ Tem tatuagem ou cicatriz na área a ser tratada?\n2️⃣ Possui pelos brancos, loiros ou ruivos na região?\n3️⃣ Tem alguma doença diagnosticada? Se sim, qual?\n4️⃣ Já teve algum tipo de câncer ?\n5️⃣ Está usando algum medicamento atualmente?\n6️⃣ Faz bronzeamento artificial com frequência?\n7️⃣ Está grávida ou amamentando ?\n8️⃣ Tem melasma ou outras condições na pele, como manchas ou sensibilidade?\n\n👉 Se nenhuma das opções se aplicar a você, pode responder: \"Não para todas\". Assim, consigo Garantir o seu Presente com total segurança e tranquilidade! 😉\n\nSó lembrando que esta é uma pre-anamnese, e quando for a loja para iniciar o seu tratamento prec"
+  },
+  {
+    "conv": "BH0lBXRFgFcMHbs7Fqjj",
+    "date": "2026-08-18T20:13:49.561Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Aaah, prazer falar com você, Luciana Dos Santos Carvalho 😍\n\nEu sou a assistente virtual da Pello Menos, vou te ajudar por aqui rapidinho e já te encaminho para uma de nossas especialistas.\n\nA Pello Menos é pioneira em depilação segura há mais de 28 anos, com o Laser Hakon 4D, que atua em quatro dimensões do pelo e garante mais conforto com ponteira a -12 °C.\n\nPara eu fazer seu cadastro e lançar seu presente no nosso sistema, digita aqui seu CPF, por favor ⬇️"
+  },
+  {
+    "conv": "BH0lBXRFgFcMHbs7Fqjj",
+    "date": "2026-08-18T20:13:23.785Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.*\n\nCom o *Laser Hacok 4D* que acelera seus resultados e tem a ponteira resfriada garantindo o conforto em cada sessão.\n\nPara liberar seu presente, digita aqui pra mim: *qual o seu nome completo?*"
+  },
+  {
+    "conv": "F9gaMW3SeYBTRXprGxyE",
+    "date": "2026-08-18T19:48:00.373Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Vou te explicar como nosso tratamento funciona, Na Pello Menos, utilizamos o moderno laser HAKON 4D, que oferece uma redução de pelos mais rápida, eficiente e duradoura. Sua ponteira gelada a -12°C proporciona mais conforto e segurança durante a aplicação, sendo indicado para todos os tipos de pele.\nAs sessões são realizadas a cada 30 dias e atendemos por ordem de chegada, sem necessidade de agendamento. A cada sessão, a quantidade de pelos diminui progressivamente, até tratarmos os últimos fios nas etapas finais do protocolo. Após a conclusão do tratamento, sessões de manutenção podem ser recomendadas para preservar os resultados.\nPara melhor eficácia, é necessário raspar a região um dia antes da aplicação."
+  },
+  {
+    "conv": "F9gaMW3SeYBTRXprGxyE",
+    "date": "2026-08-18T17:33:33.636Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Olá boa tarde sou a hyani , consultora especialista da Pello menos, unidade Estrada dos bandeirantes. Eu vou cuidar pessoalmente do seu atendimento. você já fez depilação a laser antes ou vai ser a primeira vez?"
+  },
+  {
+    "conv": "F9gaMW3SeYBTRXprGxyE",
+    "date": "2026-08-18T17:26:45.581Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "🎉 Parabéns! Você ganhou 3 sessões grátis de depilação a laser com a Pello Menos.  Com o Laser Hacok 4D que acelera seus resultados e tem a ponteira resfriada garantindo o conforto em cada sessão.  Para liberar seu presente, digita aqui pra mim: qual o seu nome completo?"
+  },
+  {
+    "conv": "F9gaMW3SeYBTRXprGxyE",
+    "date": "2026-08-18T14:08:47.994Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Seu atendimento\n\nDando continuidade ao seu atendimento por aqui. Me chama que te explico rapidinho e já deixo tudo encaminhado. 😊"
+  },
+  {
+    "conv": "F9gaMW3SeYBTRXprGxyE",
+    "date": "2026-08-14T17:50:30.240Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Olá boa tarde sou a hyani , consultora especialista da Pello menos, unidade Estrada dos bandeirantes. Eu vou cuidar pessoalmente do seu atendimento. você já fez depilação a laser antes ou vai ser a primeira vez?"
+  },
+  {
+    "conv": "5KYK0WqoE8TVNGGwXaz8",
+    "date": "2026-08-18T19:50:28.724Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.*\n\nCom o *Laser Hacok 4D* que acelera seus resultados e tem a ponteira resfriada garantindo o conforto em cada sessão.\n\nPara liberar seu presente, digita aqui pra mim: *qual o seu nome completo?*"
+  },
+  {
+    "conv": "LHYIiVxHMS7hS8sXbH94",
+    "date": "2026-08-18T19:50:21.588Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "📍 Nosso endereço\nCrystall Mall\nEstrada dos Bandeirantes, 7.967 – Jacarepaguá\nCEP: 22783-115\n🕒 Horário de funcionamento\nSegunda a sexta-feira: das 9h às 19h\nSábado: das 9h às 18h\nDomingo: fechado\nObs: Na segunda o atendimento a laser não funciona.\nSerá um prazer receber você em nossa unidade!"
+  },
+  {
+    "conv": "LHYIiVxHMS7hS8sXbH94",
+    "date": "2026-08-18T19:49:44.629Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Olá! Boa tarde, Eu sou a Hyane, consultora especialista da Pello menos unidade Estrada dos\nbandeirantes. Eu vou cuidar pessoalmente do seu atendimento.\nExcelente! Parabéns, você está liberada para iniciar o seu tratamento de Depilação a Laser e aproveitar o seu presente de 3 sessões de cortesia! ✨\nNossa unidade realiza os atendimentos por ordem de chegada, portanto não é necessário agendamento prévio.\nPara garantir a realização da sua sessão, pedimos apenas que a região a ser tratada seja depilada com lâmina ou máquina 1 dia antes do atendimento. Não utilize cera, pinça ou métodos que removam o pelo pela raiz.\nNo dia da sua visita, basta apresentar o seu voucher na recepção para validarmos o seu benefício. Nossa equipe terá o prazer em recebê-la!\nEstamos à disposição e esperamos você em br"
+  },
+  {
+    "conv": "LHYIiVxHMS7hS8sXbH94",
+    "date": "2026-07-30T19:32:18.652Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "✨ Neste mês, estamos com uma **condição exclusiva e por tempo limitado**: \n 🔥 **COMBO ESPECIAL** \n✅ 10 sessões de **Virilha Completa**\n✅ 10 sessões de **Meia Perna*\n* 🎁 **E você ainda ganha de presente:** \n* 10 sessões de **Perianal** \n* 10 sessões de **Linha Alba** \n* 10 sessões de **Joelhos** \n* 10 sessões de **Pés** \n**E pode escolher mais 1 área de presente:** ✨ **Axilas** **ou** **Buço** \n 💳 **Tudo isso por apenas 10x de R$ 164,80, sem juros!** \n É uma oportunidade de tratar várias regiões ao mesmo tempo, com um excelente custo-benefício e muito mais praticidade no seu dia a dia.😊"
+  },
+  {
+    "conv": "LHYIiVxHMS7hS8sXbH94",
+    "date": "2026-07-30T19:29:19.490Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Olá boa tarde sou a hyani , consultora especialista da Pello menos, unidade Estrada dos bandeirantes. Eu vou cuidar pessoalmente do seu atendimento. você já fez depilação a laser antes ou vai ser a primeira vez?"
+  },
+  {
+    "conv": "LHYIiVxHMS7hS8sXbH94",
+    "date": "2026-07-30T18:31:09.961Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Já anotei tudo aqui 💜\nAgora só preciso que você me responda rapidinho sobre as contraindicações, para garantir sua segurança no tratamento, tudo bem?\n\n1️⃣ Tem tatuagem ou cicatriz na área a ser tratada?\n2️⃣ Possui pelos brancos, loiros ou ruivos na região?\n3️⃣ Tem alguma doença diagnosticada? Se sim, qual?\n4️⃣ Já teve algum tipo de câncer ?\n5️⃣ Está usando algum medicamento atualmente?\n6️⃣ Faz bronzeamento artificial com frequência?\n7️⃣ Está grávida ou amamentando ?\n8️⃣ Tem melasma ou outras condições na pele, como manchas ou sensibilidade?\n\n👉 Se nenhuma das opções se aplicar a você, pode responder: \"Não para todas\". Assim, consigo Garantir o seu Presente com total segurança e tranquilidade! 😉\n\nSó lembrando que esta é uma pre-anamnese, e quando for a loja para iniciar o seu tratamento prec"
+  },
+  {
+    "conv": "LHYIiVxHMS7hS8sXbH94",
+    "date": "2026-07-30T18:30:33.621Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Aaah, prazer falar com você, Thayssa Hardy Da Cunha 😍\n\nEu sou a assistente virtual da Pello Menos, vou te ajudar por aqui rapidinho e já te encaminho para uma de nossas especialistas.\n\nA Pello Menos é pioneira em depilação segura há mais de 28 anos, com o Laser Hakon 4D, que atua em quatro dimensões do pelo e garante mais conforto com ponteira a -12 °C.\n\nPara eu fazer seu cadastro e lançar seu presente no nosso sistema, digita aqui seu CPF, por favor ⬇️"
+  },
+  {
+    "conv": "LHYIiVxHMS7hS8sXbH94",
+    "date": "2026-07-30T18:30:00.760Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.*\n\nCom o *Laser Hacok 4D* que acelera seus resultados e tem a ponteira resfriada garantindo o conforto em cada sessão.\n\nPara liberar seu presente, digita aqui pra mim: *qual o seu nome completo?*"
+  },
+  {
+    "conv": "OZIVHcrSDjzi0Gw7QNss",
+    "date": "2026-08-18T19:49:37.615Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Verifiquei que você já é nossa cliente. Ficamos muito felizes em poder atendê-la novamente! 💕✨\n\nSeu presente já foi inserido em nosso sistema. 🎁 Será um prazer receber você em nossa unidade!\n⏰ Nosso horário de atendimento laser é:\n• Terça a sexta: das 9h às 19h\n• Sábado: das 9h às 17h"
+  },
+  {
+    "conv": "OZIVHcrSDjzi0Gw7QNss",
+    "date": "2026-08-18T17:41:56.344Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Já anotei tudo aqui 💜\nAgora só preciso que você me responda rapidinho sobre as contraindicações, para garantir sua segurança no tratamento, tudo bem?\n\n1️⃣ Tem tatuagem ou cicatriz na área a ser tratada?\n2️⃣ Possui pelos brancos, loiros ou ruivos na região?\n3️⃣ Tem alguma doença diagnosticada? Se sim, qual?\n4️⃣ Já teve algum tipo de câncer ?\n5️⃣ Está usando algum medicamento atualmente?\n6️⃣ Faz bronzeamento artificial com frequência?\n7️⃣ Está grávida ou amamentando ?\n8️⃣ Tem melasma ou outras condições na pele, como manchas ou sensibilidade?\n\n👉 Se nenhuma das opções se aplicar a você, pode responder: \"Não para todas\". Assim, consigo Garantir o seu Presente com total segurança e tranquilidade! 😉\n\nSó lembrando que esta é uma pre-anamnese, e quando for a loja para iniciar o seu tratamento prec"
+  },
+  {
+    "conv": "OZIVHcrSDjzi0Gw7QNss",
+    "date": "2026-08-18T17:40:44.523Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Aaah, prazer falar com você, Fátima Maria Santos De Souza 😍\n\nEu sou a assistente virtual da Pello Menos, vou te ajudar por aqui rapidinho e já te encaminho para uma de nossas especialistas.\n\nA Pello Menos é pioneira em depilação segura há mais de 28 anos, com o Laser Hakon 4D, que atua em quatro dimensões do pelo e garante mais conforto com ponteira a -12 °C.\n\nPara eu fazer seu cadastro e lançar seu presente no nosso sistema, digita aqui seu CPF, por favor ⬇️"
+  },
+  {
+    "conv": "OZIVHcrSDjzi0Gw7QNss",
+    "date": "2026-08-18T17:39:57.684Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.*\n\nCom o *Laser Hacok 4D* que acelera seus resultados e tem a ponteira resfriada garantindo o conforto em cada sessão.\n\nPara liberar seu presente, digita aqui pra mim: *qual o seu nome completo?*"
+  },
+  {
+    "conv": "fNa5hBPLPYqyjtHVXLvS",
+    "date": "2026-08-18T18:58:15.078Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Já anotei tudo aqui 💜\nAgora só preciso que você me responda rapidinho sobre as contraindicações, para garantir sua segurança no tratamento, tudo bem?\n\n1️⃣ Tem tatuagem ou cicatriz na área a ser tratada?\n2️⃣ Possui pelos brancos, loiros ou ruivos na região?\n3️⃣ Tem alguma doença diagnosticada? Se sim, qual?\n4️⃣ Já teve algum tipo de câncer ?\n5️⃣ Está usando algum medicamento atualmente?\n6️⃣ Faz bronzeamento artificial com frequência?\n7️⃣ Está grávida ou amamentando ?\n8️⃣ Tem melasma ou outras condições na pele, como manchas ou sensibilidade?\n\n👉 Se nenhuma das opções se aplicar a você, pode responder: \"Não para todas\". Assim, consigo Garantir o seu Presente com total segurança e tranquilidade! 😉\n\nSó lembrando que esta é uma pre-anamnese, e quando for a loja para iniciar o seu tratamento prec"
+  },
+  {
+    "conv": "fNa5hBPLPYqyjtHVXLvS",
+    "date": "2026-08-18T18:57:57.220Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Aaah, prazer falar com você, Josiane Oliveira 😍\n\nEu sou a assistente virtual da Pello Menos, vou te ajudar por aqui rapidinho e já te encaminho para uma de nossas especialistas.\n\nA Pello Menos é pioneira em depilação segura há mais de 28 anos, com o Laser Hakon 4D, que atua em quatro dimensões do pelo e garante mais conforto com ponteira a -12 °C.\n\nPara eu fazer seu cadastro e lançar seu presente no nosso sistema, digita aqui seu CPF, por favor ⬇️"
+  },
+  {
+    "conv": "fNa5hBPLPYqyjtHVXLvS",
+    "date": "2026-08-18T18:57:23.588Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.*\n\nCom o *Laser Hacok 4D* que acelera seus resultados e tem a ponteira resfriada garantindo o conforto em cada sessão.\n\nPara liberar seu presente, digita aqui pra mim: *qual o seu nome completo?*"
+  },
+  {
+    "conv": "Oc6VZyxhyVLhNxalOdL6",
+    "date": "2026-08-18T19:12:11.104Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.*\n\nCom o *Laser Hacok 4D* que acelera seus resultados e tem a ponteira resfriada garantindo o conforto em cada sessão.\n\nPara liberar seu presente, digita aqui pra mim: *qual o seu nome completo?*"
+  },
+  {
+    "conv": "2wRVUyOyLl80ybPeqhnh",
+    "date": "2026-08-18T18:37:18.060Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Esse é o valor somente da virilha, te enviei junto com Perna inteiro, desculpa!\n\n Virilha Total +\n🎁 Interglúteos +\n🎁 Cóccix +\n🎁 PSD P (faixa abaixo do umbigo)\n➡️ **10x de R$ 83,60** *(10 sessões).*\n\no que achou?"
+  },
+  {
+    "conv": "2wRVUyOyLl80ybPeqhnh",
+    "date": "2026-08-18T16:25:51.261Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "• Virilha Total + Perna Inteira \n🎁 Interglúteos +\n🎁 PSD P +\n🎁 Cóccix +\n🎁 Pés e Dedos\n➡️ **10x de R$ 253,00** *(10 sessões de cada área).*\n\nO que achou?"
+  },
+  {
+    "conv": "2wRVUyOyLl80ybPeqhnh",
+    "date": "2026-08-18T16:25:01.377Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Boa tarde, Dani! Tudo bem?\nMe chamo Leila e farei continuidade no seu atendimento."
+  },
+  {
+    "conv": "2wRVUyOyLl80ybPeqhnh",
+    "date": "2026-08-18T15:13:30.664Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Aaah, prazer falar com você, *Headline:* Conheça A Pello Menos Largo Do Bicão *Source URL:* Https://www.instagram.com/p/Dbv8wHzgJa2/ Garanta Seu Desconto Nos Nossos Combos No Mês De Agosto. 😍\n\nMuito obrigada pelas informações!\nEu sou a assistente virtual da Pello Menos, vou te ajudar por aqui rapidinho e já te encaminho para uma das nossas especialistas, tá?\n\nSó pra você saber, a Pello Menos é pioneira em depilação feminina no Brasil, há mais de 30 anos cuidando de mulheres com excelência ✨\n\nVi que você clicou no nosso anúncio 👀\nMe conta só uma coisinha pra gente te direcionar melhor…\n\nQuais regiões mais te incomodam hoje e que você gostaria de se livrar dos pelinhos de vez? 💬"
+  },
+  {
+    "conv": "2wRVUyOyLl80ybPeqhnh",
+    "date": "2026-08-18T15:12:47.439Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Oi! Que bom te ver por aqui 🤩\n\nParabéns pela decisão de começar seu tratamento!\n\nAqui na Pello Menos usamos o HAKON 4D, que proporciona um resultado mais rápido e duradouro.\n\nE o melhor: a ponteira é geladinha (-12°C), deixando a aplicação muito mais confortável e segura para todos os tipos de pele.\n\nMe conta, qual o seu nome? 💬"
+  },
+  {
+    "conv": "skcI2pbpSdWacxrbtfzP",
+    "date": "2026-08-18T16:54:20.808Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Me chamo Camila e darei continuidade ao seu atendimento"
+  },
+  {
+    "conv": "ynd6RyR6OZ184BKSUQu6",
+    "date": "2026-08-18T16:48:09.809Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "🔥 Estamos com uma promoção imperdível! 🔥\n\n✨ Virilha Total + Interglúteos + Cóccix + PSDP (faixa abaixo do umbigo)\n\n➡️ 10 sessões por apenas 10x de R$ 83,60!\n\nUma ótima oportunidade para cuidar da pele, reduzir progressivamente os pelos e aproveitar o verão com mais praticidade. 💕✨"
+  },
+  {
+    "conv": "ynd6RyR6OZ184BKSUQu6",
+    "date": "2026-08-18T16:45:27.688Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Boa tarde, Camila! Tudo bem? 😊\n\nMe chamo Pamela e darei continuidade ao seu atendimento.\n\nVerifiquei que você perguntou sobre a forma de pagamento recorrente, e sim, trabalhamos com essa modalidade. Nela, é necessário cadastrar um cartão para que as parcelas sejam debitadas automaticamente conforme o plano contratado, a primeira parcela é paga no ato da compra\n\nSe tiver alguma dúvida, estou à disposição para te ajudar! ✨"
+  },
+  {
+    "conv": "ynd6RyR6OZ184BKSUQu6",
+    "date": "2026-08-18T15:27:51.131Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Já anotei tudo aqui 💜\nAgora só preciso que você me responda rapidinho sobre as contraindicações, para garantir sua segurança no tratamento, tudo bem?\n\n1️⃣ Tem tatuagem ou cicatriz na área a ser tratada?\n2️⃣ Possui pelos brancos, loiros ou ruivos na região?\n3️⃣ Tem alguma doença diagnosticada? Se sim, qual?\n4️⃣ Já teve algum tipo de câncer ?\n5️⃣ Está usando algum medicamento atualmente?\n6️⃣ Faz bronzeamento artificial com frequência?\n7️⃣ Está grávida ou amamentando ?\n8️⃣ Tem melasma ou outras condições na pele, como manchas ou sensibilidade?\n\n👉 Se nenhuma das opções se aplicar a você, pode responder: \"Não para todas\". Assim, consigo Garantir o seu Presente com total segurança e tranquilidade! 😉\n\nSó lembrando que esta é uma pre-anamnese, e quando for a loja para iniciar o seu tratamento prec"
+  },
+  {
+    "conv": "ynd6RyR6OZ184BKSUQu6",
+    "date": "2026-08-18T15:25:34.003Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Aaah, prazer falar com você, Boa Tarde 😍\n\nEu sou a assistente virtual da Pello Menos, vou te ajudar por aqui rapidinho e já te encaminho para uma de nossas especialistas.\n\nA Pello Menos é pioneira em depilação segura há mais de 28 anos, com o Laser Hakon 4D, que atua em quatro dimensões do pelo e garante mais conforto com ponteira a -12 °C.\n\nPara eu fazer seu cadastro e lançar seu presente no nosso sistema, digita aqui seu CPF, por favor ⬇️"
+  },
+  {
+    "conv": "ynd6RyR6OZ184BKSUQu6",
+    "date": "2026-08-18T15:22:12.441Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.*\n\nCom o *Laser Hacok 4D* que acelera seus resultados e tem a ponteira resfriada garantindo o conforto em cada sessão.\n\nPara liberar seu presente, digita aqui pra mim: *qual o seu nome completo?*"
+  },
+  {
+    "conv": "S7DDI8Pavh79G8YfVvbs",
+    "date": "2026-08-18T16:44:52.825Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Aaah, prazer falar com você, Andreia Martins 😍\n\nEu sou a assistente virtual da Pello Menos, vou te ajudar por aqui rapidinho e já te encaminho para uma de nossas especialistas.\n\nA Pello Menos é pioneira em depilação segura há mais de 28 anos, com o Laser Hakon 4D, que atua em quatro dimensões do pelo e garante mais conforto com ponteira a -12 °C.\n\nPara eu fazer seu cadastro e lançar seu presente no nosso sistema, digita aqui seu CPF, por favor ⬇️"
+  },
+  {
+    "conv": "S7DDI8Pavh79G8YfVvbs",
+    "date": "2026-08-18T16:44:21.350Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.*\n\nCom o *Laser Hacok 4D* que acelera seus resultados e tem a ponteira resfriada garantindo o conforto em cada sessão.\n\nPara liberar seu presente, digita aqui pra mim: *qual o seu nome completo?*"
+  },
+  {
+    "conv": "bEBXUY3hDhbpXjSGsiSA",
+    "date": "2026-08-18T16:42:37.711Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Agora é só comparecer à nossa unidade, localizada na Estrada do Galeão, 1192, próximo à Delegacia 37ª DP.\n\n⏰ Nosso horário de atendimento é:\n• Terça a sexta: das 9h às 19h\n• Sábado: das 9h às 17h\n\nAaaah, lembrando que nosso atendimento é sem hora marcada."
+  },
+  {
+    "conv": "bEBXUY3hDhbpXjSGsiSA",
+    "date": "2026-08-18T16:41:50.960Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Boa tarde, Grace! Tudo bem? 😊\n\nMe chamo Pamela e estou passando para avisar que seu presente já foi lançado em nosso sistema. 🎁✨\n\nVocê ganhou 3 sessões de axilas! 💕 Será um prazer receber você em nossa unidade."
+  },
+  {
+    "conv": "bEBXUY3hDhbpXjSGsiSA",
+    "date": "2026-08-18T12:45:04.455Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "app",
+    "text": "Seu atendimento\n\nDando continuidade ao seu atendimento por aqui. Me chama que te explico rapidinho e já deixo tudo encaminhado. 😊"
+  },
+  {
+    "conv": "bEBXUY3hDhbpXjSGsiSA",
+    "date": "2026-08-15T17:43:51.165Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Já anotei tudo aqui 💜\nAgora só preciso que você me responda rapidinho sobre as contraindicações, para garantir sua segurança no tratamento, tudo bem?\n\n1️⃣ Tem tatuagem ou cicatriz na área a ser tratada?\n2️⃣ Possui pelos brancos, loiros ou ruivos na região?\n3️⃣ Tem alguma doença diagnosticada? Se sim, qual?\n4️⃣ Já teve algum tipo de câncer ?\n5️⃣ Está usando algum medicamento atualmente?\n6️⃣ Faz bronzeamento artificial com frequência?\n7️⃣ Está grávida ou amamentando ?\n8️⃣ Tem melasma ou outras condições na pele, como manchas ou sensibilidade?\n\n👉 Se nenhuma das opções se aplicar a você, pode responder: \"Não para todas\". Assim, consigo Garantir o seu Presente com total segurança e tranquilidade! 😉\n\nSó lembrando que esta é uma pre-anamnese, e quando for a loja para iniciar o seu tratamento prec"
+  },
+  {
+    "conv": "bEBXUY3hDhbpXjSGsiSA",
+    "date": "2026-08-15T15:28:40.355Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Aaah, prazer falar com você, Grace Kelly Cruz Da Silva 😍\n\nEu sou a assistente virtual da Pello Menos, vou te ajudar por aqui rapidinho e já te encaminho para uma de nossas especialistas.\n\nA Pello Menos é pioneira em depilação segura há mais de 28 anos, com o Laser Hakon 4D, que atua em quatro dimensões do pelo e garante mais conforto com ponteira a -12 °C.\n\nPara eu fazer seu cadastro e lançar seu presente no nosso sistema, digita aqui seu CPF, por favor ⬇️"
+  },
+  {
+    "conv": "bEBXUY3hDhbpXjSGsiSA",
+    "date": "2026-08-15T15:24:47.658Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.*\n\nCom o *Laser Hacok 4D* que acelera seus resultados e tem a ponteira resfriada garantindo o conforto em cada sessão.\n\nPara liberar seu presente, digita aqui pra mim: *qual o seu nome completo?*"
+  },
+  {
+    "conv": "Vh6YCKK1pAWArtPWkM58",
+    "date": "2026-08-18T16:25:34.995Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Já anotei tudo aqui 💜\nAgora só preciso que você me responda rapidinho sobre as contraindicações, para garantir sua segurança no tratamento, tudo bem?\n\n1️⃣ Tem tatuagem ou cicatriz na área a ser tratada?\n2️⃣ Possui pelos brancos, loiros ou ruivos na região?\n3️⃣ Tem alguma doença diagnosticada? Se sim, qual?\n4️⃣ Já teve algum tipo de câncer ?\n5️⃣ Está usando algum medicamento atualmente?\n6️⃣ Faz bronzeamento artificial com frequência?\n7️⃣ Está grávida ou amamentando ?\n8️⃣ Tem melasma ou outras condições na pele, como manchas ou sensibilidade?\n\n👉 Se nenhuma das opções se aplicar a você, pode responder: \"Não para todas\". Assim, consigo Garantir o seu Presente com total segurança e tranquilidade! 😉\n\nSó lembrando que esta é uma pre-anamnese, e quando for a loja para iniciar o seu tratamento prec"
+  },
+  {
+    "conv": "Vh6YCKK1pAWArtPWkM58",
+    "date": "2026-08-18T16:24:56.714Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "Aaah, prazer falar com você, Samira Machado Gomes Wayand 😍\n\nEu sou a assistente virtual da Pello Menos, vou te ajudar por aqui rapidinho e já te encaminho para uma de nossas especialistas.\n\nA Pello Menos é pioneira em depilação segura há mais de 28 anos, com o Laser Hakon 4D, que atua em quatro dimensões do pelo e garante mais conforto com ponteira a -12 °C.\n\nPara eu fazer seu cadastro e lançar seu presente no nosso sistema, digita aqui seu CPF, por favor ⬇️"
+  },
+  {
+    "conv": "Vh6YCKK1pAWArtPWkM58",
+    "date": "2026-08-18T16:24:12.211Z",
+    "type": 19,
+    "direction": "outbound",
+    "source": "workflow",
+    "text": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.*\n\nCom o *Laser Hacok 4D* que acelera seus resultados e tem a ponteira resfriada garantindo o conforto em cada sessão.\n\nPara liberar seu presente, digita aqui pra mim: *qual o seu nome completo?*"
+  }
+]

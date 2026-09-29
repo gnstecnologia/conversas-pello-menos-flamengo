@@ -1,0 +1,47 @@
+{
+  "ok_n": 157,
+  "errors": [
+    {
+      "contact": "Vp1VnzNpxNLFtp1CiJAj",
+      "add": 401,
+      "del": 200,
+      "cf": 200,
+      "opps": [
+        200
+      ],
+      "add_body": "{'statusCode': 401, 'message': 'Command timed out'}",
+      "cf_body": "{'succeded': True, 'succeeded': True, 'contact': {'id': 'Vp1VnzNpxNLFtp1CiJAj', 'dateAdded': '2026-02-06T20:31:55.538Z', 'type': 'lead', 'locationId': 'aj3gIzF3LkjDml8i9k6e', 'firs"
+    }
+  ],
+  "deleted": [],
+  "location_tags_new": [
+    "só legenda - trafego",
+    "coisas com a cdt - trafego",
+    "com a cdt - trafego",
+    "a hora é agora - trafego",
+    "sus - trafego",
+    "ana mari - trafego"
+  ],
+  "sample_contact_tags": [
+    "metaads",
+    "teste-fonte",
+    "meta ads",
+    "só legenda - trafego"
+  ],
+  "sample_contact_cf": [
+    {
+      "id": "DXSjH6WmoOr9og9IMSaz",
+      "value": "2"
+    },
+    {
+      "id": "UJkJuWW3JW4gcOU14NLS",
+      "value": "só legenda - trafego"
+    }
+  ],
+  "sample_opp_cf": [
+    {
+      "id": "iYKCLDTp0IuIqgFChryY",
+      "fieldValue": "só legenda - trafego"
+    }
+  ]
+}

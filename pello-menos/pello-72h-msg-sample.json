@@ -1,0 +1,1820 @@
+[
+  {
+    "id": "ziiJiQCBPqgdri258oIr",
+    "name": "Júlia Alcântara",
+    "msgs": [
+      {
+        "t": "31/08 13:06",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "*Headline:* Conheça a Pello Menos Petrópolis | *Source URL:* https://www.instagram.com/p/DaBHT1FMRpe/ |  | Olá! Gostaria de aproveitar as 10 sessõ",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ziiJiQCBPqgdri258oIr",
+          "dateAdded": "2026-08-31T16:06:41.962Z",
+          "altId": "wamid.HBgNNTUyNDk5OTE4MTk5OBUCABIYFDJBQjhEODFFMkE0MDlDMjg4QjY2AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "31/08 13:06",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Oi! Que bom te ver por aqui 🤩 |  | Parabéns pela decisão de começar seu tratamento! |  | Aqui na Pello Menos usamos o HAKON 4D, que proporciona um r",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ziiJiQCBPqgdri258oIr",
+          "dateAdded": "2026-08-31T16:06:52.428Z",
+          "altId": "wamid.HBgNNTUyNDk5OTE4MTk5OBUCABEYEjA4MTgzNjNCQjhCMjc0RUNBQQA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "31/08 13:06",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity created",
+        "extra": {
+          "conversationId": "ziiJiQCBPqgdri258oIr",
+          "dateAdded": "2026-08-31T16:06:58.580Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      },
+      {
+        "t": "31/08 13:33",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Boa tarde, Júlia! Me chamo Thayná e vou dar continuidade em seu atendimento.",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ziiJiQCBPqgdri258oIr",
+          "dateAdded": "2026-08-31T16:33:31.930Z",
+          "altId": "wamid.HBgNNTUyNDk5OTE4MTk5OBUCABEYEjE0MjQyRDI0NUI4MjUzRDc1MwA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "31/08 13:35",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Vi que se interessou em nosso pacote promocional de axila, ele vem com 10 sessões e você pode utilizar em até dois anos. Gostaria de aprovei",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ziiJiQCBPqgdri258oIr",
+          "dateAdded": "2026-08-31T16:35:18.140Z",
+          "altId": "wamid.HBgNNTUyNDk5OTE4MTk5OBUCABEYEkNBMjZCM0ZBRTFEODlDQ0FFNwA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "31/08 14:05",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Ola",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ziiJiQCBPqgdri258oIr",
+          "dateAdded": "2026-08-31T17:05:57.160Z",
+          "altId": "wamid.HBgNNTUyNDk5OTE4MTk5OBUCABIYFDJBMjgwNkREOTZDNDU0MjRCQUM4AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "31/08 14:05",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Gostaria sim",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ziiJiQCBPqgdri258oIr",
+          "dateAdded": "2026-08-31T17:05:58.951Z",
+          "altId": "wamid.HBgNNTUyNDk5OTE4MTk5OBUCABIYFDJBNUZFRDM5MjlFNjYzM0JGMkFCAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "31/08 14:16",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Perfeito!",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ziiJiQCBPqgdri258oIr",
+          "dateAdded": "2026-08-31T17:16:42.452Z",
+          "altId": "wamid.HBgNNTUyNDk5OTE4MTk5OBUCABEYEkU4NjUyQ0I5Q0Y4RURGMjk2NgA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "31/08 14:16",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Agora só preciso que você me responda rapidinho sobre as contraindicações, para garantir sua segurança no tratamento, tudo bem? |  |  1️⃣ Tem ta",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ziiJiQCBPqgdri258oIr",
+          "dateAdded": "2026-08-31T17:16:46.166Z",
+          "altId": "wamid.HBgNNTUyNDk5OTE4MTk5OBUCABEYEjhBQzVENjQ3MzJEMDcxRDA0NwA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 16:16",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Consegui manter a condição especial que te passei. Me chama para garantir antes que saia do sistema. 😊",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ziiJiQCBPqgdri258oIr",
+          "dateAdded": "2026-09-02T19:16:34.520Z",
+          "altId": "wamid.HBgNNTUyNDk5OTE4MTk5OBUCABEYEjI1QjczODFENDYyRUFDMDM1RAA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      }
+    ]
+  },
+  {
+    "id": "jLrEjQyRXctmvyXFsEZK",
+    "name": "Andrea de Fátima G. C.de Freitas",
+    "msgs": [
+      {
+        "t": "02/09 07:36",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "*Headline:* Conheça a Pello Menos Petrópolis | *Source URL:* https://www.instagram.com/p/DbBm3TVsn4-/ |  | Olá! Gostaria de resgatar o voucher das",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "jLrEjQyRXctmvyXFsEZK",
+          "dateAdded": "2026-09-02T10:36:37.439Z",
+          "altId": "wamid.HBgNNTUyNDk4ODAyNzIyMhUCABIYFDNBN0JFRkY5NDdDM0Y1QThCRUE3AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 07:36",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.* |  | Com o *Laser Hacok 4D* que acelera seus resultados e t",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "jLrEjQyRXctmvyXFsEZK",
+          "dateAdded": "2026-09-02T10:36:40.343Z",
+          "altId": "wamid.HBgNNTUyNDk4ODAyNzIyMhUCABEYEjI5N0M3OTgxRUQyMERCMkY0OAA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 07:36",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity created",
+        "extra": {
+          "conversationId": "jLrEjQyRXctmvyXFsEZK",
+          "dateAdded": "2026-09-02T10:36:44.280Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      },
+      {
+        "t": "02/09 07:37",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Andrea de Fátima G. C.de Freitas",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "jLrEjQyRXctmvyXFsEZK",
+          "dateAdded": "2026-09-02T10:37:34.037Z",
+          "altId": "wamid.HBgNNTUyNDk4ODAyNzIyMhUCABIYFDNBREZENzk0MEEyNEZEMThFRjk3AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 07:37",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Aaah, prazer falar com você, Andrea De Fátima G. C.de Freitas 😍 |  | Eu sou a assistente virtual da Pello Menos, vou te ajudar por aqui rapidinh",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "jLrEjQyRXctmvyXFsEZK",
+          "dateAdded": "2026-09-02T10:37:36.707Z",
+          "altId": "wamid.HBgNNTUyNDk4ODAyNzIyMhUCABEYEkJBQTU1RUE2NDE1NDZEMjRDRAA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 07:38",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "002.602.647-33",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "jLrEjQyRXctmvyXFsEZK",
+          "dateAdded": "2026-09-02T10:38:04.124Z",
+          "altId": "wamid.HBgNNTUyNDk4ODAyNzIyMhUCABIYFDNBNzZGODg2N0ZFNzREMTg5NDk3AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 07:38",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Já anotei tudo aqui 💜 | Agora só preciso que você me responda rapidinho sobre as contraindicações, para garantir sua segurança no tratamento, ",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "jLrEjQyRXctmvyXFsEZK",
+          "dateAdded": "2026-09-02T10:38:07.209Z",
+          "altId": "wamid.HBgNNTUyNDk4ODAyNzIyMhUCABEYEjJBODg2NzcwQkI4OEE3NzQyNwA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 07:40",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "1- não | 2- sim | 3-não | 4- não | 5- sim | 6- não | 7- não | 8- não",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "jLrEjQyRXctmvyXFsEZK",
+          "dateAdded": "2026-09-02T10:40:15.844Z",
+          "altId": "wamid.HBgNNTUyNDk4ODAyNzIyMhUCABIYFDNBRTA2MEQ2RjE5OEI1NzRFRTY5AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 07:40",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Perfeito! 😊 | Já estou encaminhando suas informações para uma de nossas consultoras. |  | Enquanto isso, me conta: além da área que você ganhou de",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "jLrEjQyRXctmvyXFsEZK",
+          "dateAdded": "2026-09-02T10:40:17.759Z",
+          "altId": "wamid.HBgNNTUyNDk4ODAyNzIyMhUCABEYEjJEMEEyOUMyODg5MEUxNzJERAA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 07:40",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity updated",
+        "extra": {
+          "conversationId": "jLrEjQyRXctmvyXFsEZK",
+          "dateAdded": "2026-09-02T10:40:19.761Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      }
+    ]
+  },
+  {
+    "id": "w7DL9erDCzABi24ehdZ8",
+    "name": "Livia Braga",
+    "msgs": [
+      {
+        "t": "02/09 09:31",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "*Headline:* Conheça a Pello Menos Petrópolis | *Source URL:* https://www.instagram.com/p/DaBHT2Ss_EH/ |  | Olá! Gostaria de aproveitar as 10 sessõ",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "w7DL9erDCzABi24ehdZ8",
+          "dateAdded": "2026-09-02T12:31:15.085Z",
+          "altId": "wamid.HBgNNTUyNDk5ODgyNjQxMRUCABIYFDNBOUVBQTIwMEU5RTFENTEyNEI3AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 09:31",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Oi! Que bom te ver por aqui 🤩 |  | Parabéns pela decisão de começar seu tratamento! |  | Aqui na Pello Menos usamos o HAKON 4D, que proporciona um r",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "w7DL9erDCzABi24ehdZ8",
+          "dateAdded": "2026-09-02T12:31:19.050Z",
+          "altId": "wamid.HBgNNTUyNDk5ODgyNjQxMRUCABEYEkMyQzk0RDY5QUNBN0E1MzY2RAA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 09:31",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity created",
+        "extra": {
+          "conversationId": "w7DL9erDCzABi24ehdZ8",
+          "dateAdded": "2026-09-02T12:31:23.239Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      },
+      {
+        "t": "02/09 09:31",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Livia Braga",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "w7DL9erDCzABi24ehdZ8",
+          "dateAdded": "2026-09-02T12:31:49.524Z",
+          "altId": "wamid.HBgNNTUyNDk5ODgyNjQxMRUCABIYFDNBRjEzN0NGQUM2RjRGMTBDRUIxAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 09:31",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Aaah, prazer falar com você, Livia Braga 😍 |  | Muito obrigada pelas informações! | Eu sou a assistente virtual da Pello Menos, vou te ajudar por ",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "w7DL9erDCzABi24ehdZ8",
+          "dateAdded": "2026-09-02T12:31:52.412Z",
+          "altId": "wamid.HBgNNTUyNDk5ODgyNjQxMRUCABEYEjUxMzMzOUFFODhDOTI3MTAzNgA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 09:32",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Seria axila e virilha",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "w7DL9erDCzABi24ehdZ8",
+          "dateAdded": "2026-09-02T12:32:24.135Z",
+          "altId": "wamid.HBgNNTUyNDk5ODgyNjQxMRUCABIYFDNBRDNGQUQxQjBDQ0I2QzhERjlDAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 09:32",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Perfeito! 😊 | Já estou encaminhando suas informações para nossa consultora. 💜",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "w7DL9erDCzABi24ehdZ8",
+          "dateAdded": "2026-09-02T12:32:25.793Z",
+          "altId": "wamid.HBgNNTUyNDk5ODgyNjQxMRUCABEYEkFEQjdCMENERjRCOUI3MTA4QQA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 09:32",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity updated",
+        "extra": {
+          "conversationId": "w7DL9erDCzABi24ehdZ8",
+          "dateAdded": "2026-09-02T12:32:27.734Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      },
+      {
+        "t": "02/09 16:13",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Boa tarde! Me chamo Thayná e vou dar continuidade em seu atendimento.",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "w7DL9erDCzABi24ehdZ8",
+          "dateAdded": "2026-09-02T19:13:57.595Z",
+          "altId": "wamid.HBgNNTUyNDk5ODgyNjQxMRUCABEYEjA2NUY0NUZFODNGNjFGOTFCQgA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 16:15",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Vi que você se interessou em nossa promoção das 10 sessões de axila, gostaria de aproveitar nossa promoção?😍",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "w7DL9erDCzABi24ehdZ8",
+          "dateAdded": "2026-09-02T19:15:17.290Z",
+          "altId": "wamid.HBgNNTUyNDk5ODgyNjQxMRUCABEYEkQyODkyN0E2QTgxOUQ5QjI3NgA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ZBDgnvn13USqmuQDRwT8",
+    "name": "Lisa Biron de Araujo Castro",
+    "msgs": [
+      {
+        "t": "14/08 14:49",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "*Headline:* Conheça a Pello Menos Estrada dos Bandeirantes | *Source URL:* https://www.instagram.com/p/DaV0oOBAZgE/ |  | Olá! Posso ter mais infor",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ZBDgnvn13USqmuQDRwT8",
+          "dateAdded": "2026-08-14T17:49:04.271Z",
+          "altId": "wamid.HBgNNTUyMTk2NTU5NTc5NRUCABIYFDNBMDVDMzczRDdBQ0QzODUyOEU3AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "14/08 14:49",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity created",
+        "extra": {
+          "conversationId": "ZBDgnvn13USqmuQDRwT8",
+          "dateAdded": "2026-08-14T17:49:14.395Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      },
+      {
+        "t": "14/08 14:50",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Olá boa tarde sou a hyani , consultora especialista da Pello menos, unidade Estrada dos bandeirantes. Eu vou cuidar pessoalmente do seu aten",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ZBDgnvn13USqmuQDRwT8",
+          "dateAdded": "2026-08-14T17:50:45.447Z",
+          "altId": "wamid.HBgNNTUyMTk2NTU5NTc5NRUCABEYEkU2QTFGRkMwQkY0QkNFRDE3NQA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "26/08 13:57",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "*Headline:* Conheça a Pello Menos Estrada dos Bandeirantes | *Source URL:* https://www.instagram.com/p/DaV0djUg6Oi/ |  | Olá! Gostaria de resgatar",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ZBDgnvn13USqmuQDRwT8",
+          "dateAdded": "2026-08-26T16:57:51.800Z",
+          "altId": "wamid.HBgNNTUyMTk2NTU5NTc5NRUCABIYFDNBOTJFRTE2RTQyM0Q1RDc1NDc2AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "26/08 13:57",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.* |  | Com o *Laser Hacok 4D* que acelera seus resultados e t",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ZBDgnvn13USqmuQDRwT8",
+          "dateAdded": "2026-08-26T16:57:54.761Z",
+          "altId": "wamid.HBgNNTUyMTk2NTU5NTc5NRUCABEYEjU5Q0JGNEQ4MjE1MEU0MTE3QwA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "26/08 13:58",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Lisa Biron de Araujo Castro",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ZBDgnvn13USqmuQDRwT8",
+          "dateAdded": "2026-08-26T16:58:19.639Z",
+          "altId": "wamid.HBgNNTUyMTk2NTU5NTc5NRUCABIYFDNBOUNCOTcxOTM0Q0IwODBBRjM1AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "26/08 13:58",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Aaah, prazer falar com você, Lisa Biron De Araujo Castro 😍 |  | Eu sou a assistente virtual da Pello Menos, vou te ajudar por aqui rapidinho e j",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ZBDgnvn13USqmuQDRwT8",
+          "dateAdded": "2026-08-26T16:58:22.213Z",
+          "altId": "wamid.HBgNNTUyMTk2NTU5NTc5NRUCABEYEjNFREQ3QjVGMjQwRjBBRTlCRQA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "26/08 13:58",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "09778693773",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ZBDgnvn13USqmuQDRwT8",
+          "dateAdded": "2026-08-26T16:58:45.931Z",
+          "altId": "wamid.HBgNNTUyMTk2NTU5NTc5NRUCABIYFDNBQUU3MjY4QTE4NzUwQzhENzZBAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "26/08 13:58",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Já anotei tudo aqui 💜 | Agora só preciso que você me responda rapidinho sobre as contraindicações, para garantir sua segurança no tratamento, ",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ZBDgnvn13USqmuQDRwT8",
+          "dateAdded": "2026-08-26T16:58:50.735Z",
+          "altId": "wamid.HBgNNTUyMTk2NTU5NTc5NRUCABEYEjc1OTBCOEQzOTk2NTBENzE4NQA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "26/08 14:01",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "1 - não | 2 - não   | 3 - não  | 4 - não  | 5 - sim  | 6 - não  | 7 - não  | 8 - não",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "ZBDgnvn13USqmuQDRwT8",
+          "dateAdded": "2026-08-26T17:01:52.873Z",
+          "altId": "wamid.HBgNNTUyMTk2NTU5NTc5NRUCABIYFDNBMDBFNzA4NUM5NDBEMkVDMTYwAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      }
+    ]
+  },
+  {
+    "id": "IAxkkbucYWYrvsBO7qaR",
+    "name": "Débora Schmid",
+    "msgs": [
+      {
+        "t": "02/09 09:58",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "*Headline:* Conheça a Pello Menos Petrópolis | *Source URL:* https://www.instagram.com/p/DaBHT1FMRpe/ |  | Olá! Gostaria de aproveitar as 10 sessõ",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "IAxkkbucYWYrvsBO7qaR",
+          "dateAdded": "2026-09-02T12:58:35.544Z",
+          "altId": "wamid.HBgNNTUyNDk4MTM0MDA4NxUCABIYFDNBQUE4MDJEQTQ3QTgwOUM1Nzc1AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 09:58",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Oi! Que bom te ver por aqui 🤩 |  | Parabéns pela decisão de começar seu tratamento! |  | Aqui na Pello Menos usamos o HAKON 4D, que proporciona um r",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "IAxkkbucYWYrvsBO7qaR",
+          "dateAdded": "2026-09-02T12:58:38.067Z",
+          "altId": "wamid.HBgNNTUyNDk4MTM0MDA4NxUCABEYEjQ1QjgwREYzNzc2RUFDOTU5OAA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 09:58",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity created",
+        "extra": {
+          "conversationId": "IAxkkbucYWYrvsBO7qaR",
+          "dateAdded": "2026-09-02T12:58:41.898Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      },
+      {
+        "t": "02/09 10:11",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Débora Schmid",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "IAxkkbucYWYrvsBO7qaR",
+          "dateAdded": "2026-09-02T13:11:01.410Z",
+          "altId": "wamid.HBgNNTUyNDk4MTM0MDA4NxUCABIYFDNBNzBBNjU0RTFDRDA0RjJFQkEwAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 10:11",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Aaah, prazer falar com você, Débora Schmid 😍 |  | Muito obrigada pelas informações! | Eu sou a assistente virtual da Pello Menos, vou te ajudar po",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "IAxkkbucYWYrvsBO7qaR",
+          "dateAdded": "2026-09-02T13:11:51.155Z",
+          "altId": "wamid.HBgNNTUyNDk4MTM0MDA4NxUCABEYEjk4NjEzN0QxOEIxNjI4RjY5OQA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 10:18",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Por enquanto  só axila",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "IAxkkbucYWYrvsBO7qaR",
+          "dateAdded": "2026-09-02T13:18:12.443Z",
+          "altId": "wamid.HBgNNTUyNDk4MTM0MDA4NxUCABIYFDNBNThFRjFBODgxRjQzMkNCMDY1AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 10:18",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Perfeito! 😊 | Já estou encaminhando suas informações para nossa consultora. 💜",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "IAxkkbucYWYrvsBO7qaR",
+          "dateAdded": "2026-09-02T13:18:16.687Z",
+          "altId": "wamid.HBgNNTUyNDk4MTM0MDA4NxUCABEYEkI2ODZEQjQyQkU5Rjk3RDZCNAA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 10:18",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity updated",
+        "extra": {
+          "conversationId": "IAxkkbucYWYrvsBO7qaR",
+          "dateAdded": "2026-09-02T13:18:19.175Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      },
+      {
+        "t": "02/09 16:13",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Boa tarde! Me chamo Thayná e vou dar continuidade em seu atendimento.",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "IAxkkbucYWYrvsBO7qaR",
+          "dateAdded": "2026-09-02T19:13:17.641Z",
+          "altId": "wamid.HBgNNTUyNDk4MTM0MDA4NxUCABEYEjg3ODkyN0E1RDk4ODJEMzI4NwA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 16:13",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Vi que você se interessou em nossa promoção das 10 sessões de axila, gostaria de aproveitar nossa promoção?😍",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "IAxkkbucYWYrvsBO7qaR",
+          "dateAdded": "2026-09-02T19:13:31.569Z",
+          "altId": "wamid.HBgNNTUyNDk4MTM0MDA4NxUCABEYEjkzODYxNEQwQUYyNzFDQzUwMAA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      }
+    ]
+  },
+  {
+    "id": "gL1A3U5WT95q6pZJ6pEb",
+    "name": "Sheyla Fabiula Gomes da Costa",
+    "msgs": [
+      {
+        "t": "02/09 10:43",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "*Headline:* Conheça a Pello Menos Petrópolis | *Source URL:* https://www.instagram.com/p/DbBm3TVsn4-/ |  | Olá! Gostaria de resgatar o voucher das",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "gL1A3U5WT95q6pZJ6pEb",
+          "dateAdded": "2026-09-02T13:43:07.217Z",
+          "altId": "wamid.HBgNNTUyNDk5MjIyMjM3NxUCABIYIEFDRDgyNURBMUFCNUQ0RDBBN0NDNzkwRkY2M0RDOUNBAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 10:43",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.* |  | Com o *Laser Hacok 4D* que acelera seus resultados e t",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "gL1A3U5WT95q6pZJ6pEb",
+          "dateAdded": "2026-09-02T13:43:10.728Z",
+          "altId": "wamid.HBgNNTUyNDk5MjIyMjM3NxUCABEYEjk4NkYxNzIzMzQ3MUQ4MTE5MQA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 10:43",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity created",
+        "extra": {
+          "conversationId": "gL1A3U5WT95q6pZJ6pEb",
+          "dateAdded": "2026-09-02T13:43:13.659Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      },
+      {
+        "t": "02/09 10:43",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Sheyla Fabiula Gomes da Costa",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "gL1A3U5WT95q6pZJ6pEb",
+          "dateAdded": "2026-09-02T13:43:36.943Z",
+          "altId": "wamid.HBgNNTUyNDk5MjIyMjM3NxUCABIYIEFDMkY5REU4OTZDRjA2QzkwRDBBNDg0REFDOUU5QUJDAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 10:43",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Aaah, prazer falar com você, Sheyla Fabiula Gomes Da Costa 😍 |  | Eu sou a assistente virtual da Pello Menos, vou te ajudar por aqui rapidinho e",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "gL1A3U5WT95q6pZJ6pEb",
+          "dateAdded": "2026-09-02T13:43:39.439Z",
+          "altId": "wamid.HBgNNTUyNDk5MjIyMjM3NxUCABEYEkNGNUZGNTBCODYyQUFDN0I5MAA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 10:47",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "17364405780",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "gL1A3U5WT95q6pZJ6pEb",
+          "dateAdded": "2026-09-02T13:47:20.776Z",
+          "altId": "wamid.HBgNNTUyNDk5MjIyMjM3NxUCABIYIEFDQTg3NTNCQUUxRDQzQkE0RjQ3N0Y3RTdFNzkxQzhGAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 10:47",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Já anotei tudo aqui 💜 | Agora só preciso que você me responda rapidinho sobre as contraindicações, para garantir sua segurança no tratamento, ",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "gL1A3U5WT95q6pZJ6pEb",
+          "dateAdded": "2026-09-02T13:47:23.434Z",
+          "altId": "wamid.HBgNNTUyNDk5MjIyMjM3NxUCABEYEjgwRDVEOEZERTZCMTY5RDY5QgA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 10:48",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Não para todas",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "gL1A3U5WT95q6pZJ6pEb",
+          "dateAdded": "2026-09-02T13:48:31.538Z",
+          "altId": "wamid.HBgNNTUyNDk5MjIyMjM3NxUCABIYIEFDNTQ4OTI5MkRFRUJBQzI1QTYyRDFDMzc2NDUxMzc1AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 10:48",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Perfeito! 😊 | Já estou encaminhando suas informações para uma de nossas consultoras. |  | Enquanto isso, me conta: além da área que você ganhou de",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "gL1A3U5WT95q6pZJ6pEb",
+          "dateAdded": "2026-09-02T13:48:37.503Z",
+          "altId": "wamid.HBgNNTUyNDk5MjIyMjM3NxUCABEYEkZDQ0FDNTg0REM0NTM4QUJFNQA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 10:48",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity updated",
+        "extra": {
+          "conversationId": "gL1A3U5WT95q6pZJ6pEb",
+          "dateAdded": "2026-09-02T13:48:39.287Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      }
+    ]
+  },
+  {
+    "id": "8sZ35icGCnsiSh2k0YkX",
+    "name": "Débora",
+    "msgs": [
+      {
+        "t": "02/09 12:26",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "*Headline:* Conheça a Pello Menos Petrópolis | *Source URL:* https://www.instagram.com/p/DaBHT2Ss_EH/ |  | Olá! Gostaria de aproveitar as 10 sessõ",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "8sZ35icGCnsiSh2k0YkX",
+          "dateAdded": "2026-09-02T15:26:06.861Z",
+          "altId": "wamid.HBgNNTUyNDk5Mjc2ODA5NxUCABIYFDNBQThERDExRjMwN0Y2NEQ3NEUzAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 12:26",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Oi! Que bom te ver por aqui 🤩 |  | Parabéns pela decisão de começar seu tratamento! |  | Aqui na Pello Menos usamos o HAKON 4D, que proporciona um r",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "8sZ35icGCnsiSh2k0YkX",
+          "dateAdded": "2026-09-02T15:26:10.253Z",
+          "altId": "wamid.HBgNNTUyNDk5Mjc2ODA5NxUCABEYEjBBMDc5NUQ1QzQ2OEY2MkY5QQA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 12:26",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity created",
+        "extra": {
+          "conversationId": "8sZ35icGCnsiSh2k0YkX",
+          "dateAdded": "2026-09-02T15:26:13.486Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      },
+      {
+        "t": "02/09 12:37",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Débora",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "8sZ35icGCnsiSh2k0YkX",
+          "dateAdded": "2026-09-02T15:37:07.755Z",
+          "altId": "wamid.HBgNNTUyNDk5Mjc2ODA5NxUCABIYFDNBNEREM0JBQzM4QTdDRjk3RjM4AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 12:37",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Aaah, prazer falar com você, Débora 😍 |  | Muito obrigada pelas informações! | Eu sou a assistente virtual da Pello Menos, vou te ajudar por aqui ",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "8sZ35icGCnsiSh2k0YkX",
+          "dateAdded": "2026-09-02T15:37:10.375Z",
+          "altId": "wamid.HBgNNTUyNDk5Mjc2ODA5NxUCABEYEkI1NTIyNDc4MDQ3Mzc0MjczNgA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 12:38",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Virilha",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "8sZ35icGCnsiSh2k0YkX",
+          "dateAdded": "2026-09-02T15:38:41.484Z",
+          "altId": "wamid.HBgNNTUyNDk5Mjc2ODA5NxUCABIYFDNBRjg2QzAxMzc1Mzc2OTA5Q0U3AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 12:38",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Perfeito! 😊 | Já estou encaminhando suas informações para nossa consultora. 💜",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "8sZ35icGCnsiSh2k0YkX",
+          "dateAdded": "2026-09-02T15:38:43.684Z",
+          "altId": "wamid.HBgNNTUyNDk5Mjc2ODA5NxUCABEYEjk5REQ2RTEyMjQ1OTc0OTcwNwA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 12:38",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity updated",
+        "extra": {
+          "conversationId": "8sZ35icGCnsiSh2k0YkX",
+          "dateAdded": "2026-09-02T15:38:45.617Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      },
+      {
+        "t": "02/09 16:12",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Boa tarde! Me chamo Thayná e vou dar continuidade em seu atendimento.",
+        "extra": {
+          "status": "sent",
+          "contentType": "text/plain",
+          "conversationId": "8sZ35icGCnsiSh2k0YkX",
+          "dateAdded": "2026-09-02T19:12:11.489Z",
+          "altId": "wamid.HBgNNTUyNDk5Mjc2ODA5NxUCABEYEkU4QTQyNjNFOTMxQzY3QzhCMAA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 16:12",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Vi que você se interessou em nossa promoção das 10 sessões de axila, gostaria de aproveitar nossa promoção?😍",
+        "extra": {
+          "status": "sent",
+          "contentType": "text/plain",
+          "conversationId": "8sZ35icGCnsiSh2k0YkX",
+          "dateAdded": "2026-09-02T19:12:20.216Z",
+          "altId": "wamid.HBgNNTUyNDk5Mjc2ODA5NxUCABEYEjRERDlENjA5RDkyMENDMzA4NAA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      }
+    ]
+  },
+  {
+    "id": "EHgd8Zw9N4hweVyOm8zi",
+    "name": "Adriana vieira",
+    "msgs": [
+      {
+        "t": "24/07 12:05",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "*Headline:* Conheça a Pello Menos Petrópolis | *Source URL:* https://fb.me/9o0QmXYWI |  | Garanta seu desconto nos nossos combos no mês de Julho.",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "EHgd8Zw9N4hweVyOm8zi",
+          "dateAdded": "2026-07-24T15:05:15.851Z",
+          "altId": "wamid.HBgNNTUyNDk5MzA0NjMyNBUCABIYIEFDMzdGNUEzNTBGOTA0RTE1QjhERDI5MzEwQ0VDRTJCAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "24/07 12:05",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Oi! Que bom te ver por aqui 🤩 |  | Parabéns pela decisão de começar seu tratamento! |  | Aqui na Pello Menos usamos o HAKON 4D, que proporciona um r",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "EHgd8Zw9N4hweVyOm8zi",
+          "dateAdded": "2026-07-24T15:05:19.807Z",
+          "altId": "wamid.HBgNNTUyNDk5MzA0NjMyNBUCABEYEjBFQUNERjA3RUFGOTBFQkIzQgA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "24/07 12:05",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity created",
+        "extra": {
+          "conversationId": "EHgd8Zw9N4hweVyOm8zi",
+          "dateAdded": "2026-07-24T15:05:33.160Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      },
+      {
+        "t": "24/07 12:26",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Boa tarde! Me chamo Thayná e vou dar continuidade no seu atendimento.☺️",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "EHgd8Zw9N4hweVyOm8zi",
+          "dateAdded": "2026-07-24T15:26:53.641Z",
+          "altId": "wamid.HBgNNTUyNDk5MzA0NjMyNBUCABEYEjdFNkMyQzAzMUM1MzA2NzM0MgA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "24/07 12:40",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Vi que se interessou pelo nosso combo de julho, nesse combo você ganha 10 sessões gratuitas da axila ou do buço.😍",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "EHgd8Zw9N4hweVyOm8zi",
+          "dateAdded": "2026-07-24T15:40:22.370Z",
+          "altId": "wamid.HBgNNTUyNDk5MzA0NjMyNBUCABEYEkI0NkY3ODNGMUFFQjcwNzUxMwA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "24/07 13:47",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "EHgd8Zw9N4hweVyOm8zi",
+          "dateAdded": "2026-07-24T16:47:28.384Z",
+          "altId": "wamid.HBgNNTUyNDk5MzA0NjMyNBUCABIYIEFDNUFFOTc5ODkwMjk3RTEwRTExNzU5RUVGRkMwMkY3AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "24/07 15:39",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Aqui nós temos 3 tipos de virilha. A comum que tira apenas a lateral (pega 4 dedos), a cavada que deixa uma faixa de pelo na virilha e a tot",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "EHgd8Zw9N4hweVyOm8zi",
+          "dateAdded": "2026-07-24T18:39:08.067Z",
+          "altId": "wamid.HBgNNTUyNDk5MzA0NjMyNBUCABEYEkU5REM4RTM1RkE0RTNDNjY0MQA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "24/07 15:40",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Uma faixa de pelo",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "EHgd8Zw9N4hweVyOm8zi",
+          "dateAdded": "2026-07-24T18:40:26.403Z",
+          "altId": "wamid.HBgNNTUyNDk5MzA0NjMyNBUCABIYIEFDNEMyMTRDREUzMUJCRDA5QkY3NTkxNTNCMTY5N0Y0AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "24/07 15:48",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Perfeito! Você nunca fez o laser, correto?",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "EHgd8Zw9N4hweVyOm8zi",
+          "dateAdded": "2026-07-24T18:48:31.271Z",
+          "altId": "wamid.HBgNNTUyNDk5MzA0NjMyNBUCABEYEjA4NENFMDg3QjlCM0Y1Njc5MwA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 14:23",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "*Headline:* Conheça a Pello Menos Petrópolis | *Source URL:* https://fb.me/4SqDNATym |  | Olá! Gostaria de aproveitar as 10 sessões de axila por R",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "EHgd8Zw9N4hweVyOm8zi",
+          "dateAdded": "2026-09-02T17:23:03.108Z",
+          "altId": "wamid.HBgNNTUyNDk5MzA0NjMyNBUCABIYIEFDODk3ODk4NjlENTE5REJGNjFCQzA4RDg4ODQ5QzM1AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      }
+    ]
+  },
+  {
+    "id": "PPzjXtaBnNFQ6TKs0ymJ",
+    "name": "Nicole Scheiner",
+    "msgs": [
+      {
+        "t": "02/09 15:01",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "*Headline:* Conheça a Pello Menos São José dos Campos | *Source URL:* https://www.instagram.com/p/Da5yk2Hgi-P/ |  | Olá! Gostaria de resgastar o v",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "PPzjXtaBnNFQ6TKs0ymJ",
+          "dateAdded": "2026-09-02T18:01:20.645Z",
+          "altId": "wamid.HBgNNTUxMjk4MTAxNDAwMBUCABIYFDJBODQ0RkU1MkEyOTE5Q0I5QjJEAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 15:01",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.* |  | Com o *Laser Hacok 4D* que acelera seus resultados e t",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "PPzjXtaBnNFQ6TKs0ymJ",
+          "dateAdded": "2026-09-02T18:01:25.834Z",
+          "altId": "wamid.HBgNNTUxMjk4MTAxNDAwMBUCABEYEjU1RUIwMDk5RjQyMkUwQkU0QgA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 15:01",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity created",
+        "extra": {
+          "conversationId": "PPzjXtaBnNFQ6TKs0ymJ",
+          "dateAdded": "2026-09-02T18:01:29.544Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      },
+      {
+        "t": "02/09 15:04",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Nicole Scheiner",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "PPzjXtaBnNFQ6TKs0ymJ",
+          "dateAdded": "2026-09-02T18:04:16.242Z",
+          "altId": "wamid.HBgNNTUxMjk4MTAxNDAwMBUCABIYFDJBNDQ3MzJCRjIyOTM4RjZGQjZFAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 15:04",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Aaah, prazer falar com você, Nicole Scheiner 😍 |  | Eu sou a assistente virtual da Pello Menos, vou te ajudar por aqui rapidinho e já te encamin",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "PPzjXtaBnNFQ6TKs0ymJ",
+          "dateAdded": "2026-09-02T18:04:23.146Z",
+          "altId": "wamid.HBgNNTUxMjk4MTAxNDAwMBUCABEYEjc0MTcxRjJCNkU4QzgzMjAxQgA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 15:07",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Boa tarde Nicole, tudo bem? Meu nome é Salete e vou te  atender agora. | O presente de 3 sessões que você ganhou, tem 2 opções de áreas que vo",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "PPzjXtaBnNFQ6TKs0ymJ",
+          "dateAdded": "2026-09-02T18:07:24.706Z",
+          "altId": "wamid.HBgNNTUxMjk4MTAxNDAwMBUCABEYEkIwQTU5NDZCM0NFMzQyNTY3NwA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 15:11",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Sim, tudo",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "PPzjXtaBnNFQ6TKs0ymJ",
+          "dateAdded": "2026-09-02T18:11:56.171Z",
+          "altId": "wamid.HBgNNTUxMjk4MTAxNDAwMBUCABIYFDJBRTBBNEUwRDI1NDA3N0FFODY4AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 15:28",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Da cortesia, qual você quer fazer? Axila ou buço?",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "PPzjXtaBnNFQ6TKs0ymJ",
+          "dateAdded": "2026-09-02T18:28:02.156Z",
+          "altId": "wamid.HBgNNTUxMjk4MTAxNDAwMBUCABEYEjdBMkU1RTUyRkVDMUNCMjlENAA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 15:28",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Buço",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "PPzjXtaBnNFQ6TKs0ymJ",
+          "dateAdded": "2026-09-02T18:28:36.262Z",
+          "altId": "wamid.HBgNNTUxMjk4MTAxNDAwMBUCABIYFDJBMkZCMUFFQzE4MTAwQUNGQjQzAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 15:37",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Perfeito! 🤩 | E qual outra area você tem interesse?",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "PPzjXtaBnNFQ6TKs0ymJ",
+          "dateAdded": "2026-09-02T18:37:19.636Z",
+          "altId": "wamid.HBgNNTUxMjk4MTAxNDAwMBUCABEYEjgyODdCQ0EwQkZDOEFGODk1NwA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      }
+    ]
+  },
+  {
+    "id": "mNUfp5FhPwEr0nCFHo5n",
+    "name": "max",
+    "msgs": [
+      {
+        "t": "28/08 11:29",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "*Headline:* Conheça a Pello Menos Estrada dos Bandeirantes | *Source URL:* https://wa.me/wamo/status/preview/558002821239/120252670495770387 |  | ",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "mNUfp5FhPwEr0nCFHo5n",
+          "dateAdded": "2026-08-28T14:29:02.730Z",
+          "altId": "wamid.HBgNNTUyMTk2OTA2Njc5OBUCABIYFDNBOTI1OTlBMEM3QkE0RDgwQjhEAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "28/08 11:29",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity created",
+        "extra": {
+          "conversationId": "mNUfp5FhPwEr0nCFHo5n",
+          "dateAdded": "2026-08-28T14:29:11.047Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      },
+      {
+        "t": "28/08 11:30",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Oi! Que bom te ver por aqui 🤩 |  | Parabéns pela decisão de começar seu tratamento! |  | Aqui na Pello Menos usamos o HAKON 4D, que proporciona um r",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "mNUfp5FhPwEr0nCFHo5n",
+          "dateAdded": "2026-08-28T14:30:03.039Z",
+          "altId": "wamid.HBgNNTUyMTk2OTA2Njc5OBUCABEYEkIwMThCMEZGNEE0REY3M0E4NAA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "28/08 11:33",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Camila",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "mNUfp5FhPwEr0nCFHo5n",
+          "dateAdded": "2026-08-28T14:33:04.090Z",
+          "altId": "wamid.HBgNNTUyMTk2OTA2Njc5OBUCABIYFDNBRjJGMDQ0QjY1MzI0N0U4MDQ4AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "28/08 11:39",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Aaah, prazer falar com você, Camila 😍 |  | Muito obrigada pelas informações! | Eu sou a assistente virtual da Pello Menos, vou te ajudar por aqui ",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "mNUfp5FhPwEr0nCFHo5n",
+          "dateAdded": "2026-08-28T14:39:23.644Z",
+          "altId": "wamid.HBgNNTUyMTk2OTA2Njc5OBUCABEYEkRDNTNCMDMwMUUwNjQ3RDQwOQA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "28/08 11:42",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "virilha",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "mNUfp5FhPwEr0nCFHo5n",
+          "dateAdded": "2026-08-28T14:42:39.079Z",
+          "altId": "wamid.HBgNNTUyMTk2OTA2Njc5OBUCABIYFDNBOEM2OUVCNzFEQ0YzOURDMDlEAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "28/08 11:45",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Fizemos um combinho personalizado com a área que você deseja!! | ✔️ 10 Sessões de Depilação a Laser –  Virilha  | 🎁 E você GANHA de PRESENTE: | ✔️",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "mNUfp5FhPwEr0nCFHo5n",
+          "dateAdded": "2026-08-28T14:45:51.596Z",
+          "altId": "wamid.HBgNNTUyMTk2OTA2Njc5OBUCABEYEkQ0NzlGMDlEREI1REJBNDUwMAA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "28/08 11:47",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "não tem o de 62,29?",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "mNUfp5FhPwEr0nCFHo5n",
+          "dateAdded": "2026-08-28T14:47:20.618Z",
+          "altId": "wamid.HBgNNTUyMTk2OTA2Njc5OBUCABIYFDNBNEI2OTc2OTNCQzY1NkQwMDI4AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "28/08 12:43",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Temos esse combinho sim, ele se refere ao combo de virilha comum que só pega a parte de fora da calcinha. | ✔️ 10 Sessões de Depilação a Laser",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "mNUfp5FhPwEr0nCFHo5n",
+          "dateAdded": "2026-08-28T15:43:02.280Z",
+          "altId": "wamid.HBgNNTUyMTk2OTA2Njc5OBUCABEYEkREQ0EyNTdGQUVEQ0Q1RkM0RQA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "28/08 12:44",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Gostou do nosso cominho?",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "mNUfp5FhPwEr0nCFHo5n",
+          "dateAdded": "2026-08-28T15:44:07.465Z",
+          "altId": "wamid.HBgNNTUyMTk2OTA2Njc5OBUCABEYEkIyRTU5NTYwOThDRUVBODg1QQA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      }
+    ]
+  },
+  {
+    "id": "reJTIXiddsncQIQ9oKZM",
+    "name": "Liliane 💕",
+    "msgs": [
+      {
+        "t": "30/07 12:14",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "*Headline:* Conheça a Pello Menos São José dos Campos | *Source URL:* https://www.instagram.com/p/Da5yk2Hgi-P/ |  | Olá! Gostaria de resgastar o v",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "reJTIXiddsncQIQ9oKZM",
+          "dateAdded": "2026-07-30T15:14:03.953Z",
+          "altId": "wamid.HBgNNTUxMjk4ODU3MTU4MxUCABIYIEFDMUNDOUU4Q0Y3MDk2RDJENTY2Mjk5NDU5NjEwRDU4AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "30/07 12:14",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.* |  | Com o *Laser Hacok 4D* que acelera seus resultados e t",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "reJTIXiddsncQIQ9oKZM",
+          "dateAdded": "2026-07-30T15:14:07.291Z",
+          "altId": "wamid.HBgNNTUxMjk4ODU3MTU4MxUCABEYEkY5QjhDQjhDODJCNkNCRUVBQgA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "30/07 12:14",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity created",
+        "extra": {
+          "conversationId": "reJTIXiddsncQIQ9oKZM",
+          "dateAdded": "2026-07-30T15:14:10.474Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      },
+      {
+        "t": "30/07 13:05",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Seu atendimento |  | Dando continuidade ao seu atendimento por aqui. Me chama que te explico rapidinho e já deixo tudo encaminhado. 😊",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "reJTIXiddsncQIQ9oKZM",
+          "dateAdded": "2026-07-30T16:05:54.664Z",
+          "altId": "wamid.HBgNNTUxMjk4ODU3MTU4MxUCABEYEjVBNUE3NTJFMUFDNkQ0OTFBQwA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "30/07 16:21",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Liliane Cristina Pedrosa",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "reJTIXiddsncQIQ9oKZM",
+          "dateAdded": "2026-07-30T19:21:34.985Z",
+          "altId": "wamid.HBgNNTUxMjk4ODU3MTU4MxUCABIYIEFDQ0NCRDMxOUFGMjdGQ0FFQzRFN0M0QzVCMEE5REJEAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "30/07 16:50",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Oi Liliane tudo bem? Sou a Salete e eu vou te atender agora. | O presente de 3 sessões que você ganhou, tem 2 opções de áreas que você pode es",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "reJTIXiddsncQIQ9oKZM",
+          "dateAdded": "2026-07-30T19:50:08.688Z",
+          "altId": "wamid.HBgNNTUxMjk4ODU3MTU4MxUCABEYEkRFQzg2Qzk2OEM1RkIwNUQ4QQA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "30/07 17:04",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Axila",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "reJTIXiddsncQIQ9oKZM",
+          "dateAdded": "2026-07-30T20:04:59.615Z",
+          "altId": "wamid.HBgNNTUxMjk4ODU3MTU4MxUCABIYIEFDREVCODAzNzFFOTdCN0NCQUI3NTcxQ0ZBOTExNUM2AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "30/07 17:15",
+        "dir": "outbound",
+        "type": 19,
+        "source": "app",
+        "body": "Por gentileza, me passa o seu CPF e sua data de nascimento, para que eu possa abrir seu cadastro e liberar seu presente no nosso sistema",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "reJTIXiddsncQIQ9oKZM",
+          "dateAdded": "2026-07-30T20:15:55.001Z",
+          "altId": "wamid.HBgNNTUxMjk4ODU3MTU4MxUCABEYEjJBMzNFRkE4NTE3QUU0M0NFRgA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "31/07 14:02",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "229.724.118-62",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "reJTIXiddsncQIQ9oKZM",
+          "dateAdded": "2026-07-31T17:02:03.781Z",
+          "altId": "wamid.HBgNNTUxMjk4ODU3MTU4MxUCABIYIEFDNDc5NUEyRjU1RTc2NTQ5NjVCODYxN0FBQ0NDNzhCAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "31/07 14:02",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "22/02/1987",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "reJTIXiddsncQIQ9oKZM",
+          "dateAdded": "2026-07-31T17:02:11.106Z",
+          "altId": "wamid.HBgNNTUxMjk4ODU3MTU4MxUCABIYIEFDRDE0NjIwMDYwMDU4M0IzNkY2MEY4QjQxOUQ3NTE0AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      }
+    ]
+  },
+  {
+    "id": "gFFLhZXtCljGf6LQZalA",
+    "name": "Mirtes Glória da Penha Gonçalves Fialho",
+    "msgs": [
+      {
+        "t": "02/09 14:54",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "*Headline:* Conheça a Pello Menos Largo do Bicão | *Source URL:* https://fb.me/79Br4kJcm |  | Olá! Gostaria de resgatar o voucher das 3 sessões de",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "gFFLhZXtCljGf6LQZalA",
+          "dateAdded": "2026-09-02T17:54:59.172Z",
+          "altId": "wamid.HBgNNTUyMTk4MTUxNzMwNhUCABIYIEFDRURCQjNBRjE3NTk2QjgxMEJDNTMwNTEzRjEzQTYyAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 14:55",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "🎉 Parabéns! Você ganhou *3 sessões grátis* de depilação a laser com a *Pello Menos.* |  | Com o *Laser Hacok 4D* que acelera seus resultados e t",
+        "extra": {
+          "status": "sent",
+          "contentType": "text/plain",
+          "conversationId": "gFFLhZXtCljGf6LQZalA",
+          "dateAdded": "2026-09-02T17:55:04.196Z",
+          "altId": "wamid.HBgNNTUyMTk4MTUxNzMwNhUCABEYEjFBNzUzNjU5RDFCRkQzRjhDRQA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 14:55",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity created",
+        "extra": {
+          "conversationId": "gFFLhZXtCljGf6LQZalA",
+          "dateAdded": "2026-09-02T17:55:07.345Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      },
+      {
+        "t": "02/09 14:55",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Mirtes Glória da Penha Gonçalves Fialho",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "gFFLhZXtCljGf6LQZalA",
+          "dateAdded": "2026-09-02T17:55:40.508Z",
+          "altId": "wamid.HBgNNTUyMTk4MTUxNzMwNhUCABIYIEFDRDQwMjNBRDMzRjA1QUQ4OTc5NTlGMDI4OTE3OTYxAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 14:55",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Aaah, prazer falar com você, Mirtes Glória Da Penha Gonçalves Fialho 😍 |  | Eu sou a assistente virtual da Pello Menos, vou te ajudar por aqui r",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "gFFLhZXtCljGf6LQZalA",
+          "dateAdded": "2026-09-02T17:55:49.194Z",
+          "altId": "wamid.HBgNNTUyMTk4MTUxNzMwNhUCABEYEkUwMDkzMTQzQ0E4QTEzM0JBMwA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 14:56",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "08130872790",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "gFFLhZXtCljGf6LQZalA",
+          "dateAdded": "2026-09-02T17:56:16.367Z",
+          "altId": "wamid.HBgNNTUyMTk4MTUxNzMwNhUCABIYIEFDOTc5MDUyMTlBQzBFMDY4MkI0MUEyNkY2MTA4RjQ0AA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 14:56",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Já anotei tudo aqui 💜 | Agora só preciso que você me responda rapidinho sobre as contraindicações, para garantir sua segurança no tratamento, ",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "gFFLhZXtCljGf6LQZalA",
+          "dateAdded": "2026-09-02T17:56:20.366Z",
+          "altId": "wamid.HBgNNTUyMTk4MTUxNzMwNhUCABEYEjQ4ODM5RjRDRkNGNjE2NzcwOAA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 14:57",
+        "dir": "inbound",
+        "type": 19,
+        "source": null,
+        "body": "Não para todas",
+        "extra": {
+          "status": "delivered",
+          "contentType": "text/plain",
+          "conversationId": "gFFLhZXtCljGf6LQZalA",
+          "dateAdded": "2026-09-02T17:57:21.096Z",
+          "altId": "wamid.HBgNNTUyMTk4MTUxNzMwNhUCABIYIEFDNDc5RDgyQjQ1NURGQ0Q0NDUwNTNBQUYxRTI5REVEAA==",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 14:57",
+        "dir": "outbound",
+        "type": 19,
+        "source": "workflow",
+        "body": "Perfeito! 😊 | Já estou encaminhando suas informações para uma de nossas consultoras. |  | Enquanto isso, me conta: além da área que você ganhou de",
+        "extra": {
+          "status": "read",
+          "contentType": "text/plain",
+          "conversationId": "gFFLhZXtCljGf6LQZalA",
+          "dateAdded": "2026-09-02T17:57:23.398Z",
+          "altId": "wamid.HBgNNTUyMTk4MTUxNzMwNhUCABEYEjhERjUyNzBBRERGQUI3MDc5NQA=",
+          "messageType": "TYPE_WHATSAPP"
+        }
+      },
+      {
+        "t": "02/09 14:57",
+        "dir": "outbound",
+        "type": 28,
+        "source": "app",
+        "body": "Opportunity updated",
+        "extra": {
+          "conversationId": "gFFLhZXtCljGf6LQZalA",
+          "dateAdded": "2026-09-02T17:57:28.421Z",
+          "messageType": "TYPE_ACTIVITY_OPPORTUNITY"
+        }
+      }
+    ]
+  }
+]

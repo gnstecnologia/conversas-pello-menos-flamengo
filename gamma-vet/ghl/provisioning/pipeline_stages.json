@@ -1,0 +1,24 @@
+{
+  "pipelineName": "Agendamento Gamma Vet",
+  "locationId": "MhplIQf1baCvRBNGPTOj",
+  "apiNote": "A API publica do GHL so expoe GET /opportunities/pipelines. Criar este pipeline na UI: Opportunities > Pipelines > Create.",
+  "stages": [
+    { "order": 1, "name": "Novo lead", "purpose": "Entrou, ainda sem triagem util" },
+    { "order": 2, "name": "Triagem", "purpose": "Coletando exame / pet / preferencia / pedido" },
+    { "order": 3, "name": "Aguardando retorno", "purpose": "Fora do horario / pendente staff" },
+    { "order": 4, "name": "Fila Ultrassom", "purpose": "Setor US apos triagem" },
+    { "order": 5, "name": "Fila Tomografia", "purpose": "Prioridade/urgencia" },
+    { "order": 6, "name": "Fila Cintilografia", "purpose": "Renal = urgencia via tag" },
+    { "order": 7, "name": "Profissional e horario", "purpose": "Preferencia de doutor/slot explicita" },
+    { "order": 8, "name": "Em atendimento", "purpose": "Humano ativo na conversa" },
+    { "order": 9, "name": "Agendou", "purpose": "Ganho KPI", "statusHint": "won" },
+    { "order": 10, "name": "Nao agendou", "purpose": "Perda", "statusHint": "lost" },
+    { "order": 11, "name": "Nao responde", "purpose": "Apos 5 follow-ups" },
+    { "order": 12, "name": "Desqualificado", "purpose": "Lead invalido" },
+    { "order": 13, "name": "Exames nao atendidos", "purpose": "Ex: ressonancia" }
+  ],
+  "futurePipeline": {
+    "name": "Reativacao / Reagendamento",
+    "status": "HIPOTESE - fase posterior"
+  }
+}

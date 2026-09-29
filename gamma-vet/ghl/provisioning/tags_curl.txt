@@ -1,0 +1,12 @@
+﻿TAG cliente_ativo => {"message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","error":"Bad Request","statusCode":400} HTTP:400
+TAG aguardando => {"message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","error":"Bad Request","statusCode":400} HTTP:400
+TAG urgencia_tomo => {"message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","error":"Bad Request","statusCode":400} HTTP:400
+TAG urgencia_cintilo_renal => {"message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","error":"Bad Request","statusCode":400} HTTP:400
+TAG prioridade_cintilo => {"message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","error":"Bad Request","statusCode":400} HTTP:400
+TAG pedido_medico_recebido => {"message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","error":"Bad Request","statusCode":400} HTTP:400
+TAG pedido_medico_pendente => {"message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","error":"Bad Request","statusCode":400} HTTP:400
+TAG multi_pet => {"message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","error":"Bad Request","statusCode":400} HTTP:400
+TAG teste_interno => {"message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","error":"Bad Request","statusCode":400} HTTP:400
+TAG canal_whatsapp => {"message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","error":"Bad Request","statusCode":400} HTTP:400
+TAG canal_instagram => {"message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","error":"Bad Request","statusCode":400} HTTP:400
+TAG canal_google => {"message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","error":"Bad Request","statusCode":400} HTTP:400

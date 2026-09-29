@@ -1,0 +1,138 @@
+﻿{
+    "location":  {
+                     "id":  "3R4hY0j3TJyj2SkmSQL3",
+                     "brandId":  "TEgk1jWqGTRkETPhgziV",
+                     "companyId":  "PIK3OmRl8Y7U0cy1tHSR",
+                     "name":  "Clínica Multiodonto Odontologia",
+                     "address":  "Rua Coronel Agostinho, 00076",
+                     "city":  "Rio de Janeiro",
+                     "state":  "RJ",
+                     "country":  "BR",
+                     "locale":  "pt_BR",
+                     "postalCode":  "23050-360",
+                     "website":  "",
+                     "timezone":  "America/Sao_Paulo",
+                     "firstName":  "Carlos",
+                     "lastName":  "Augusto",
+                     "email":  "multiodonto.tecnologia@gmail.com",
+                     "phone":  "+5521967506668",
+                     "logoUrl":  "https://msgsndr-private.storage.googleapis.com/locationPhotos/ff714bbd-8224-4fe0-841a-52a2d19e0a62.png",
+                     "automaticMobileAppInvite":  false,
+                     "business":  {
+                                      "name":  "Clínica Multiodonto Odontologia",
+                                      "address":  "Rua Coronel Agostinho, 00076",
+                                      "city":  "Rio de Janeiro",
+                                      "state":  "RJ",
+                                      "country":  "BR",
+                                      "postalCode":  "23050-360",
+                                      "website":  "",
+                                      "timezone":  "America/Sao_Paulo",
+                                      "logoUrl":  "https://msgsndr-private.storage.googleapis.com/locationPhotos/ff714bbd-8224-4fe0-841a-52a2d19e0a62.png",
+                                      "email":  ""
+                                  },
+                     "social":  {
+                                    "facebookUrl":  "",
+                                    "googlePlus":  "",
+                                    "linkedIn":  "",
+                                    "foursquare":  "",
+                                    "twitter":  "",
+                                    "yelp":  "",
+                                    "instagram":  "",
+                                    "youtube":  "",
+                                    "pinterest":  "",
+                                    "blogRss":  "",
+                                    "googlePlacesId":  "ChIJDYzqOFbhmwAR-vz9vAXiaGY"
+                                },
+                     "settings":  {
+                                      "allowDuplicateContact":  false,
+                                      "allowDuplicateOpportunity":  false,
+                                      "allowFacebookNameMerge":  false,
+                                      "disableContactTimezone":  false,
+                                      "contactUniqueIdentifiers":  [
+                                                                       "email",
+                                                                       "phone"
+                                                                   ],
+                                      "crmSettings":  {
+                                                          "deSyncOwners":  true,
+                                                          "syncFollowers":  {
+                                                                                "contact":  true,
+                                                                                "opportunity":  true
+                                                                            }
+                                                      },
+                                      "saasSettings":  {
+                                                           "saasMode":  "activated",
+                                                           "customerId":  "cus_TuaNNdPNpRspMo",
+                                                           "planDetails":  {
+                                                                               "subscriptionId":  "sub_1SwpNHJt5r3lEjHqhbjw1jUE",
+                                                                               "productId":  "prod_TubmxDYuH0XpwI",
+                                                                               "priceId":  "price_1SwmYVJt5r3lEjHqKSgIAZ1h",
+                                                                               "subscriptionStatus":  "canceled"
+                                                                           },
+                                                           "twilioRebilling":  {
+                                                                                   "enabled":  false,
+                                                                                   "markup":  5
+                                                                               },
+                                                           "mailgunRebilling":  {
+                                                                                    "enabled":  false,
+                                                                                    "markup":  5,
+                                                                                    "price":  0.000675
+                                                                                },
+                                                           "saasPlanId":  "6982239083a759988b035251"
+                                                       }
+                                  },
+                     "dateAdded":  "2025-10-23T10:14:11.706Z",
+                     "domain":  "",
+                     "currency":  "BRL",
+                     "isAgencySubAccount":  false,
+                     "defaultEmailService":  "",
+                     "permissions":  {
+                                         "campaignsEnabled":  true,
+                                         "contactsEnabled":  true,
+                                         "workflowsEnabled":  true,
+                                         "triggersEnabled":  true,
+                                         "triggerLinksEnabled":  true,
+                                         "textToPayEnabled":  true,
+                                         "formsEnabled":  true,
+                                         "funnelsEnabled":  true,
+                                         "websitesEnabled":  true,
+                                         "opportunitiesEnabled":  true,
+                                         "dashboardStatsEnabled":  true,
+                                         "bulkRequestsEnabled":  true,
+                                         "appointmentsEnabled":  true,
+                                         "reviewsEnabled":  true,
+                                         "htmlBuilderEnabled":  false,
+                                         "phoneCallEnabled":  true,
+                                         "reportingEnabled":  true,
+                                         "conversationsEnabled":  true,
+                                         "adwordsReportingEnabled":  true,
+                                         "membershipEnabled":  true,
+                                         "marketingEnabled":  true,
+                                         "tagsEnabled":  true,
+                                         "settingsEnabled":  true,
+                                         "surveysEnabled":  true,
+                                         "smsEmailTemplatesEnabled":  true,
+                                         "emailBuilderEnabled":  true,
+                                         "agentReportingEnabled":  true,
+                                         "facebookAdsReportingEnabled":  true,
+                                         "attributionsReportingEnabled":  true,
+                                         "botServiceEnabled":  false,
+                                         "gmbCallTrackingEnabled":  true,
+                                         "gmbMessagingEnabled":  true,
+                                         "facebookMessengerEnabled":  true,
+                                         "webChatEnabled":  true,
+                                         "socialPlanner":  true,
+                                         "invoiceEnabled":  true,
+                                         "bloggingEnabled":  true,
+                                         "affiliateManagerEnabled":  true,
+                                         "communitiesEnabled":  true,
+                                         "certificatesEnabled":  true,
+                                         "proposalsEnabled":  true,
+                                         "quizzesEnabled":  true,
+                                         "qrCodesEnabled":  true,
+                                         "gokollabEnabled":  true,
+                                         "launchpadEnabled":  true
+                                     },
+                     "snapshotId":  "qyqN9qtNd0eaMkcwOOGZ"
+                 },
+    "traceId":  "12e25d2d-37f0-40b7-8f5a-712532b7c56b"
+}

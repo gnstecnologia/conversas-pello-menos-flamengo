@@ -1,0 +1,489 @@
+{
+  "contacts_created": 48,
+  "contacts_reused": 2,
+  "contacts_error": 0,
+  "opps_created": 45,
+  "opps_error": 0,
+  "opps_skip": 0,
+  "new_total_contacts": 50,
+  "new_total_opps": 43,
+  "contact_results": [
+    {
+      "old": "OUwcNA9ziNIMrWbZ4T7U",
+      "new": "pTMViCJhOWOhScyCzZfs",
+      "status": "created"
+    },
+    {
+      "old": "UlmnDzjVQlx1KPeAE8Is",
+      "new": "OtMGYe45S4HtOYfGSwTH",
+      "status": "created"
+    },
+    {
+      "old": "QTctxntfUB0ojy3WjkjO",
+      "new": "kOfdHDvwDYt1NnUwCZ7q",
+      "status": "created"
+    },
+    {
+      "old": "vzodfyzuabRgeqH7Qp6r",
+      "new": "gKYmGAiPEW2Qkm1yqIsk",
+      "status": "created"
+    },
+    {
+      "old": "mo76WUs5x3FScoah8DRD",
+      "new": "U4ZQfnpLtPonbgMsoTqm",
+      "status": "created"
+    },
+    {
+      "old": "lMN05nbDGm4jKI7O2RgS",
+      "new": "YfENgXzKP6M1EV9pWinu",
+      "status": "created"
+    },
+    {
+      "old": "o4RZYwNlk56fIal0hCbp",
+      "new": "F8z4ZoqQ83dnzdiKgTxy",
+      "status": "created"
+    },
+    {
+      "old": "l21BB174JKrbeI7bWMUf",
+      "new": "EaqoaNk2JZBOHzQX6HTK",
+      "status": "created"
+    },
+    {
+      "old": "tVkfEXuUy0TgQyBTzHzN",
+      "new": "riVmMbkgY13AnmNObxcb",
+      "status": "created"
+    },
+    {
+      "old": "AQYqMZqbLCGSOcwfaA0Z",
+      "new": "BiGJILkCYtvGDbEInjsa",
+      "status": "created"
+    },
+    {
+      "old": "tvtkthaZdfz2znmkTIKT",
+      "new": "OgE8eG68WKdN6gmf46se",
+      "status": "created"
+    },
+    {
+      "old": "kg9CqKhxBoRODmgWPgTN",
+      "new": "jZnqAq0GRpaY6XoJT4MI",
+      "status": "created"
+    },
+    {
+      "old": "2U1YcLVvhn91RDS2e2in",
+      "new": "Rw3CzeINaiVKVvkD7zcY",
+      "status": "created"
+    },
+    {
+      "old": "XSSFv2QibH6gnVAYFLLY",
+      "new": "EGX8a6WJswRktWKYoAhy",
+      "status": "created"
+    },
+    {
+      "old": "8VKgL4BYVUS7mYPnTaFF",
+      "new": "K12jPkroekjGLpgjJ0ae",
+      "status": "created"
+    },
+    {
+      "old": "pU8NK2aPDqth1NwJQ1rV",
+      "new": "BPiWZdL1ouUWwjFQe157",
+      "status": "created"
+    },
+    {
+      "old": "hhCdwBU2qdkwZcN9Oakq",
+      "new": "9Jp8j81YzQTK6cmPGfdA",
+      "status": "created"
+    },
+    {
+      "old": "ZLk9XR5VAxKc4Al63ALA",
+      "new": "Jy6HN0CVgqzYBPHa35Iz",
+      "status": "created"
+    },
+    {
+      "old": "LFa34pn38lah3Qk4QPQ7",
+      "new": "7eQV8J0CvNEFb7YP6utF",
+      "status": "created"
+    },
+    {
+      "old": "kXvTchvJK33TFS3g1cyr",
+      "new": "hoaY5Mm50hZcS8sfDPvF",
+      "status": "created"
+    },
+    {
+      "old": "Fz3xdYCS0exZHNsHi6QA",
+      "new": "2Gyv8IT1usVC1GOxdJai",
+      "status": "created"
+    },
+    {
+      "old": "A1iN4CoDv685BSPHXbjO",
+      "new": "EyU4SMsPP789iRwfNYxy",
+      "status": "created"
+    },
+    {
+      "old": "JTS1nP0ywtK3CRrELmeL",
+      "new": "3iW30BIFiKoyTJeF2KYN",
+      "status": "created"
+    },
+    {
+      "old": "sTVjFT4j7wLh8iMUz1yX",
+      "new": "2FxnZetWRBl0ftL6DEMm",
+      "status": "created"
+    },
+    {
+      "old": "ZwdIbFpZZwjyNR3rhF46",
+      "new": "cIDCGXrZCCauMHU2Iy1A",
+      "status": "created"
+    },
+    {
+      "old": "iyrq0PQDmWC08gLRofzu",
+      "new": "34m9HLgleMpwv8vShFl2",
+      "status": "created"
+    },
+    {
+      "old": "Q1IOhMZiRyRWIvfoPFH0",
+      "new": "EudSQqV4F3C1DEdDYM3Y",
+      "status": "created"
+    },
+    {
+      "old": "OPHLyPe46IA825r0BjaE",
+      "new": "kTMef9AyqXU2CmBj84lp",
+      "status": "created"
+    },
+    {
+      "old": "0TryIRAxuiL1JyHWreHC",
+      "new": "YyDiOPj7RzGOIn0DkYmb",
+      "status": "created"
+    },
+    {
+      "old": "RfK7RqbdO3jNIHAdTlJe",
+      "new": "RgW1OqWAY7Kj1K6rV3iH",
+      "status": "created"
+    },
+    {
+      "old": "Xt0LnhMhQ2ri5mSV3riU",
+      "new": "z0EtqDaz1tC7sZgtoyss",
+      "status": "created"
+    },
+    {
+      "old": "NTD4cMMmHoDpQoTmRcV3",
+      "new": "BDzCVShOF9QWlTXSKZXB",
+      "status": "created"
+    },
+    {
+      "old": "HbqXRWbpVlbAWSATUSGV",
+      "new": "gJX4HeiBAljuC50yAjcY",
+      "status": "created"
+    },
+    {
+      "old": "D6XtD8hASE8yqReZtU1n",
+      "new": "d2D2QHKkPPd02QpBs26Q",
+      "status": "created"
+    },
+    {
+      "old": "fHfqJmCgDC9IqSLTuoz3",
+      "new": "0eDkvnsM01a02NY1EoVO",
+      "status": "created"
+    },
+    {
+      "old": "eFqtwPVIJxqv4b5zu1lo",
+      "new": "0biFQZvnIV8qgEI1TtXg",
+      "status": "created"
+    },
+    {
+      "old": "ihcSOceh2WfGn8NuFWZ6",
+      "new": "nzTGwcO1ZgiJqhaWtLc4",
+      "status": "created"
+    },
+    {
+      "old": "bnQ3Hw0mHqJ3NFyJplp8",
+      "new": "zXIir13ynnwZ95frHW6r",
+      "status": "created"
+    },
+    {
+      "old": "202Jfbe7qS51Z9UQDNZW",
+      "new": "JP87tTrucxP1geWYxxoe",
+      "status": "created"
+    },
+    {
+      "old": "JE64qcLztwdiwqUlVYTg",
+      "new": "gzhahN8ABR7zkEmXgUiG",
+      "status": "created"
+    },
+    {
+      "old": "c7FmOu1HEq2YZ7n9wzRb",
+      "new": "UuP9wE2GfKesv9lyQBmN",
+      "status": "created"
+    },
+    {
+      "old": "PJYL5O19z7W71sNsmxec",
+      "new": "NmYtQxUBad3yNj65HKAp",
+      "status": "created"
+    },
+    {
+      "old": "23ICZ1BPWPuiFLBK6H4L",
+      "new": "Rad1YNsOqPe8aAgkfICN",
+      "status": "created"
+    },
+    {
+      "old": "OxLUXzfdcqSWVmt4TtOB",
+      "new": "WSApiEPyGrnON1ice1Ao",
+      "status": "created"
+    },
+    {
+      "old": "u2JZCQo7XnyHvHwwT1L8",
+      "new": "7wKCUNiq20eKvIfdVon9",
+      "status": "created"
+    },
+    {
+      "old": "S6JGcrCaDsGFHBGZV41e",
+      "new": "hzzKcuFosXvKBhVMeUnx",
+      "status": "reuse_phone"
+    },
+    {
+      "old": "S2HdMMAjqh6DpYVEgaSQ",
+      "new": "Z6gVnGgAs6g8dJzAtmFv",
+      "status": "created"
+    },
+    {
+      "old": "Tx3VgYQdDxijgp0JMLfu",
+      "new": "exsytwu1ZvHcPFKbRI14",
+      "status": "created"
+    },
+    {
+      "old": "IAaOS1drBY6c800l8LW4",
+      "new": "bOJBYRjw5QYkNp5M87aW",
+      "status": "reuse_phone"
+    },
+    {
+      "old": "W1mbLSleXZw17k6Qf9bw",
+      "new": "Zl1hZHBwBHZWfsbxsF3H",
+      "status": "created"
+    }
+  ],
+  "opp_results": [
+    {
+      "old": "RrDNVmPJae537NIpIcAf",
+      "new": "Yc9zeHwmTA2D1slljwbG",
+      "status": "created"
+    },
+    {
+      "old": "MNbNjKW1KHycZ3unbA9F",
+      "new": "jztJRcFDAQLlajSYiW7V",
+      "status": "created"
+    },
+    {
+      "old": "ixkte33KYaXDywZMyLcw",
+      "new": "SmtxqDOKgsVzuHhMx1Tj",
+      "status": "created"
+    },
+    {
+      "old": "YLln8bWI8VkvVVaCLFGD",
+      "new": "8agPc8dEkVqj2hWmlvMr",
+      "status": "created"
+    },
+    {
+      "old": "8MZ2m3D7hWFztspJQAzG",
+      "new": "HVu508p1ua3GK8w6ilOc",
+      "status": "created"
+    },
+    {
+      "old": "9zXXiIr5VSWwu4jLeSbu",
+      "new": "RNIgHkwnH3CgzrbFflfi",
+      "status": "created"
+    },
+    {
+      "old": "6d4kndhVcRMWnl3MrWjg",
+      "new": "EHJTHK37ScjY2FRFGOu1",
+      "status": "created"
+    },
+    {
+      "old": "O1si7LbUiJ1oUXYY6vkI",
+      "new": "HOAvYZK7j7pWGtz6afoA",
+      "status": "created"
+    },
+    {
+      "old": "KzFT9vwbDHPi4B4WU1T6",
+      "new": "08AR15qFeODwdRsPeyaa",
+      "status": "created"
+    },
+    {
+      "old": "r8TbA7zTPIkmofs06fQi",
+      "new": "nu9ZvCVnIyQsnL8eIkqe",
+      "status": "created"
+    },
+    {
+      "old": "ffMJTG4QljK3BnFLpIZd",
+      "new": "IVXN0fmhgMHPpUwP2nhJ",
+      "status": "created"
+    },
+    {
+      "old": "f2AcNwqFIRlO6fXpNZkT",
+      "new": "khWGDImKXrKmZSmGQBDs",
+      "status": "created"
+    },
+    {
+      "old": "WXlGQnOd5QMs9KtoVENW",
+      "new": "xTmQOhKe7S1F5d7lb2tt",
+      "status": "created"
+    },
+    {
+      "old": "OiZaYxOGA6Q9V0aF4I78",
+      "new": "JFAeXi7kUAlndHak9I7l",
+      "status": "created"
+    },
+    {
+      "old": "PKwgtFEQD9Yd62TiaZiG",
+      "new": "MR9CyevfHY0pfaLB7L3F",
+      "status": "created"
+    },
+    {
+      "old": "DuPUVqm6yN2PEuw4sA9R",
+      "new": "XunOgiYKHpc8sLDdKWPM",
+      "status": "created"
+    },
+    {
+      "old": "ySxgoNqLLhlfFYhj4Wyv",
+      "new": "VOUaElKVWpSXsKASrjbS",
+      "status": "created"
+    },
+    {
+      "old": "LFkdGxVGo4klHGaiU7Eh",
+      "new": "Qrezi7X9BN4UuuJ2IDIo",
+      "status": "created"
+    },
+    {
+      "old": "z5oc1ghPXOvbVYpV28GO",
+      "new": "wco80ek4hLlGROeBcCVM",
+      "status": "created"
+    },
+    {
+      "old": "ujNTHiWgd6Xwa3Eo7nOf",
+      "new": "gpgJZBbSkd7FuZeh7lVX",
+      "status": "created"
+    },
+    {
+      "old": "Oq6fz9iHgWRoBjVn9TBX",
+      "new": "3fBitcGiVAw9aO3ayBqG",
+      "status": "created"
+    },
+    {
+      "old": "J8RNKCpHX1pWlgMqUDVR",
+      "new": "khreW6tDjwHh853cKxhV",
+      "status": "created"
+    },
+    {
+      "old": "9yAwkl02mGIsgrug8kel",
+      "new": "wHA7KfYRLC2UMpld62Wy",
+      "status": "created"
+    },
+    {
+      "old": "vQEJ3em7fbLAzSGPz4FQ",
+      "new": "i4dRnDnL9l4ushblaLDa",
+      "status": "created"
+    },
+    {
+      "old": "APy1AIffm7zNc2NrN9i8",
+      "new": "g01I65rHBGZq99g3ViNY",
+      "status": "created"
+    },
+    {
+      "old": "NBp04XMoVGg017gcNJ1w",
+      "new": "fPvzodPAaV3NozcUEuXG",
+      "status": "created"
+    },
+    {
+      "old": "0J7Yx9KKTbhHgfNj9vf9",
+      "new": "uFrZwCIj3p5kt5lKLhyi",
+      "status": "created"
+    },
+    {
+      "old": "0pwqWA8bMFSoSzlEZrmu",
+      "new": "qN7zaNDx8CekutYKwANy",
+      "status": "created"
+    },
+    {
+      "old": "aJn1cCyk0FY7W1Co3iZO",
+      "new": "z6gawHALhGYldhjuP2mg",
+      "status": "created"
+    },
+    {
+      "old": "iXGOwZ8AGTU4iESnKuJX",
+      "new": "BjTHBRn1SlvIP8unqdZh",
+      "status": "created"
+    },
+    {
+      "old": "8LIXLgmNfjO2ONG8HwK9",
+      "new": "A97YsG9giYxh3Hj0i4Rs",
+      "status": "created"
+    },
+    {
+      "old": "a5z1pGYXicN3VvejeQwH",
+      "new": "WrcdiSJfVkeoZXqsLtcC",
+      "status": "created"
+    },
+    {
+      "old": "av2feDhHp4V83mWYRIcB",
+      "new": "pmQHlCNwGzIT3d3pwngu",
+      "status": "created"
+    },
+    {
+      "old": "lCjVrBark80vPbHi0QE1",
+      "new": "trApiDTniJkbtTl7Ndbm",
+      "status": "created"
+    },
+    {
+      "old": "che7hhCmduCS7soaTKtl",
+      "new": "TVc1XiczTi0rftC5gO2l",
+      "status": "created"
+    },
+    {
+      "old": "AxkWkFADNxGdVfbcL8Lr",
+      "new": "y3auew2uiMiWA2HLW7rk",
+      "status": "created"
+    },
+    {
+      "old": "bwvKZTbEozuIxxRbDixC",
+      "new": "ogqHlUBUwZFjGwBkfTAg",
+      "status": "created"
+    },
+    {
+      "old": "PGbBvppjhQtxCYI2TTur",
+      "new": "y068sMihO8Pq5AGxC2fg",
+      "status": "created"
+    },
+    {
+      "old": "X2hggNcxXFnLCOhs5q96",
+      "new": "PDtwABbd2R9cpXmkDbC8",
+      "status": "created"
+    },
+    {
+      "old": "wjab2PEtQw33B9xBaxCd",
+      "new": "sGyasVTEPXy1sIP1Zlel",
+      "status": "created"
+    },
+    {
+      "old": "7un6IBFcJoZfgo14IxPh",
+      "new": "vxQn6a4ZBQfp79pCWcJF",
+      "status": "created"
+    },
+    {
+      "old": "4PTkkrIjdugeM0vVRozt",
+      "new": "oc7Gl1DJPgbfGAGRRT14",
+      "status": "created"
+    },
+    {
+      "old": "5xyY4lA8UqGl8rAr901i",
+      "new": "SOlTbSI8LkRLpvsw2XYF",
+      "status": "created"
+    },
+    {
+      "old": "Tyqlxac0SdRjCH9C085K",
+      "new": "gksWvfZpHINcOZzLYlyE",
+      "status": "created"
+    },
+    {
+      "old": "csUWv0N4Q05cK7Fp4qMg",
+      "new": "lNW8JESDyE5vWQIYV3wW",
+      "status": "created"
+    }
+  ]
+}

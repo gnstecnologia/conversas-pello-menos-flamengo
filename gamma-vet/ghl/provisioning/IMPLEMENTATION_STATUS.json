@@ -1,0 +1,29 @@
+{
+  "locationId": "MhplIQf1baCvRBNGPTOj",
+  "completedAt": "2026-07-13",
+  "apiProvisioned": {
+    "tags": 12,
+    "customFields": 33,
+    "calendars": 10,
+    "testContacts": 10,
+    "conversationAiAgent": {
+      "id": "nEndeX5NE4uDJG7414RF",
+      "name": "Assistente Gamma Vet",
+      "mode": "off",
+      "cancelEnabled": false,
+      "rescheduleEnabled": false,
+      "knowledgeEmbeddedInInstructions": true
+    }
+  },
+  "uiRequired": [
+    "Create pipeline Agendamento Gamma Vet (13 stages)",
+    "Create workflows WF-01 to WF-09",
+    "Wire agent actions: fields, tags, trigger workflows, transfer",
+    "Adjust calendar openHours in UI",
+    "Invite users / permissions",
+    "Replace placeholder phones with real test numbers",
+    "Define assistant person name",
+    "Enable agent mode + WhatsApp test number when ready"
+  ],
+  "artifactsRoot": "ghl/"
+}

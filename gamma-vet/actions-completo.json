@@ -1,0 +1,593 @@
+[
+  {
+    "updatedAt": "2026-08-10T18:53:02.284Z",
+    "createdAt": "2026-08-10T18:53:02.284Z",
+    "name": "Nome Pet Ativo",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "haAxZOC5IiSe4hKuomtm",
+      "description": "Registrar o nome do animalzinho em atendimento nesta conversa. Se houver vários pets, confirmar qual e salvar aqui também.",
+      "contactUpdateExamples": [
+        "Thor",
+        "Mel",
+        "Luna",
+        "Bob"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "5TKGFZfEitPt5Ax1wRMR"
+  },
+  {
+    "updatedAt": "2026-08-10T18:53:03.112Z",
+    "createdAt": "2026-08-10T18:53:03.113Z",
+    "name": "Pet 1 Nome",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "NFzmsIeda5RgkqfK8sVc",
+      "description": "Registrar o nome do pet 1 (principal/cadastrado).",
+      "contactUpdateExamples": [
+        "Thor",
+        "Mel",
+        "Luna",
+        "Bob"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "VY28BV7f6GeMajF0Xywg"
+  },
+  {
+    "updatedAt": "2026-08-10T18:53:03.866Z",
+    "createdAt": "2026-08-10T18:53:03.866Z",
+    "name": "Pet 1 Especie",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "IGOsQyVyiThBD4QTamkN",
+      "description": "Registrar espécie do pet 1: cão/canino ou gato/felino.",
+      "contactUpdateExamples": [
+        "cão",
+        "gato",
+        "canino",
+        "felino"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "IQJAwLyIR00GLwON94PU"
+  },
+  {
+    "updatedAt": "2026-08-10T18:53:04.707Z",
+    "createdAt": "2026-08-10T18:53:04.708Z",
+    "name": "Pet 1 Raca",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "ArM9fka3ze3Ue4iCZUis",
+      "description": "Registrar a raça do pet 1.",
+      "contactUpdateExamples": [
+        "SRD",
+        "Golden Retriever",
+        "Persa",
+        "Poodle"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "caSZSJHC4nj1TwZM5bGU"
+  },
+  {
+    "updatedAt": "2026-08-10T18:53:05.701Z",
+    "createdAt": "2026-08-10T18:53:05.701Z",
+    "name": "Pet 1 Sexo",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "Ptw5o2ypvYqIh8FtnhyF",
+      "description": "Registrar sexo do pet 1: macho ou fêmea.",
+      "contactUpdateExamples": [
+        "macho",
+        "fêmea",
+        "macho castrado"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "kaEZwuQgbyfcC8bGkybL"
+  },
+  {
+    "updatedAt": "2026-08-10T18:53:06.572Z",
+    "createdAt": "2026-08-10T18:53:06.572Z",
+    "name": "Pet 1 Peso",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "zqeG5UrOsnYsx4ZHVuvQ",
+      "description": "Registrar peso do pet 1 em kg (número ou com kg).",
+      "contactUpdateExamples": [
+        "4kg",
+        "12",
+        "25 kg",
+        "8,5"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "WBo4XyxGmDeHBw3BuU5t"
+  },
+  {
+    "updatedAt": "2026-08-10T18:53:07.424Z",
+    "createdAt": "2026-08-10T18:53:07.425Z",
+    "name": "Pet 1 Castrado",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "7nsghFYfMQrc1v6BYgi6",
+      "description": "Registrar se o pet 1 é castrado: sim ou não.",
+      "contactUpdateExamples": [
+        "sim",
+        "não",
+        "castrado",
+        "inteiro"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "wMuL50Nm8xAdz0Lrs1SD"
+  },
+  {
+    "updatedAt": "2026-08-10T18:53:08.563Z",
+    "createdAt": "2026-08-10T18:53:08.563Z",
+    "name": "Pet 1 Nascimento",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "OvMHf9FSNUTFEfFIzs33",
+      "description": "Registrar data de nascimento do pet 1 (DD/MM/AAAA) ou idade aproximada convertida quando possível.",
+      "contactUpdateExamples": []
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "zd4RgXbNkFcJvDeMGXkn"
+  },
+  {
+    "updatedAt": "2026-08-10T18:53:37.371Z",
+    "createdAt": "2026-08-10T18:53:37.371Z",
+    "name": "Encerrar conversa",
+    "type": "stopBot",
+    "details": {
+      "stopBotExamples": [
+        "obrigado era só isso",
+        "não preciso mais",
+        "pode encerrar",
+        "tchau",
+        "até mais"
+      ],
+      "stopBotDetectionType": "Custom",
+      "stopBotTriggerCondition": "Quando o responsável disser que não precisa mais de ajuda ou encerrar a conversa.",
+      "finalMessage": "Perfeito! Qualquer coisa, a Gamma Vet está à disposição. Obrigada pela preferência.",
+      "enabled": true,
+      "reactivateEnabled": true,
+      "sleepTimeUnit": "hours",
+      "sleepTime": 12,
+      "tags": []
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "ffRcrPAxjIIjNGlNJrhB"
+  },
+  {
+    "updatedAt": "2026-08-10T18:55:41.524Z",
+    "createdAt": "2026-08-10T18:55:41.524Z",
+    "name": "CPF Tutor",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "mqoEcNSftTrEuUbf5okz",
+      "description": "Registrar CPF do responsável pelo paciente.",
+      "contactUpdateExamples": [
+        "123.456.789-00",
+        "12345678900"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "DckdM3WI58260NzppqN5"
+  },
+  {
+    "updatedAt": "2026-08-10T18:55:42.274Z",
+    "createdAt": "2026-08-10T18:55:42.274Z",
+    "name": "Procedimento Interesse",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "6xLlUMe2I6lpqvzCTl3T",
+      "description": "Registrar o exame/procedimento desejado.",
+      "contactUpdateExamples": [
+        "ultrassonografia abdominal",
+        "tomografia",
+        "cintilografia renal",
+        "ecocardiograma"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "mhD5LdCnph3N1LgAwWFy"
+  },
+  {
+    "updatedAt": "2026-08-10T18:55:42.969Z",
+    "createdAt": "2026-08-10T18:55:42.969Z",
+    "name": "Periodo Preferido",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "QvMOPlDnrvKJ0agQv54Z",
+      "description": "Registrar preferência: manhã ou tarde (sem noite).",
+      "contactUpdateExamples": [
+        "manhã",
+        "tarde"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "XxOLdh1E6TxF25sSWCJp"
+  },
+  {
+    "updatedAt": "2026-08-10T18:55:43.661Z",
+    "createdAt": "2026-08-10T18:55:43.662Z",
+    "name": "Datas Preferidas",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "l95I5S2GjQ1flYF417m3",
+      "description": "Registrar datas/dias preferidos.",
+      "contactUpdateExamples": [
+        "amanhã",
+        "quarta-feira",
+        "semana que vem"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "AjhanwtZS2sJybfMrdXq"
+  },
+  {
+    "updatedAt": "2026-08-10T18:55:44.579Z",
+    "createdAt": "2026-08-10T18:55:44.579Z",
+    "name": "Profissional Preferido",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "4H5CzRtB8WOVnvuEa8IL",
+      "description": "Registrar profissional preferido (Fernanda/Luciana).",
+      "contactUpdateExamples": [
+        "Fernanda",
+        "Luciana",
+        "Dra. Fernanda"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "ngMvR7l04OoWSowj8zwO"
+  },
+  {
+    "updatedAt": "2026-08-10T18:55:45.277Z",
+    "createdAt": "2026-08-10T18:55:45.277Z",
+    "name": "Plano Saude",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "SywzIGpOWyzdt6MDZvU6",
+      "description": "Registrar plano: Pet Love, Au Happy, particular ou nenhum.",
+      "contactUpdateExamples": [
+        "Pet Love",
+        "Au Happy",
+        "particular"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "lpbGLgkVMtUWvMWi0n9H"
+  },
+  {
+    "updatedAt": "2026-08-10T18:55:46.198Z",
+    "createdAt": "2026-08-10T18:55:46.198Z",
+    "name": "Motivo Exame",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "VcO9mhfVlYmtFiq1AYDI",
+      "description": "Registrar motivo clínico do exame.",
+      "contactUpdateExamples": [
+        "check-up",
+        "vômito",
+        "nódulo"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "tYeSh6nLlAy25Hg3dARW"
+  },
+  {
+    "updatedAt": "2026-08-10T18:55:47.055Z",
+    "createdAt": "2026-08-10T18:55:47.055Z",
+    "name": "Medicacoes em Uso",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "dzRxuVVYS4uDk99Nx665",
+      "description": "Registrar medicações em uso.",
+      "contactUpdateExamples": [
+        "nenhuma",
+        "metimazol"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "SzxXLsjm9FiM5GBNDO2f"
+  },
+  {
+    "updatedAt": "2026-08-10T18:55:47.982Z",
+    "createdAt": "2026-08-10T18:55:47.982Z",
+    "name": "Vet Solicitante Nome",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "rG83c5uLCN1Z1NxbTNxA",
+      "description": "Registrar nome do veterinário solicitante.",
+      "contactUpdateExamples": [
+        "Dr. João",
+        "Dra. Ana"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "dZEXgw5UyX4vguCZSZgg"
+  },
+  {
+    "updatedAt": "2026-08-10T18:55:48.972Z",
+    "createdAt": "2026-08-10T18:55:48.972Z",
+    "name": "Status Pedido Medico",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "huE9dRhX7YTnZwZGLz7T",
+      "description": "Status do pedido: pendente, recebido_foto, recebido_pdf.",
+      "contactUpdateExamples": [
+        "pendente",
+        "recebido_foto",
+        "recebido_pdf"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "fJSI3tEepOdWBRQYrKhW"
+  },
+  {
+    "updatedAt": "2026-08-10T18:55:49.830Z",
+    "createdAt": "2026-08-10T18:55:49.831Z",
+    "name": "Nivel Urgencia",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "2VqWKQwe44XYQemwBQvq",
+      "description": "normal, prioridade ou urgencia.",
+      "contactUpdateExamples": [
+        "normal",
+        "prioridade",
+        "urgencia"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "iW9bAMN9qb2O5uMm3wG5"
+  },
+  {
+    "updatedAt": "2026-08-10T18:55:50.941Z",
+    "createdAt": "2026-08-10T18:55:50.941Z",
+    "name": "Valor Informado",
+    "type": "updateContactField",
+    "details": {
+      "contactFieldId": "zUNLApjCBBcxBPea30Ow",
+      "description": "Valor numérico informado ao cliente (sem R$).",
+      "contactUpdateExamples": [
+        "400",
+        "1500",
+        "1750"
+      ]
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "Fl5p4sJM0AAThH8yARib"
+  },
+  {
+    "updatedAt": "2026-08-10T18:56:13.879Z",
+    "createdAt": "2026-08-10T18:56:13.879Z",
+    "name": "Follow-up parado de responder",
+    "type": "advancedFollowup",
+    "details": {
+      "enabled": true,
+      "followupSequence": [
+        {
+          "aiEnabledMessage": false,
+          "triggerWorkflow": false,
+          "id": 1,
+          "followupTime": 15,
+          "followupTimeUnit": "minutes",
+          "customMessage": "Olá! Vi sua mensagem sobre o exame do seu pet. Posso seguir te ajudando a reunir as informações para agendarmos?"
+        },
+        {
+          "aiEnabledMessage": false,
+          "triggerWorkflow": false,
+          "id": 2,
+          "followupTime": 1,
+          "followupTimeUnit": "hours",
+          "customMessage": "Oi! Só para não perder o fio — você gostaria de agendar algum exame na Gamma Vet? Estou à disposição."
+        },
+        {
+          "aiEnabledMessage": false,
+          "triggerWorkflow": false,
+          "id": 3,
+          "followupTime": 2,
+          "followupTimeUnit": "hours",
+          "customMessage": "Quando puder me diga qual exame deseja e o nome do animalzinho. Assim avanço com o agendamento."
+        },
+        {
+          "aiEnabledMessage": false,
+          "triggerWorkflow": false,
+          "id": 4,
+          "followupTime": 7,
+          "followupTimeUnit": "hours",
+          "customMessage": "Passando para saber se ainda posso ajudar com o agendamento. Se preferir, nossa equipe humana também pode te atender."
+        },
+        {
+          "aiEnabledMessage": false,
+          "triggerWorkflow": false,
+          "id": 5,
+          "followupTime": 12,
+          "followupTimeUnit": "hours",
+          "customMessage": "Último retorno por aqui: se quiser retomar o agendamento na Gamma Vet, é só responder esta conversa."
+        }
+      ],
+      "scenarioId": "contactStoppedReplying",
+      "followupSettings": {
+        "dynamicChannelSwitching": false,
+        "timezoneToUse": "contact",
+        "followUpHours": true,
+        "workingHours": [
+          {
+            "dayOfTheWeek": 1,
+            "intervals": [
+              {
+                "startHour": 7,
+                "startMinute": 0,
+                "endHour": 20,
+                "endMinute": 0
+              }
+            ]
+          },
+          {
+            "dayOfTheWeek": 2,
+            "intervals": [
+              {
+                "startHour": 7,
+                "startMinute": 0,
+                "endHour": 20,
+                "endMinute": 0
+              }
+            ]
+          },
+          {
+            "dayOfTheWeek": 3,
+            "intervals": [
+              {
+                "startHour": 7,
+                "startMinute": 0,
+                "endHour": 20,
+                "endMinute": 0
+              }
+            ]
+          },
+          {
+            "dayOfTheWeek": 4,
+            "intervals": [
+              {
+                "startHour": 7,
+                "startMinute": 0,
+                "endHour": 20,
+                "endMinute": 0
+              }
+            ]
+          },
+          {
+            "dayOfTheWeek": 5,
+            "intervals": [
+              {
+                "startHour": 7,
+                "startMinute": 0,
+                "endHour": 20,
+                "endMinute": 0
+              }
+            ]
+          },
+          {
+            "dayOfTheWeek": 6,
+            "intervals": [
+              {
+                "startHour": 7,
+                "startMinute": 0,
+                "endHour": 20,
+                "endMinute": 0
+              }
+            ]
+          },
+          {
+            "dayOfTheWeek": 7,
+            "intervals": [
+              {
+                "startHour": 10,
+                "startMinute": 0,
+                "endHour": 20,
+                "endMinute": 0
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "PkJFdXc3pI0xNCsGn43U"
+  },
+  {
+    "updatedAt": "2026-08-10T18:57:13.908Z",
+    "createdAt": "2026-08-10T18:57:13.909Z",
+    "name": "Transferir para humano",
+    "type": "humanHandOver",
+    "details": {
+      "enabled": true,
+      "triggerCondition": "Quando pedir atendimento humano",
+      "examples": [
+        "falar com humano",
+        "transferir",
+        "atendimento humano",
+        "falar com recepcao"
+      ],
+      "assignToUserId": "LxQOtMzWVhRqNLlWnLCI",
+      "skipAssignToUser": false,
+      "createTask": false,
+      "finalMessage": "Vou te transferir para nossa equipe humana da Gamma Vet.",
+      "reactivateEnabled": true,
+      "sleepTimeUnit": "hours",
+      "sleepTime": 24,
+      "handoverType": "contactRequest"
+    },
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "WYAPNMzGxHU13YiMh09L"
+  },
+  {
+    "createdAt": "2026-08-10T18:58:14.098Z",
+    "name": "Agendamento Gamma Vet",
+    "type": "appointmentBooking",
+    "details": {
+      "calendarId": "67dUBkMOw78GdahUsc1t",
+      "calendarIds": [
+        {
+          "id": "67dUBkMOw78GdahUsc1t",
+          "triggerCondition": "Ultrassonografia US abdominal cervical microbolhas cistocentese Dra Fernanda preferencial"
+        },
+        {
+          "id": "djzQjTsrDhXWaj3LzjU6",
+          "triggerCondition": "Ultrassonografia US Dra Luciana fallback"
+        },
+        {
+          "id": "T5uEa6vjDhpZUI1lZO1z",
+          "triggerCondition": "Ecocardiograma eco"
+        },
+        {
+          "id": "AxyMBOCfMaeb0yjEGtJ6",
+          "triggerCondition": "Eletrocardiograma eletro ECG"
+        },
+        {
+          "id": "sZ984nPHX1C8X6ntMw1d",
+          "triggerCondition": "Raio-X radiografia RX uretrografia urografia"
+        },
+        {
+          "id": "xxgHhAzTmq6GgntlmYV5",
+          "triggerCondition": "Tomografia TC"
+        },
+        {
+          "id": "D1e35F8TiJCsBqsqAJPz",
+          "triggerCondition": "Endoscopia colonoscopia rinoscopia broncoscopia"
+        },
+        {
+          "id": "HeFRPrO55KkQjhfJIaNc",
+          "triggerCondition": "Cintilografia medicina nuclear"
+        },
+        {
+          "id": "DFrcSX7SDJ5uJbz3qZ3C",
+          "triggerCondition": "Radioiodoterapia iodo radioativo"
+        },
+        {
+          "id": "XmdN5Odpbe063UXOo8YV",
+          "triggerCondition": "Pre-reserva fallback"
+        }
+      ],
+      "calendarActionType": "multiple",
+      "aiDescription": "Agenda exames Gamma Vet no calendario correto do procedimento.",
+      "fallbackCalendar": true,
+      "fallbackCalendarId": "XmdN5Odpbe063UXOo8YV",
+      "onlySendLink": false,
+      "triggerWorkflow": false,
+      "sleepAfterBooking": false,
+      "transferBot": false,
+      "rescheduleEnabled": true,
+      "cancelEnabled": true
+    },
+    "updatedAt": "2026-08-10T18:58:39.282Z",
+    "agentId": "nEndeX5NE4uDJG7414RF",
+    "id": "g4K4spRJdKq1zpMr2LLb"
+  }
+]

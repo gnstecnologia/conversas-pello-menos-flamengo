@@ -1,0 +1,584 @@
+{
+  "PELLO_FRANCHISING": {
+    "loc": "wi4al7UGFzPEEJxK3xJg",
+    "name": "Pello Menos | Franchising",
+    "get_loc": 200,
+    "loc_interesting": {
+      "address": "Avenida Paulista, 1636",
+      "dateAdded": "2026-02-20T13:20:30.408Z"
+    },
+    "loc_keys": [
+      "address",
+      "automaticMobileAppInvite",
+      "brandId",
+      "business",
+      "city",
+      "companyId",
+      "country",
+      "currency",
+      "dateAdded",
+      "defaultEmailService",
+      "domain",
+      "email",
+      "firstName",
+      "id",
+      "isAgencySubAccount",
+      "lastName",
+      "locale",
+      "logoUrl",
+      "name",
+      "permissions",
+      "phone",
+      "postalCode",
+      "settings",
+      "snapshotId",
+      "social",
+      "state",
+      "timezone",
+      "website"
+    ],
+    "probes": [
+      {
+        "path": "/locations/wi4al7UGFzPEEJxK3xJg?include=settings",
+        "st": 200,
+        "hits": [
+          "ads",
+          "template"
+        ],
+        "preview": "{'location': {'id': 'wi4al7UGFzPEEJxK3xJg', 'brandId': 'TEgk1jWqGTRkETPhgziV', 'companyId': 'PIK3OmRl8Y7U0cy1tHSR', 'name': 'Pello Menos | Franchising', 'address': 'Avenida Paulista, 1636', 'city': 'São Paulo', 'state': 'SP', 'country': 'BR"
+      },
+      {
+        "path": "/locations/wi4al7UGFzPEEJxK3xJg/settings",
+        "st": 404,
+        "hits": [],
+        "preview": "{'message': 'Cannot GET /locations/wi4al7UGFzPEEJxK3xJg/settings', 'error': 'Not Found', 'statusCode': 404}"
+      },
+      {
+        "path": "/whatsapp/templates?locationId=wi4al7UGFzPEEJxK3xJg",
+        "st": 404,
+        "hits": [],
+        "preview": "{'_raw': ''}"
+      },
+      {
+        "path": "/conversations/providers?locationId=wi4al7UGFzPEEJxK3xJg",
+        "st": 400,
+        "hits": [],
+        "preview": "{'statusCode': 400, 'error': 'Bad Request', 'message': 'Conversation with id providers not found', 'canonicalCode': 'CONVERSATIONS_CONVERSATION_NOT_FOUND', 'arguments': {'conversationId': 'providers'}}"
+      },
+      {
+        "path": "/conversations/locations/wi4al7UGFzPEEJxK3xJg/settings",
+        "st": 404,
+        "hits": [],
+        "preview": "{'message': 'Cannot GET /conversations/locations/wi4al7UGFzPEEJxK3xJg/settings', 'error': 'Not Found', 'statusCode': 404}"
+      },
+      {
+        "path": "/locations/wi4al7UGFzPEEJxK3xJg/conversationproviders",
+        "st": 404,
+        "hits": [],
+        "preview": "{'message': 'Cannot GET /locations/wi4al7UGFzPEEJxK3xJg/conversationproviders', 'error': 'Not Found', 'statusCode': 404}"
+      },
+      {
+        "path": "/locations/wi4al7UGFzPEEJxK3xJg/whatsapp",
+        "st": 404,
+        "hits": [
+          "whatsapp"
+        ],
+        "preview": "{'message': 'Cannot GET /locations/wi4al7UGFzPEEJxK3xJg/whatsapp', 'error': 'Not Found', 'statusCode': 404}"
+      },
+      {
+        "path": "/whatsapp/wi4al7UGFzPEEJxK3xJg",
+        "st": 404,
+        "hits": [],
+        "preview": "{'_raw': ''}"
+      },
+      {
+        "path": "/whatsapp/phoneNumbers?locationId=wi4al7UGFzPEEJxK3xJg",
+        "st": 404,
+        "hits": [],
+        "preview": "{'_raw': ''}"
+      },
+      {
+        "path": "/conversations/templates?locationId=wi4al7UGFzPEEJxK3xJg",
+        "st": 400,
+        "hits": [
+          "template"
+        ],
+        "preview": "{'statusCode': 400, 'error': 'Bad Request', 'message': 'Conversation with id templates not found', 'canonicalCode': 'CONVERSATIONS_CONVERSATION_NOT_FOUND', 'arguments': {'conversationId': 'templates'}}"
+      },
+      {
+        "path": "/social-planner/oauth/facebook/accounts?locationId=wi4al7UGFzPEEJxK3xJg",
+        "st": 404,
+        "hits": [],
+        "preview": "{'_raw': ''}"
+      },
+      {
+        "path": "/facebook/wi4al7UGFzPEEJxK3xJg",
+        "st": 404,
+        "hits": [],
+        "preview": "{'_raw': ''}"
+      },
+      {
+        "path": "/campaigns/?locationId=wi4al7UGFzPEEJxK3xJg",
+        "st": 200,
+        "hits": [],
+        "preview": "{'campaigns': [], 'traceId': 'd1971d59-8838-4ce8-8284-7ba9c6abcb75'}"
+      }
+    ],
+    "workflows": [
+      {
+        "id": "121bfe5d-a783-4a8a-b9ab-4652c314f664",
+        "name": "01. Anúncio de Desconto ou Outro Procedimento (Sem ser axila)",
+        "status": "published",
+        "hits": [
+          "24",
+          "anúncio"
+        ]
+      },
+      {
+        "id": "5349707b-01db-491d-97f3-b8a95f71aad5",
+        "name": "01. Novo lead",
+        "status": "draft",
+        "hits": [
+          "24"
+        ]
+      },
+      {
+        "id": "dce24b9f-5c4b-4df8-975d-d9b3a9fa444c",
+        "name": "02. Anúncio de Axila 94,90",
+        "status": "published",
+        "hits": [
+          "24",
+          "anúncio"
+        ]
+      },
+      {
+        "id": "d5d49564-0ef0-4b3c-a875-6a7c68ef69fb",
+        "name": "03. Anúncio de 3 Sessões",
+        "status": "published",
+        "hits": [
+          "anúncio"
+        ]
+      },
+      {
+        "id": "1889637d-bba9-4532-86cb-82c70d79360d",
+        "name": "03. Não compareceu ao agendamento",
+        "status": "draft",
+        "hits": []
+      },
+      {
+        "id": "b40819ce-c7cb-4fc7-9be4-20387b090437",
+        "name": "04. Recebeu orçamento/ follow-up",
+        "status": "draft",
+        "hits": []
+      },
+      {
+        "id": "c18317f7-1198-4526-beee-92bea66870e3",
+        "name": "05. Vendido",
+        "status": "draft",
+        "hits": []
+      },
+      {
+        "id": "6b059df8-bcb9-4aa9-86e2-3ae3ca0b7b24",
+        "name": "Copy - Fluxo de Distribuição - Lojas",
+        "status": "draft",
+        "hits": [
+          "24"
+        ]
+      },
+      {
+        "id": "885b48c4-882f-40db-9e55-f51ca36d8746",
+        "name": "DISPARO PROMÇÃO AMIGO",
+        "status": "published",
+        "hits": []
+      },
+      {
+        "id": "5ab0e0e8-8b4b-45e4-99bd-e82459c1d1bb",
+        "name": "E-mail DISPARO - 21/08",
+        "status": "published",
+        "hits": [
+          "24"
+        ]
+      },
+      {
+        "id": "dca96512-fec9-4539-8b37-a87350edd3de",
+        "name": "Estágio Pipeline ≠ Novo Lead -> Remover da automação \"0.1 Novo Lead\"",
+        "status": "draft",
+        "hits": []
+      },
+      {
+        "id": "5bb3517a-fac7-40e7-b66a-c7b441786d2a",
+        "name": "Fluxo de Distribuição - Lojas",
+        "status": "published",
+        "hits": []
+      },
+      {
+        "id": "a4a8a22e-6370-4961-8d55-0628584fa0e9",
+        "name": "Fluxo de Qualificação de E-mail - Pós Cadastro",
+        "status": "draft",
+        "hits": []
+      },
+      {
+        "id": "f705f489-1980-45a1-bf5c-520270490fe4",
+        "name": "Follow Up | Sem Resposta | Pello Menos",
+        "status": "published",
+        "hits": []
+      },
+      {
+        "id": "20f812d6-5fac-418e-adb2-b4c5fd33c5f3",
+        "name": "New Workflow : 1772653138380",
+        "status": "draft",
+        "hits": [
+          "72"
+        ]
+      },
+      {
+        "id": "e3c6f39d-b104-4f5d-a725-a95fca09ae89",
+        "name": "Reativação de Lead | Retorno de Resposta | Pello Menos",
+        "status": "published",
+        "hits": [
+          "72"
+        ]
+      },
+      {
+        "id": "8f4da6bd-c74a-4b03-a843-520e355a209e",
+        "name": "Status: Perdido/Abandonado -> Remover das automações",
+        "status": "draft",
+        "hits": []
+      },
+      {
+        "id": "19567dbc-1025-484c-b9d9-5ea2d0a7f053",
+        "name": "Tag de Estágio | Comanda de Cortesia Aberta",
+        "status": "published",
+        "hits": []
+      },
+      {
+        "id": "07ba3cc5-5816-4cf4-bd30-384088df8601",
+        "name": "Tag de Estágio | Em Atendimento",
+        "status": "published",
+        "hits": []
+      },
+      {
+        "id": "e35dfdcd-ecf7-4c36-b6b6-b60cee1d9845",
+        "name": "Tag de Estágio | Em Negociação",
+        "status": "published",
+        "hits": []
+      },
+      {
+        "id": "1287b476-7b15-4b36-a23c-a32111b3e1b0",
+        "name": "Tag de Estágio | Interesse em Cera",
+        "status": "published",
+        "hits": []
+      },
+      {
+        "id": "c79321be-60ee-408c-89f1-332e54530a22",
+        "name": "Tag de Estágio | Link Enviado | Laser",
+        "status": "published",
+        "hits": [
+          "24"
+        ]
+      },
+      {
+        "id": "3cd10bfb-3cb7-40a7-82ba-8f9ba53671e2",
+        "name": "Tag de Estágio | Novo Lead",
+        "status": "published",
+        "hits": []
+      },
+      {
+        "id": "5a5577c3-e5e5-41b1-8eea-5e33f57106d6",
+        "name": "Tag de Estágio | Parou de Responder",
+        "status": "published",
+        "hits": []
+      },
+      {
+        "id": "4ff6607d-8cf7-4cc6-bb7c-0c085df441c5",
+        "name": "Tag de Estágio | Vendido | Laser",
+        "status": "published",
+        "hits": []
+      },
+      {
+        "id": "e404ff21-2731-4bc6-9317-204fe965a85b",
+        "name": "WF Fluxo de Distribuição - Lojas",
+        "status": "draft",
+        "hits": []
+      }
+    ]
+  },
+  "PELLO_MODELO": {
+    "loc": "iWMsfmAtJU97tEvl6TbI",
+    "name": "MODELO - Pello Menos",
+    "get_loc": 200,
+    "loc_interesting": {
+      "address": "Av. das Américas",
+      "dateAdded": "2026-08-25T20:49:11.864Z"
+    },
+    "loc_keys": [
+      "address",
+      "automaticMobileAppInvite",
+      "brandId",
+      "business",
+      "city",
+      "companyId",
+      "country",
+      "currency",
+      "dateAdded",
+      "defaultEmailService",
+      "domain",
+      "email",
+      "firstName",
+      "id",
+      "isAgencySubAccount",
+      "lastName",
+      "logoUrl",
+      "name",
+      "permissions",
+      "phone",
+      "postalCode",
+      "settings",
+      "snapshotId",
+      "social",
+      "state",
+      "timezone",
+      "website"
+    ],
+    "probes": [
+      {
+        "path": "/locations/iWMsfmAtJU97tEvl6TbI?include=settings",
+        "st": 200,
+        "hits": [
+          "ads",
+          "template"
+        ],
+        "preview": "{'location': {'id': 'iWMsfmAtJU97tEvl6TbI', 'brandId': 'TEgk1jWqGTRkETPhgziV', 'companyId': 'PIK3OmRl8Y7U0cy1tHSR', 'name': 'MODELO - Pello Menos', 'address': 'Av. das Américas', 'city': 'Rio de Janeiro', 'state': 'Rio de Janeiro', 'country"
+      },
+      {
+        "path": "/locations/iWMsfmAtJU97tEvl6TbI/settings",
+        "st": 404,
+        "hits": [],
+        "preview": "{'message': 'Cannot GET /locations/iWMsfmAtJU97tEvl6TbI/settings', 'error': 'Not Found', 'statusCode': 404}"
+      },
+      {
+        "path": "/whatsapp/templates?locationId=iWMsfmAtJU97tEvl6TbI",
+        "st": 404,
+        "hits": [],
+        "preview": "{'_raw': ''}"
+      },
+      {
+        "path": "/conversations/providers?locationId=iWMsfmAtJU97tEvl6TbI",
+        "st": 400,
+        "hits": [],
+        "preview": "{'statusCode': 400, 'error': 'Bad Request', 'message': 'Conversation with id providers not found', 'canonicalCode': 'CONVERSATIONS_CONVERSATION_NOT_FOUND', 'arguments': {'conversationId': 'providers'}}"
+      },
+      {
+        "path": "/conversations/locations/iWMsfmAtJU97tEvl6TbI/settings",
+        "st": 404,
+        "hits": [],
+        "preview": "{'message': 'Cannot GET /conversations/locations/iWMsfmAtJU97tEvl6TbI/settings', 'error': 'Not Found', 'statusCode': 404}"
+      },
+      {
+        "path": "/locations/iWMsfmAtJU97tEvl6TbI/conversationproviders",
+        "st": 404,
+        "hits": [],
+        "preview": "{'message': 'Cannot GET /locations/iWMsfmAtJU97tEvl6TbI/conversationproviders', 'error': 'Not Found', 'statusCode': 404}"
+      },
+      {
+        "path": "/locations/iWMsfmAtJU97tEvl6TbI/whatsapp",
+        "st": 404,
+        "hits": [
+          "whatsapp"
+        ],
+        "preview": "{'message': 'Cannot GET /locations/iWMsfmAtJU97tEvl6TbI/whatsapp', 'error': 'Not Found', 'statusCode': 404}"
+      },
+      {
+        "path": "/whatsapp/iWMsfmAtJU97tEvl6TbI",
+        "st": 404,
+        "hits": [],
+        "preview": "{'_raw': ''}"
+      },
+      {
+        "path": "/whatsapp/phoneNumbers?locationId=iWMsfmAtJU97tEvl6TbI",
+        "st": 404,
+        "hits": [],
+        "preview": "{'_raw': ''}"
+      },
+      {
+        "path": "/conversations/templates?locationId=iWMsfmAtJU97tEvl6TbI",
+        "st": 400,
+        "hits": [
+          "template"
+        ],
+        "preview": "{'statusCode': 400, 'error': 'Bad Request', 'message': 'Conversation with id templates not found', 'canonicalCode': 'CONVERSATIONS_CONVERSATION_NOT_FOUND', 'arguments': {'conversationId': 'templates'}}"
+      },
+      {
+        "path": "/social-planner/oauth/facebook/accounts?locationId=iWMsfmAtJU97tEvl6TbI",
+        "st": 404,
+        "hits": [],
+        "preview": "{'_raw': ''}"
+      },
+      {
+        "path": "/facebook/iWMsfmAtJU97tEvl6TbI",
+        "st": 404,
+        "hits": [],
+        "preview": "{'_raw': ''}"
+      },
+      {
+        "path": "/campaigns/?locationId=iWMsfmAtJU97tEvl6TbI",
+        "st": 200,
+        "hits": [],
+        "preview": "{'campaigns': [], 'traceId': 'c0264583-6114-49b2-abe1-5563bd369a0f'}"
+      }
+    ],
+    "workflows": []
+  },
+  "PELLO_URG": {
+    "loc": "xXSw3xjZQTFUqIEI3VSR",
+    "name": "Pello Menos - Uruguai",
+    "get_loc": 200,
+    "loc_interesting": {
+      "address": "Condomínio do Ed Franco Hara Center Bl C - R. Uruguai",
+      "dateAdded": "2026-07-23T17:25:47.198Z"
+    },
+    "loc_keys": [
+      "address",
+      "brandId",
+      "business",
+      "city",
+      "companyId",
+      "country",
+      "currency",
+      "dateAdded",
+      "defaultEmailService",
+      "domain",
+      "email",
+      "firstName",
+      "id",
+      "isAgencySubAccount",
+      "lastName",
+      "logoUrl",
+      "name",
+      "permissions",
+      "phone",
+      "postalCode",
+      "settings",
+      "snapshotId",
+      "social",
+      "state",
+      "timezone",
+      "website"
+    ],
+    "probes": [
+      {
+        "path": "/locations/xXSw3xjZQTFUqIEI3VSR?include=settings",
+        "st": 200,
+        "hits": [],
+        "preview": "{'location': {'id': 'xXSw3xjZQTFUqIEI3VSR', 'brandId': 'TEgk1jWqGTRkETPhgziV', 'companyId': 'PIK3OmRl8Y7U0cy1tHSR', 'name': 'Pello Menos - Uruguai', 'address': 'Condomínio do Ed Franco Hara Center Bl C - R. Uruguai', 'city': 'Rio de Janeiro"
+      },
+      {
+        "path": "/locations/xXSw3xjZQTFUqIEI3VSR/settings",
+        "st": 404,
+        "hits": [],
+        "preview": "{'message': 'Cannot GET /locations/xXSw3xjZQTFUqIEI3VSR/settings', 'error': 'Not Found', 'statusCode': 404}"
+      },
+      {
+        "path": "/whatsapp/templates?locationId=xXSw3xjZQTFUqIEI3VSR",
+        "st": 404,
+        "hits": [],
+        "preview": "{'_raw': ''}"
+      },
+      {
+        "path": "/conversations/providers?locationId=xXSw3xjZQTFUqIEI3VSR",
+        "st": 400,
+        "hits": [],
+        "preview": "{'statusCode': 400, 'error': 'Bad Request', 'message': 'Conversation with id providers not found', 'canonicalCode': 'CONVERSATIONS_CONVERSATION_NOT_FOUND', 'arguments': {'conversationId': 'providers'}}"
+      },
+      {
+        "path": "/conversations/locations/xXSw3xjZQTFUqIEI3VSR/settings",
+        "st": 404,
+        "hits": [],
+        "preview": "{'message': 'Cannot GET /conversations/locations/xXSw3xjZQTFUqIEI3VSR/settings', 'error': 'Not Found', 'statusCode': 404}"
+      },
+      {
+        "path": "/locations/xXSw3xjZQTFUqIEI3VSR/conversationproviders",
+        "st": 404,
+        "hits": [],
+        "preview": "{'message': 'Cannot GET /locations/xXSw3xjZQTFUqIEI3VSR/conversationproviders', 'error': 'Not Found', 'statusCode': 404}"
+      },
+      {
+        "path": "/locations/xXSw3xjZQTFUqIEI3VSR/whatsapp",
+        "st": 404,
+        "hits": [
+          "whatsapp"
+        ],
+        "preview": "{'message': 'Cannot GET /locations/xXSw3xjZQTFUqIEI3VSR/whatsapp', 'error': 'Not Found', 'statusCode': 404}"
+      },
+      {
+        "path": "/whatsapp/xXSw3xjZQTFUqIEI3VSR",
+        "st": 404,
+        "hits": [],
+        "preview": "{'_raw': ''}"
+      },
+      {
+        "path": "/whatsapp/phoneNumbers?locationId=xXSw3xjZQTFUqIEI3VSR",
+        "st": 404,
+        "hits": [],
+        "preview": "{'_raw': ''}"
+      },
+      {
+        "path": "/conversations/templates?locationId=xXSw3xjZQTFUqIEI3VSR",
+        "st": 400,
+        "hits": [
+          "template"
+        ],
+        "preview": "{'statusCode': 400, 'error': 'Bad Request', 'message': 'Conversation with id templates not found', 'canonicalCode': 'CONVERSATIONS_CONVERSATION_NOT_FOUND', 'arguments': {'conversationId': 'templates'}}"
+      },
+      {
+        "path": "/social-planner/oauth/facebook/accounts?locationId=xXSw3xjZQTFUqIEI3VSR",
+        "st": 404,
+        "hits": [],
+        "preview": "{'_raw': ''}"
+      },
+      {
+        "path": "/facebook/xXSw3xjZQTFUqIEI3VSR",
+        "st": 404,
+        "hits": [],
+        "preview": "{'_raw': ''}"
+      },
+      {
+        "path": "/campaigns/?locationId=xXSw3xjZQTFUqIEI3VSR",
+        "st": 200,
+        "hits": [],
+        "preview": "{'campaigns': [], 'traceId': '33a75d64-1e1e-47ef-b5e2-4967c197cfa4'}"
+      }
+    ],
+    "workflows": [
+      {
+        "id": "aea400ab-5053-4fb2-8523-f5091229d9a6",
+        "name": "Anúncios Unificados",
+        "status": "draft",
+        "hits": [
+          "72",
+          "anúncio"
+        ]
+      },
+      {
+        "id": "ebcc8f75-15b8-4d75-b349-d4522a6a81d0",
+        "name": "DISPARO PROMÇÃO AMIGO",
+        "status": "draft",
+        "hits": [
+          "24"
+        ]
+      },
+      {
+        "id": "05884e71-0ee3-4ac5-850c-26d30e3ddefd",
+        "name": "New Workflow : 1785332043280",
+        "status": "draft",
+        "hits": []
+      },
+      {
+        "id": "894ed769-03f4-49f2-8d45-845a4e49dc7c",
+        "name": "WORKFLOW 02 — Distribuir para Atendente Uruguai",
+        "status": "published",
+        "hits": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+﻿{
+    "pipelines":  [
+                      {
+                          "id":  "bjumwe7sN7ysDAot5ug1",
+                          "name":  "Agendamento",
+                          "showInFunnel":  true,
+                          "showInPieChart":  true,
+                          "useOpportunityProbability":  false,
+                          "dateAdded":  "2025-10-23T10:14:19.209Z",
+                          "dateUpdated":  "2025-10-24T09:38:00.411Z",
+                          "stages":  [
+                                         {
+                                             "id":  "357e7897-61de-4fad-9ad4-d41bbb49088c",
+                                             "name":  "Novo Lead",
+                                             "showInFunnel":  true,
+                                             "showInPieChart":  true,
+                                             "position":  0,
+                                             "stageWinProbability":  12.5,
+                                             "originId":  "ZDhhMjEyNzgtN2IwMS00NjE0LTk1YzUtZGI4MmZlZTYyOWI3"
+                                         },
+                                         {
+                                             "id":  "0352ffe0-7748-472f-81f9-43cfd2e9860c",
+                                             "name":  "Triagem",
+                                             "showInFunnel":  true,
+                                             "showInPieChart":  true,
+                                             "position":  1,
+                                             "stageWinProbability":  25,
+                                             "originId":  "OTczODdiMTItMWUxMy00Yzg2LTk1ZGUtYmMzYzIxNWU3MDNk"
+                                         },
+                                         {
+                                             "id":  "85cb5401-a74e-4242-af7c-33bf43a93494",
+                                             "name":  "Profissional e Horário",
+                                             "showInFunnel":  true,
+                                             "showInPieChart":  true,
+                                             "position":  2,
+                                             "stageWinProbability":  37.5,
+                                             "originId":  "ZTNkYTE3OTQtMDYzMi00MWM5LWE0M2EtNjE0ZDBkYjY3ZTY2"
+                                         },
+                                         {
+                                             "id":  "bb804950-2387-4661-b139-fa18a201bcd9",
+                                             "name":  "Agendado (Confirmado)",
+                                             "showInFunnel":  true,
+                                             "showInPieChart":  true,
+                                             "position":  3,
+                                             "stageWinProbability":  50,
+                                             "originId":  "YTJlZjkzNWMtODI1MS00ZmI1LWE5OTMtMWNlODMxZjBjY2I5"
+                                         },
+                                         {
+                                             "id":  "1ac7111f-2438-4824-a869-810bbf875cea",
+                                             "name":  "Compareceu",
+                                             "showInFunnel":  true,
+                                             "showInPieChart":  true,
+                                             "position":  4,
+                                             "stageWinProbability":  62.5,
+                                             "originId":  "Zjg5ODBjZTUtZDA5OC00ZGJkLTg0ZTctYWZhNGEyODhmMmQy"
+                                         },
+                                         {
+                                             "id":  "c55b38c5-5b13-4cef-a2fd-757e1856dcde",
+                                             "name":  "Reagendar",
+                                             "showInFunnel":  true,
+                                             "showInPieChart":  true,
+                                             "position":  5,
+                                             "stageWinProbability":  75
+                                         },
+                                         {
+                                             "id":  "4b52f3e5-3897-4006-9333-7f1f797bfded",
+                                             "name":  "Cancelado",
+                                             "showInFunnel":  true,
+                                             "showInPieChart":  true,
+                                             "position":  6,
+                                             "stageWinProbability":  87.5
+                                         }
+                                     ],
+                          "locationId":  "3R4hY0j3TJyj2SkmSQL3",
+                          "originId":  "I082gWJzRIvCrsnC7vkL"
+                      },
+                      {
+                          "id":  "XaBffySff0u8K3qoeF0h",
+                          "name":  "Funil de Vendas",
+                          "useOpportunityProbability":  false,
+                          "dateAdded":  "2026-02-03T14:55:52.866Z",
+                          "dateUpdated":  "2026-02-03T14:55:52.866Z",
+                          "stages":  [
+                                         {
+                                             "id":  "6d6ac742-72f8-4a4e-8a7b-e5aa2c2b1d7a",
+                                             "name":  "🌱 | Novo lead",
+                                             "showInFunnel":  true,
+                                             "showInPieChart":  true,
+                                             "position":  0,
+                                             "stageWinProbability":  16.67,
+                                             "originId":  "YzU0YTVkNzktMzI4Yy00MWRmLTkzMTMtYjBmMDk5MWY5MTc1"
+                                         },
+                                         {
+                                             "id":  "27c73d43-2f06-4837-98a9-e5c31344a223",
+                                             "name":  "🗓️ | Agendou",
+                                             "showInFunnel":  true,
+                                             "showInPieChart":  true,
+                                             "position":  1,
+                                             "stageWinProbability":  33.33,
+                                             "originId":  "ZjZhYTU3OTEtNGE3Ny00NGM1LTgxNTktYTEzNzc0MzExMjgz"
+                                         },
+                                         {
+                                             "id":  "736c52b5-9ec9-4f5a-b339-9a1636819c09",
+                                             "name":  "👻 | Não Compareceu",
+                                             "showInFunnel":  true,
+                                             "showInPieChart":  true,
+                                             "position":  2,
+                                             "stageWinProbability":  50,
+                                             "originId":  "YjdhYzViZTQtYzUzNy00Y2QwLWE3OWMtZjNmZmM2MDdjZDY0"
+                                         },
+                                         {
+                                             "id":  "5391697f-72c0-4e1f-bf53-15a21a283b49",
+                                             "name":  "❌ | Compareceu e Não Fechou",
+                                             "showInFunnel":  true,
+                                             "showInPieChart":  true,
+                                             "position":  3,
+                                             "stageWinProbability":  66.67,
+                                             "originId":  "NDVjNjJmNTktN2JmMy00MDllLWJhYWQtODE0OTc5OTAxMzFl"
+                                         },
+                                         {
+                                             "id":  "37df8fb2-a18e-47e1-a3ce-3ffa1236ecdd",
+                                             "name":  "✅ | Compareceu e Fechou",
+                                             "showInFunnel":  true,
+                                             "showInPieChart":  true,
+                                             "position":  4,
+                                             "stageWinProbability":  83.33,
+                                             "originId":  "Y2VkYzY0OWUtZTZjYS00M2I2LWJjMGYtZGIyNWI0NzNlMWQx"
+                                         }
+                                     ],
+                          "locationId":  "3R4hY0j3TJyj2SkmSQL3",
+                          "originId":  "SOmgCpaozEtN3G23ubsL"
+                      }
+                  ],
+    "traceId":  "f79d6b8d-bcc9-4573-a8e6-2213b86237bb"
+}

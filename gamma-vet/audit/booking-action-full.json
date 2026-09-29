@@ -1,0 +1,63 @@
+{
+  "createdAt": "2026-08-10T18:58:14.098Z",
+  "name": "Agendamento Gamma Vet",
+  "type": "appointmentBooking",
+  "details": {
+    "calendarId": "LuylqTlDWQcpnmeslByJ",
+    "calendarIds": [
+      {
+        "id": "LuylqTlDWQcpnmeslByJ",
+        "triggerCondition": "Ultrassonografia / US / abdominal / cervical / microbolhas / cistocentese com Dra. Fernanda. Fernanda: segunda, terça, quarta e sexta. NÃO usar na quinta nem no sábado."
+      },
+      {
+        "id": "djzQjTsrDhXWaj3LzjU6",
+        "triggerCondition": "Ultrassonografia / US com Dra. Luciana. OBRIGATÓRIO na quinta (única médica de US na quinta). Fallback se Fernanda indisponível ou a pedido do tutor."
+      },
+      {
+        "id": "T5uEa6vjDhpZUI1lZO1z",
+        "triggerCondition": "Ecocardiograma / eco / pré-anestésico cardíaco"
+      },
+      {
+        "id": "AxyMBOCfMaeb0yjEGtJ6",
+        "triggerCondition": "Eletrocardiograma / eletro / ECG"
+      },
+      {
+        "id": "vg2u63L3YGB06FIYxir7",
+        "triggerCondition": "Raio-X / radiografia / RX / uretrografia / uretrocistografia / urografia"
+      },
+      {
+        "id": "mEEG83mugYscOdjGRlsb",
+        "triggerCondition": "Tomografia / TC. Slot 60 min. TC+citologia 90 min (dois slots ou transferir)."
+      },
+      {
+        "id": "D1e35F8TiJCsBqsqAJPz",
+        "triggerCondition": "Endoscopia / colonoscopia / rinoscopia / broncoscopia"
+      },
+      {
+        "id": "HeFRPrO55KkQjhfJIaNc",
+        "triggerCondition": "Cintilografia / medicina nuclear. SOMENTE segunda e quinta. NÃO oferecer quarta. Se pedirem radioiodo, usar ESTA agenda primeiro (cintilo antes da terapia)."
+      },
+      {
+        "id": "DFrcSX7SDJ5uJbz3qZ3C",
+        "triggerCondition": "Radioiodoterapia. SOMENTE se a cintilografia de tireoide já tiver sido realizada. NÃO usar na primeira resposta de quem pede radioiodo. Preferência terças."
+      },
+      {
+        "id": "XmdN5Odpbe063UXOo8YV",
+        "triggerCondition": "Pré-reserva / fallback / confirmação humana"
+      }
+    ],
+    "calendarActionType": "multiple",
+    "aiDescription": "Agenda exames do Gamma Vet no calendário correto. US: Dra. Fernanda seg/ter/qua/sex (NUNCA quinta). Quinta de US = Dra. Luciana. Cintilografia só segunda e quinta. Radioiodoterapia só depois da cintilo de tireoide (terças). Na segunda, Fernanda faz US 30 min + RX 30 min + TC 1 h (TC+cito 1h30) — horários não coincidem. Na primeira resposta, informar dias, valor, sinal, preparo e exames prévios. Só oferecer horários reais da ferramenta.",
+    "fallbackCalendar": true,
+    "fallbackCalendarId": "XmdN5Odpbe063UXOo8YV",
+    "onlySendLink": false,
+    "triggerWorkflow": false,
+    "sleepAfterBooking": false,
+    "transferBot": false,
+    "rescheduleEnabled": true,
+    "cancelEnabled": true
+  },
+  "updatedAt": "2026-08-17T18:07:16.941Z",
+  "agentId": "nEndeX5NE4uDJG7414RF",
+  "id": "g4K4spRJdKq1zpMr2LLb"
+}

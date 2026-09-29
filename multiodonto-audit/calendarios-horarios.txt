@@ -1,0 +1,95 @@
+﻿CAL:  Dr Rafael Ramos | Barra da Tijuca
+  id=6gGUl22jF15ON7RWKeBB active=True type=service_booking slot=30m prebuffer=0 post=30
+  team: Agendas Gerais
+  hours: Dom 09:00-13:00
+
+CAL: Carlos Augusto's Personal Calendar
+  id=5K8XuuLA0eGffe1J9ZrH active=True type=personal slot=30m prebuffer= post=30
+  team: Carlos Augusto
+  hours: Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 09:00-13:30 | Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00
+
+CAL: CAROLINE SILVA's Personal Calendar
+  id=JBdqRPhuBsi0oVmjZ0CF active=True type=personal slot=30m prebuffer= post=30
+  team: CAROLINE SILVA
+  hours: Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00
+
+CAL: Dr Carlos Augusto | Barra da Tijuca
+  id=e6FA0Add4dZVXt6qN40y active=True type=service_booking slot=30m prebuffer=0 post=30
+  team: Agendas Gerais
+  hours: Dom 14:00-19:00 | Dom 17:00-19:00 | Dom 17:00-19:00
+
+CAL: Dr Carlos Augusto | Campo Grande
+  id=dypic8EB1pS2Zh8hJw1c active=True type=service_booking slot=30m prebuffer=0 post=30
+  team: Agendas Gerais
+  hours: Dom 09:00-13:00, 14:00-18:00 | Dom 09:00-13:00, 14:00-18:00
+
+CAL: Dr Leonardo | Campo Grande
+  id=cNAnPs8MGpkjO1bSyba9 active=True type=service_booking slot=30m prebuffer=0 post=30
+  team: Agendas Gerais
+  hours: Dom 09:00-12:00, 13:00-19:00
+
+CAL: Dr Lucas Castro | Campo Grande
+  id=dpnGTRPb4wLTjWxPfO3M active=True type=service_booking slot=30m prebuffer=0 post=30
+  team: Agendas Gerais
+  hours: Dom 09:00-13:30 | Dom 09:00-12:00, 13:00-19:00 | Dom 09:00-12:00, 13:00-19:00
+
+CAL: Dr Lucas Scherres | Campo Grande
+  id=fUvShjVjDVERgGZUuNls active=True type=service_booking slot=30m prebuffer=0 post=30
+  team: Agendas Gerais
+  hours: Dom 09:00-13:30 | Dom 09:00-13:00, 14:00-19:00 | Dom 09:00-13:00, 14:00-19:00
+
+CAL: Dr Rafael Ramos | Campo Grande
+  id=Sq4S1RHRaAoVfLbcb6Gj active=True type=service_booking slot=30m prebuffer=0 post=30
+  team: Agendas Gerais
+  hours: Dom 09:00-13:00, 14:00-19:00 | Dom 09:00-13:00, 14:00-19:00
+
+CAL: Dra Giovanna Ferreira | Barra da Tijuca
+  id=N018p8fGK2boOyTkcqWw active=True type=service_booking slot=30m prebuffer=0 post=30
+  team: Agendas Gerais
+  hours: Dom 09:00-13:00
+
+CAL: Dra Giovanna Ferreira | Campo Grande
+  id=ACcmwEr9OeexBtiU4yl6 active=True type=service_booking slot=30m prebuffer=0 post=30
+  team: Agendas Gerais
+  hours: Dom 09:00-12:00, 13:00-19:00 | Dom 09:00-12:00, 13:00-19:00
+
+CAL: Dra Juliana Cardoso | Barra da Tijuca
+  id=1X5AaBX8WCmn4FpAuMxJ active=True type=service_booking slot=30m prebuffer=0 post=30
+  team: Agendas Gerais
+  hours: Dom 09:00-13:00, 14:00-17:00 | Dom 09:00-13:00, 14:00-17:00 | Dom 11:00-13:00, 14:00-18:00 | Dom 11:00-13:00, 14:00-18:00
+
+CAL: Dra Thais Campos | Campo Grande
+  id=bOur6KKgSm1cQvIxYnwQ active=True type=service_booking slot=30m prebuffer=0 post=30
+  team: Agendas Gerais
+  hours: Dom 09:00-13:30 | Dom 09:00-12:00, 13:00-19:00
+
+CAL: GRACIANA SOUZA's Personal Calendar
+  id=yYASlAMx9hNtrMJnoCWD active=True type=personal slot=30m prebuffer= post=30
+  team: GRACIANA SOUZA
+  hours: Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00
+
+CAL: Juliana Cardoso's Personal Calendar
+  id=x24CJMJMuK2YJaZUuRRD active=True type=personal slot=30m prebuffer= post=30
+  team: Juliana Cardoso
+  hours: Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00
+
+CAL: Lizandra Lima's Personal Calendar
+  id=O3WN5OohNdFfmUbFHFbz active=True type=personal slot=30m prebuffer= post=30
+  team: Lizandra Lima
+  hours: Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00
+
+CAL: Lucas Lourenço's Personal Calendar
+  id=FGfn83WOGnzzrlqQHLhJ active=True type=personal slot=30m prebuffer= post=30
+  team: Lucas Lourenço
+  hours: Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00
+
+CAL: Luis Gustavo Santos Barros's Personal Calendar
+  id=BPYDKRaRVsDhA9lkOXxz active=True type=personal slot=30m prebuffer= post=30
+  team: Luis Gustavo Santos Barros
+  hours: Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00
+
+CAL: THAIS ABREU's Personal Calendar
+  id=NVFlLkuvyDpIVPnaGXnq active=True type=personal slot=30m prebuffer= post=30
+  team: THAIS ABREU
+  hours: Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00 | Dom 08:00-17:00
+

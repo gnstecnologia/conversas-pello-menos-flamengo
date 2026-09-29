@@ -1,0 +1,26 @@
+{
+    "stages":  [
+                   {
+                       "name":  "Novo lead",
+                       "position":  0
+                   },
+                   {
+                       "name":  "Em atendimento / qualificação",
+                       "position":  1
+                   },
+                   {
+                       "name":  "Agendamento",
+                       "position":  2
+                   },
+                   {
+                       "name":  "Confirmado",
+                       "position":  3
+                   },
+                   {
+                       "name":  "Compareceu / Avaliação feita",
+                       "position":  4
+                   }
+               ],
+    "name":  "Esteira de Vendas",
+    "locationId":  "djqLZVwEDmMFHFgBptaF"
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "createdAt": "2026-08-17T18:04:53.212Z",
+    "deleted": false,
+    "questionLowerCase": "procedimento eletrocardiograma: preparo, agenda, plano e valor",
+    "question": "Procedimento Eletrocardiograma: preparo, agenda, plano e valor",
+    "answer": "**Preparo do Paciente:**\nNão há preparo específico\n\n**Tempo Aproximado:**\n~30 minutos (Eco + Eletro ≈ 40 min)\n\n**Exames Prévios Necessários:**\nNão se aplica (sem anestesia)\n\n**Dados Necessários para Agendamento:**\n• Nome do animal\n• Peso\n• Data de nascimento\n• Sexo / Espécie / Raça\n• Castrado?\n• Plano de saúde?\n• Nome do responsável\n• Celular / CPF / E-mail\n• Cidade / CEP\n• Contato do médico veterinário solicitante\n• Motivo do exame\n• Medicações em uso\n• Requisição do médico veterinário\n\n**Prazo de Laudo:**\nAté 2 dias úteis\n\n**Agenda:**\nVárias salas\n\n**Dias:**\nde seg a sex\n\n**Horários:**\na partir das 9h até às 16:00\n\n**Aceita plano de saúde:**\nsim\n\n**Qual:**\nPet Love\n\n**Observações Importantes:**\nÀ critério do médico veterinário solicitante ou anestesista como exame pré-anestésico.\n\n**Valor:**\n110\n\n---",
+    "trainedUrlId": "931145ab-b413-488b-92c7-52d0f5fdee3a",
+    "locationId": "MhplIQf1baCvRBNGPTOj",
+    "knowledgeBaseId": "yissd6WHhYpyP4yw9TlL",
+    "snapshotOriginId": "",
+    "updatedAt": "2026-08-17T18:07:31.040Z",
+    "id": "MtU4tAKbgcVveFMZejRK"
+  },
+  {
+    "updatedAt": "2026-08-10T18:33:54.419Z",
+    "createdAt": "2026-08-10T18:33:54.419Z",
+    "deleted": false,
+    "questionLowerCase": "qual o valor de eletrocardiograma",
+    "question": "Qual o valor de Eletrocardiograma?",
+    "answer": "Valor de Eletrocardiograma: 110\nObservações: À critério do médico veterinário solicitante ou anestesista como exame pré-anestésico.",
+    "trainedUrlId": "dfcfe7fe-063b-4337-9de8-458391468b1e",
+    "locationId": "MhplIQf1baCvRBNGPTOj",
+    "knowledgeBaseId": "yissd6WHhYpyP4yw9TlL",
+    "id": "mhBgW7ZwsuQYtz3ozwpL"
+  },
+  {
+    "createdAt": "2026-08-26T18:08:37.609Z",
+    "deleted": false,
+    "questionLowerCase": "eletrocardiograma: valor",
+    "question": "Eletrocardiograma: valor?",
+    "trainedUrlId": "054fb0ab-c2bb-4451-8b12-1e836155f9c3",
+    "locationId": "MhplIQf1baCvRBNGPTOj",
+    "knowledgeBaseId": "yissd6WHhYpyP4yw9TlL",
+    "snapshotOriginId": "",
+    "answer": "ECG R$ 110,00. Segunda a sexta, 9h às 16h.",
+    "updatedAt": "2026-08-31T17:22:53.540Z",
+    "id": "v8xDqv67D7jdCpDGT9Ow"
+  }
+]

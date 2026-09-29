@@ -1,0 +1,173 @@
+{
+  "steps": [
+    {
+      "create": "Treinamentobot2025@gmail.com",
+      "ok": true,
+      "id": "mF8CidqlpHwTuSNngV2M"
+    },
+    {
+      "create": "huttreinamento2026@gmail.com",
+      "ok": true,
+      "id": "Fpp5MAwAFHSocu8Cz5yw"
+    },
+    {
+      "move_contacts": "BOT contacts",
+      "stats": {
+        "ok": 143,
+        "error": 0
+      },
+      "errors": [],
+      "n": 143
+    },
+    {
+      "move_contacts": "HUT contacts",
+      "stats": {
+        "ok": 118,
+        "error": 0
+      },
+      "errors": [],
+      "n": 118
+    },
+    {
+      "move_opps": "BOT opps",
+      "stats": {
+        "ok": 100,
+        "error": 0
+      },
+      "errors": [],
+      "n": 100
+    },
+    {
+      "move_opps": "HUT opps",
+      "stats": {
+        "ok": 100,
+        "error": 0
+      },
+      "errors": [],
+      "n": 100
+    },
+    {
+      "remaining_assigned": "old BOT_U",
+      "total": 0
+    },
+    {
+      "remaining_assigned": "old HUT_U",
+      "total": 0
+    },
+    {
+      "delete": "bot@pellomenos.com.br",
+      "id": "jWobCJgSOEtPWXxpgYQs",
+      "http": 200,
+      "body": "ok"
+    },
+    {
+      "delete": "hut@pellomenos.com.br",
+      "id": "IF200gSv1xy4sujLGLbS",
+      "http": 200,
+      "body": "ok"
+    },
+    {
+      "create": "bot@pellomenos.com.br",
+      "ok": true,
+      "id": "isqhllsfoByonuEhr7E9"
+    },
+    {
+      "create": "hut@pellomenos.com.br",
+      "ok": true,
+      "id": "b8XyNdEqt9qqYLjG2UMa"
+    },
+    {
+      "followers": "BOT follow",
+      "stats": {
+        "ok": 143,
+        "error": 0
+      },
+      "errors": []
+    },
+    {
+      "opp_followers": "BOT follow",
+      "stats": {
+        "ok": 100,
+        "error": 0
+      },
+      "errors": []
+    },
+    {
+      "followers": "HUT follow",
+      "stats": {
+        "ok": 118,
+        "error": 0
+      },
+      "errors": []
+    },
+    {
+      "opp_followers": "HUT follow",
+      "stats": {
+        "ok": 100,
+        "error": 0
+      },
+      "errors": []
+    },
+    {
+      "delete": "ohanabot24@gmail.com",
+      "id": "vCwwCVt0G5VflC2NXMuw",
+      "http": 200
+    },
+    {
+      "delete": "ohanahut24@gmail.com",
+      "id": "1JfqOOJBGpo61YvFuT4r",
+      "http": 200
+    }
+  ],
+  "new_ids": {
+    "BOT_U": "mF8CidqlpHwTuSNngV2M",
+    "HUT_U": "Fpp5MAwAFHSocu8Cz5yw",
+    "BOT_G": "isqhllsfoByonuEhr7E9",
+    "HUT_G": "b8XyNdEqt9qqYLjG2UMa"
+  },
+  "final": [
+    {
+      "id": "isqhllsfoByonuEhr7E9",
+      "name": "Gerência Botafogo Pello Menos",
+      "email": "bot@pellomenos.com.br"
+    },
+    {
+      "id": "1JfqOOJBGpo61YvFuT4r",
+      "name": "Gerência Humaitá Pello Menos",
+      "email": "ohanahut24@gmail.com"
+    },
+    {
+      "id": "b8XyNdEqt9qqYLjG2UMa",
+      "name": "Gerência Humaitá Pello Menos",
+      "email": "hut@pellomenos.com.br"
+    },
+    {
+      "id": "mF8CidqlpHwTuSNngV2M",
+      "name": "Unidade Botafogo Pello Menos",
+      "email": "Treinamentobot2025@gmail.com"
+    },
+    {
+      "id": "Fpp5MAwAFHSocu8Cz5yw",
+      "name": "Unidade Humaitá Pello Menos",
+      "email": "huttreinamento2026@gmail.com"
+    }
+  ],
+  "workflow_replace": {
+    "BOTAFOGO_assign_owner": {
+      "old": "jWobCJgSOEtPWXxpgYQs",
+      "new": "mF8CidqlpHwTuSNngV2M"
+    },
+    "BOTAFOGO_gerencia_follower": {
+      "old": "vCwwCVt0G5VflC2NXMuw",
+      "new": "isqhllsfoByonuEhr7E9"
+    },
+    "HUMAITA_assign_owner": {
+      "old": "IF200gSv1xy4sujLGLbS",
+      "new": "Fpp5MAwAFHSocu8Cz5yw"
+    },
+    "HUMAITA_gerencia_follower": {
+      "old": "1JfqOOJBGpo61YvFuT4r",
+      "new": "b8XyNdEqt9qqYLjG2UMa"
+    }
+  }
+}

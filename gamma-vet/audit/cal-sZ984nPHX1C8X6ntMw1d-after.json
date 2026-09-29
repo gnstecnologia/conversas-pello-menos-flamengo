@@ -1,0 +1,113 @@
+{
+  "id": "sZ984nPHX1C8X6ntMw1d",
+  "locationId": "MhplIQf1baCvRBNGPTOj",
+  "teamMembers": [],
+  "name": "Raio-X",
+  "description": "Raio-X / radiografia. Seg-sex 8:30-18:00; sábado 8:00-13:00. Na segunda compartilha profissional com US Fernanda e Tomografia.",
+  "widgetSlug": "sZ984nPHX1C8X6ntMw1d",
+  "calendarType": "event",
+  "widgetType": "classic",
+  "eventTitle": "{{contact.pet_1_nome}} | Raio-X | {{contact.procedimento_interesse}}",
+  "eventColor": "#039BE5",
+  "slotDuration": 30,
+  "slotDurationUnit": "mins",
+  "slotInterval": 30,
+  "slotIntervalUnit": "mins",
+  "slotBuffer": 0,
+  "slotBufferUnit": "mins",
+  "appoinmentPerSlot": 1,
+  "appointmentPerSlot": 1,
+  "openHours": [
+    {
+      "daysOfTheWeek": [
+        1
+      ],
+      "hours": [
+        {
+          "openHour": 8,
+          "openMinute": 30,
+          "closeHour": 18,
+          "closeMinute": 0
+        }
+      ]
+    },
+    {
+      "daysOfTheWeek": [
+        2
+      ],
+      "hours": [
+        {
+          "openHour": 8,
+          "openMinute": 30,
+          "closeHour": 18,
+          "closeMinute": 0
+        }
+      ]
+    },
+    {
+      "daysOfTheWeek": [
+        3
+      ],
+      "hours": [
+        {
+          "openHour": 8,
+          "openMinute": 30,
+          "closeHour": 18,
+          "closeMinute": 0
+        }
+      ]
+    },
+    {
+      "daysOfTheWeek": [
+        4
+      ],
+      "hours": [
+        {
+          "openHour": 8,
+          "openMinute": 30,
+          "closeHour": 18,
+          "closeMinute": 0
+        }
+      ]
+    },
+    {
+      "daysOfTheWeek": [
+        5
+      ],
+      "hours": [
+        {
+          "openHour": 8,
+          "openMinute": 30,
+          "closeHour": 18,
+          "closeMinute": 0
+        }
+      ]
+    },
+    {
+      "daysOfTheWeek": [
+        6
+      ],
+      "hours": [
+        {
+          "openHour": 8,
+          "openMinute": 0,
+          "closeHour": 13,
+          "closeMinute": 0
+        }
+      ]
+    }
+  ],
+  "enableRecurring": false,
+  "autoConfirm": true,
+  "googleInvitationEmails": true,
+  "allowReschedule": true,
+  "allowCancellation": true,
+  "formSubmitType": "ThankYouMessage",
+  "formSubmitThanksMessage": "Thank you for your appointment request. We will contact you shortly to confirm your request. Please call our office at {{contactMethod}} if you have any questions.",
+  "guestType": "collect_detail",
+  "consentLabel": "I confirm that I want to receive content from this company using any contact information I provide.",
+  "preBuffer": 0,
+  "preBufferUnit": "mins",
+  "isActive": true,
+  "enableClientPortalBooking": false
+}

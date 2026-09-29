@@ -1,0 +1,538 @@
+{
+  "antiga": {
+    "label": "URUGUAI_ANTIGA",
+    "contacts_created": 0,
+    "contacts_reused": 50,
+    "contacts_error": 0,
+    "opps_created": 0,
+    "opps_dup": 45,
+    "opps_skip": 0,
+    "opps_error": 0
+  },
+  "franchising_extra": {
+    "label": "FRANCHISING_EXTRA",
+    "contacts_created": 2,
+    "contacts_reused": 0,
+    "contacts_error": 0,
+    "opps_created": 0,
+    "opps_dup": 0,
+    "opps_skip": 0,
+    "opps_error": 0
+  },
+  "urg_dest_contacts": 136,
+  "urg_dest_opps": 127,
+  "details": {
+    "antiga": {
+      "label": "URUGUAI_ANTIGA",
+      "contacts_created": 0,
+      "contacts_reused": 50,
+      "contacts_error": 0,
+      "opps_created": 0,
+      "opps_dup": 45,
+      "opps_skip": 0,
+      "opps_error": 0,
+      "contact_results": [
+        {
+          "old": "OUwcNA9ziNIMrWbZ4T7U",
+          "new": "pTMViCJhOWOhScyCzZfs",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "UlmnDzjVQlx1KPeAE8Is",
+          "new": "OtMGYe45S4HtOYfGSwTH",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "QTctxntfUB0ojy3WjkjO",
+          "new": "kOfdHDvwDYt1NnUwCZ7q",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "vzodfyzuabRgeqH7Qp6r",
+          "new": "gKYmGAiPEW2Qkm1yqIsk",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "mo76WUs5x3FScoah8DRD",
+          "new": "U4ZQfnpLtPonbgMsoTqm",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "lMN05nbDGm4jKI7O2RgS",
+          "new": "YfENgXzKP6M1EV9pWinu",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "o4RZYwNlk56fIal0hCbp",
+          "new": "F8z4ZoqQ83dnzdiKgTxy",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "l21BB174JKrbeI7bWMUf",
+          "new": "EaqoaNk2JZBOHzQX6HTK",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "tVkfEXuUy0TgQyBTzHzN",
+          "new": "riVmMbkgY13AnmNObxcb",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "AQYqMZqbLCGSOcwfaA0Z",
+          "new": "BiGJILkCYtvGDbEInjsa",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "tvtkthaZdfz2znmkTIKT",
+          "new": "OgE8eG68WKdN6gmf46se",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "kg9CqKhxBoRODmgWPgTN",
+          "new": "jZnqAq0GRpaY6XoJT4MI",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "2U1YcLVvhn91RDS2e2in",
+          "new": "Rw3CzeINaiVKVvkD7zcY",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "XSSFv2QibH6gnVAYFLLY",
+          "new": "EGX8a6WJswRktWKYoAhy",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "8VKgL4BYVUS7mYPnTaFF",
+          "new": "K12jPkroekjGLpgjJ0ae",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "pU8NK2aPDqth1NwJQ1rV",
+          "new": "BPiWZdL1ouUWwjFQe157",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "hhCdwBU2qdkwZcN9Oakq",
+          "new": "9Jp8j81YzQTK6cmPGfdA",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "ZLk9XR5VAxKc4Al63ALA",
+          "new": "Jy6HN0CVgqzYBPHa35Iz",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "LFa34pn38lah3Qk4QPQ7",
+          "new": "7eQV8J0CvNEFb7YP6utF",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "kXvTchvJK33TFS3g1cyr",
+          "new": "hoaY5Mm50hZcS8sfDPvF",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "Fz3xdYCS0exZHNsHi6QA",
+          "new": "2Gyv8IT1usVC1GOxdJai",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "A1iN4CoDv685BSPHXbjO",
+          "new": "EyU4SMsPP789iRwfNYxy",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "JTS1nP0ywtK3CRrELmeL",
+          "new": "3iW30BIFiKoyTJeF2KYN",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "sTVjFT4j7wLh8iMUz1yX",
+          "new": "2FxnZetWRBl0ftL6DEMm",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "ZwdIbFpZZwjyNR3rhF46",
+          "new": "cIDCGXrZCCauMHU2Iy1A",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "iyrq0PQDmWC08gLRofzu",
+          "new": "34m9HLgleMpwv8vShFl2",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "Q1IOhMZiRyRWIvfoPFH0",
+          "new": "EudSQqV4F3C1DEdDYM3Y",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "OPHLyPe46IA825r0BjaE",
+          "new": "kTMef9AyqXU2CmBj84lp",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "0TryIRAxuiL1JyHWreHC",
+          "new": "YyDiOPj7RzGOIn0DkYmb",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "RfK7RqbdO3jNIHAdTlJe",
+          "new": "RgW1OqWAY7Kj1K6rV3iH",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "Xt0LnhMhQ2ri5mSV3riU",
+          "new": "z0EtqDaz1tC7sZgtoyss",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "NTD4cMMmHoDpQoTmRcV3",
+          "new": "BDzCVShOF9QWlTXSKZXB",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "HbqXRWbpVlbAWSATUSGV",
+          "new": "gJX4HeiBAljuC50yAjcY",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "D6XtD8hASE8yqReZtU1n",
+          "new": "d2D2QHKkPPd02QpBs26Q",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "fHfqJmCgDC9IqSLTuoz3",
+          "new": "0eDkvnsM01a02NY1EoVO",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "eFqtwPVIJxqv4b5zu1lo",
+          "new": "0biFQZvnIV8qgEI1TtXg",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "ihcSOceh2WfGn8NuFWZ6",
+          "new": "nzTGwcO1ZgiJqhaWtLc4",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "bnQ3Hw0mHqJ3NFyJplp8",
+          "new": "zXIir13ynnwZ95frHW6r",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "202Jfbe7qS51Z9UQDNZW",
+          "new": "JP87tTrucxP1geWYxxoe",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "JE64qcLztwdiwqUlVYTg",
+          "new": "gzhahN8ABR7zkEmXgUiG",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "c7FmOu1HEq2YZ7n9wzRb",
+          "new": "UuP9wE2GfKesv9lyQBmN",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "PJYL5O19z7W71sNsmxec",
+          "new": "NmYtQxUBad3yNj65HKAp",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "23ICZ1BPWPuiFLBK6H4L",
+          "new": "Rad1YNsOqPe8aAgkfICN",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "OxLUXzfdcqSWVmt4TtOB",
+          "new": "WSApiEPyGrnON1ice1Ao",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "u2JZCQo7XnyHvHwwT1L8",
+          "new": "7wKCUNiq20eKvIfdVon9",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "S6JGcrCaDsGFHBGZV41e",
+          "new": "hzzKcuFosXvKBhVMeUnx",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "S2HdMMAjqh6DpYVEgaSQ",
+          "new": "Z6gVnGgAs6g8dJzAtmFv",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "Tx3VgYQdDxijgp0JMLfu",
+          "new": "exsytwu1ZvHcPFKbRI14",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "IAaOS1drBY6c800l8LW4",
+          "new": "bOJBYRjw5QYkNp5M87aW",
+          "status": "reuse_phone"
+        },
+        {
+          "old": "W1mbLSleXZw17k6Qf9bw",
+          "new": "Zl1hZHBwBHZWfsbxsF3H",
+          "status": "reuse_email"
+        }
+      ],
+      "opp_results": [
+        {
+          "old": "RrDNVmPJae537NIpIcAf",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"Yc9zeHwmTA2D1slljwbG\"}, \"error\": \"Bad Request\", \"traceId\": \"a464afaf-2bb9-4325-bdab-a98f43ae8006\"}"
+        },
+        {
+          "old": "MNbNjKW1KHycZ3unbA9F",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"jztJRcFDAQLlajSYiW7V\"}, \"error\": \"Bad Request\", \"traceId\": \"102d4508-399c-4f3a-850d-167bef13a0bc\"}"
+        },
+        {
+          "old": "ixkte33KYaXDywZMyLcw",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"SmtxqDOKgsVzuHhMx1Tj\"}, \"error\": \"Bad Request\", \"traceId\": \"426bab20-19bb-410e-a746-21925931c8f9\"}"
+        },
+        {
+          "old": "YLln8bWI8VkvVVaCLFGD",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"8agPc8dEkVqj2hWmlvMr\"}, \"error\": \"Bad Request\", \"traceId\": \"869d1a97-3a68-4bfc-8d5f-27cbfb27d4ec\"}"
+        },
+        {
+          "old": "8MZ2m3D7hWFztspJQAzG",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"HVu508p1ua3GK8w6ilOc\"}, \"error\": \"Bad Request\", \"traceId\": \"b7817985-076f-4e3a-9e9c-61e0d82d5033\"}"
+        },
+        {
+          "old": "9zXXiIr5VSWwu4jLeSbu",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"RNIgHkwnH3CgzrbFflfi\"}, \"error\": \"Bad Request\", \"traceId\": \"82c86e5f-98b3-450b-8312-1a433c55aa06\"}"
+        },
+        {
+          "old": "6d4kndhVcRMWnl3MrWjg",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"EHJTHK37ScjY2FRFGOu1\"}, \"error\": \"Bad Request\", \"traceId\": \"bd78b6db-cd46-4801-8d90-02512e944d57\"}"
+        },
+        {
+          "old": "O1si7LbUiJ1oUXYY6vkI",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"HOAvYZK7j7pWGtz6afoA\"}, \"error\": \"Bad Request\", \"traceId\": \"43ca43a2-681d-4ade-a4c2-7a1f414b7af8\"}"
+        },
+        {
+          "old": "KzFT9vwbDHPi4B4WU1T6",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"08AR15qFeODwdRsPeyaa\"}, \"error\": \"Bad Request\", \"traceId\": \"b736ce8c-81c2-4f9f-9a64-6c93d55247e7\"}"
+        },
+        {
+          "old": "r8TbA7zTPIkmofs06fQi",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"nu9ZvCVnIyQsnL8eIkqe\"}, \"error\": \"Bad Request\", \"traceId\": \"4b3beb97-1654-4d7c-87c1-c40cf7145489\"}"
+        },
+        {
+          "old": "ffMJTG4QljK3BnFLpIZd",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"IVXN0fmhgMHPpUwP2nhJ\"}, \"error\": \"Bad Request\", \"traceId\": \"e2d9db64-074f-4e8f-b51d-000ad50cbb13\"}"
+        },
+        {
+          "old": "f2AcNwqFIRlO6fXpNZkT",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"khWGDImKXrKmZSmGQBDs\"}, \"error\": \"Bad Request\", \"traceId\": \"8ef49dad-9130-4a64-a3f2-84c3c9ebf496\"}"
+        },
+        {
+          "old": "WXlGQnOd5QMs9KtoVENW",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"xTmQOhKe7S1F5d7lb2tt\"}, \"error\": \"Bad Request\", \"traceId\": \"7bcb1a05-282f-42f0-9ec4-d66bca13ab00\"}"
+        },
+        {
+          "old": "OiZaYxOGA6Q9V0aF4I78",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"JFAeXi7kUAlndHak9I7l\"}, \"error\": \"Bad Request\", \"traceId\": \"c84862b7-abce-411e-a138-980e186308d1\"}"
+        },
+        {
+          "old": "PKwgtFEQD9Yd62TiaZiG",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"MR9CyevfHY0pfaLB7L3F\"}, \"error\": \"Bad Request\", \"traceId\": \"801ebe99-d0fc-47a6-a223-5c02bf1ea5cc\"}"
+        },
+        {
+          "old": "DuPUVqm6yN2PEuw4sA9R",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"XunOgiYKHpc8sLDdKWPM\"}, \"error\": \"Bad Request\", \"traceId\": \"e0e9c0b4-2c85-4deb-b011-47509e47522c\"}"
+        },
+        {
+          "old": "ySxgoNqLLhlfFYhj4Wyv",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"VOUaElKVWpSXsKASrjbS\"}, \"error\": \"Bad Request\", \"traceId\": \"25f96fad-c451-46f6-a6e0-0cec68cb8ef2\"}"
+        },
+        {
+          "old": "LFkdGxVGo4klHGaiU7Eh",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"Qrezi7X9BN4UuuJ2IDIo\"}, \"error\": \"Bad Request\", \"traceId\": \"aecfd4ee-918c-42db-a9e5-9b6ce1c8658d\"}"
+        },
+        {
+          "old": "z5oc1ghPXOvbVYpV28GO",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"wco80ek4hLlGROeBcCVM\"}, \"error\": \"Bad Request\", \"traceId\": \"de020be5-a28f-4a9d-8e98-707cfa3c095f\"}"
+        },
+        {
+          "old": "ujNTHiWgd6Xwa3Eo7nOf",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"gpgJZBbSkd7FuZeh7lVX\"}, \"error\": \"Bad Request\", \"traceId\": \"cc8fb20b-c720-4882-b22d-8a612a435a2d\"}"
+        },
+        {
+          "old": "Oq6fz9iHgWRoBjVn9TBX",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"3fBitcGiVAw9aO3ayBqG\"}, \"error\": \"Bad Request\", \"traceId\": \"f6103b85-d9ab-4494-96cb-b5cd37dccc72\"}"
+        },
+        {
+          "old": "J8RNKCpHX1pWlgMqUDVR",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"khreW6tDjwHh853cKxhV\"}, \"error\": \"Bad Request\", \"traceId\": \"78708163-d02b-47d8-b29f-00ce85511c16\"}"
+        },
+        {
+          "old": "9yAwkl02mGIsgrug8kel",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"wHA7KfYRLC2UMpld62Wy\"}, \"error\": \"Bad Request\", \"traceId\": \"10fa5722-3f74-4aca-8129-3ab76712f0a1\"}"
+        },
+        {
+          "old": "vQEJ3em7fbLAzSGPz4FQ",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"i4dRnDnL9l4ushblaLDa\"}, \"error\": \"Bad Request\", \"traceId\": \"6985674c-e595-46d6-a2b8-b030a09ca71b\"}"
+        },
+        {
+          "old": "APy1AIffm7zNc2NrN9i8",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"g01I65rHBGZq99g3ViNY\"}, \"error\": \"Bad Request\", \"traceId\": \"5523a4dd-7105-4bc5-85f5-63fc1f86696b\"}"
+        },
+        {
+          "old": "NBp04XMoVGg017gcNJ1w",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"fPvzodPAaV3NozcUEuXG\"}, \"error\": \"Bad Request\", \"traceId\": \"29116802-1d62-4290-b606-0c99d69c8174\"}"
+        },
+        {
+          "old": "0J7Yx9KKTbhHgfNj9vf9",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"uFrZwCIj3p5kt5lKLhyi\"}, \"error\": \"Bad Request\", \"traceId\": \"070de0fc-9264-9211-b04c-f35b7096d4f7\"}"
+        },
+        {
+          "old": "0pwqWA8bMFSoSzlEZrmu",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"qN7zaNDx8CekutYKwANy\"}, \"error\": \"Bad Request\", \"traceId\": \"47559c35-0d63-49f9-a006-8d3fd089603b\"}"
+        },
+        {
+          "old": "aJn1cCyk0FY7W1Co3iZO",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"z6gawHALhGYldhjuP2mg\"}, \"error\": \"Bad Request\", \"traceId\": \"4ba3d8d7-73ea-4189-9d9b-802bd74e92b2\"}"
+        },
+        {
+          "old": "iXGOwZ8AGTU4iESnKuJX",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"BjTHBRn1SlvIP8unqdZh\"}, \"error\": \"Bad Request\", \"traceId\": \"c77dfe46-eeaa-4457-a772-857091346abe\"}"
+        },
+        {
+          "old": "8LIXLgmNfjO2ONG8HwK9",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"A97YsG9giYxh3Hj0i4Rs\"}, \"error\": \"Bad Request\", \"traceId\": \"2d48ad88-909d-4396-9f4f-8740638e00ad\"}"
+        },
+        {
+          "old": "a5z1pGYXicN3VvejeQwH",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"WrcdiSJfVkeoZXqsLtcC\"}, \"error\": \"Bad Request\", \"traceId\": \"7f928f94-5497-45c3-a04e-18f83ded8d3d\"}"
+        },
+        {
+          "old": "av2feDhHp4V83mWYRIcB",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"pmQHlCNwGzIT3d3pwngu\"}, \"error\": \"Bad Request\", \"traceId\": \"f9edb41c-f613-4cda-91e1-6e7aaa6857be\"}"
+        },
+        {
+          "old": "lCjVrBark80vPbHi0QE1",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"trApiDTniJkbtTl7Ndbm\"}, \"error\": \"Bad Request\", \"traceId\": \"29dff449-5822-4669-80e5-dbdc09dc9d2f\"}"
+        },
+        {
+          "old": "che7hhCmduCS7soaTKtl",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"TVc1XiczTi0rftC5gO2l\"}, \"error\": \"Bad Request\", \"traceId\": \"9525c4fa-53c6-4afa-a5b9-56b18d666b95\"}"
+        },
+        {
+          "old": "AxkWkFADNxGdVfbcL8Lr",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"y3auew2uiMiWA2HLW7rk\"}, \"error\": \"Bad Request\", \"traceId\": \"d7430ce2-d2b9-4992-b134-9b7a4854734e\"}"
+        },
+        {
+          "old": "bwvKZTbEozuIxxRbDixC",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"ogqHlUBUwZFjGwBkfTAg\"}, \"error\": \"Bad Request\", \"traceId\": \"8d188f9a-1eb2-4192-8184-dd29828b3599\"}"
+        },
+        {
+          "old": "PGbBvppjhQtxCYI2TTur",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"y068sMihO8Pq5AGxC2fg\"}, \"error\": \"Bad Request\", \"traceId\": \"4bb6f4b2-b44e-4080-b62e-8d5094741686\"}"
+        },
+        {
+          "old": "X2hggNcxXFnLCOhs5q96",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"PDtwABbd2R9cpXmkDbC8\"}, \"error\": \"Bad Request\", \"traceId\": \"f9d3106c-55b8-4f60-a673-613c0d5927e4\"}"
+        },
+        {
+          "old": "wjab2PEtQw33B9xBaxCd",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"sGyasVTEPXy1sIP1Zlel\"}, \"error\": \"Bad Request\", \"traceId\": \"17ff7f38-1655-461c-b92f-1a1f0d79e95a\"}"
+        },
+        {
+          "old": "7un6IBFcJoZfgo14IxPh",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"vxQn6a4ZBQfp79pCWcJF\"}, \"error\": \"Bad Request\", \"traceId\": \"61bcc7bd-8c91-4675-bbb6-1cce52a98d71\"}"
+        },
+        {
+          "old": "4PTkkrIjdugeM0vVRozt",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"oc7Gl1DJPgbfGAGRRT14\"}, \"error\": \"Bad Request\", \"traceId\": \"90c90729-7375-4a2e-a6f6-a308709cd6d7\"}"
+        },
+        {
+          "old": "5xyY4lA8UqGl8rAr901i",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"SOlTbSI8LkRLpvsw2XYF\"}, \"error\": \"Bad Request\", \"traceId\": \"f4941565-198f-4137-b138-069cc9076cf6\"}"
+        },
+        {
+          "old": "Tyqlxac0SdRjCH9C085K",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"gksWvfZpHINcOZzLYlyE\"}, \"error\": \"Bad Request\", \"traceId\": \"c6ae6491-da38-4905-941e-bb04797618f2\"}"
+        },
+        {
+          "old": "csUWv0N4Q05cK7Fp4qMg",
+          "status": "dup",
+          "error": "400 {\"statusCode\": 400, \"message\": \"Can not create duplicate opportunity for the contact.\", \"code\": \"OPPORTUNITY_NO_DUPLICATE\", \"meta\": {\"existingId\": \"lNW8JESDyE5vWQIYV3wW\"}, \"error\": \"Bad Request\", \"traceId\": \"5a3e53b4-e5d2-4201-8a8a-6aa7039c433c\"}"
+        }
+      ]
+    },
+    "extra": {
+      "label": "FRANCHISING_EXTRA",
+      "contacts_created": 2,
+      "contacts_reused": 0,
+      "contacts_error": 0,
+      "opps_created": 0,
+      "opps_dup": 0,
+      "opps_skip": 0,
+      "opps_error": 0,
+      "contact_results": [
+        {
+          "old": "30eau5VuMmrS1A1cPzNP",
+          "new": "n49CK5aV3CwgQxE6oNc4",
+          "status": "created"
+        },
+        {
+          "old": "Vkmdo5LL28uqnCKG39DD",
+          "new": "EcmS2vrDnArrAVeKjIkk",
+          "status": "created"
+        }
+      ],
+      "opp_results": []
+    }
+  }
+}

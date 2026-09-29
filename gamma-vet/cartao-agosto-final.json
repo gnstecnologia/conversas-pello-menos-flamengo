@@ -1,0 +1,24 @@
+{
+  "total_contacts_aug1_18": 100,
+  "with_6_ads": 24,
+  "tagged_before": 24,
+  "missing_found": 0,
+  "applied": 0,
+  "errors": [],
+  "by_ad": {
+    "120253508815200523": 3,
+    "120245782879890523": 3,
+    "120248618435700523": 4,
+    "120253509877330523": 5,
+    "120253510024870523": 3,
+    "120244183810290523": 6
+  },
+  "by_tag": {
+    "sus - trafego": 3,
+    "coisas com a cdt - trafego": 3,
+    "só legenda - trafego": 4,
+    "a hora é agora - trafego": 5,
+    "ana mari - trafego": 3,
+    "com a cdt - trafego": 6
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "workflows": [
+    {
+      "id": "eb89d710-4757-4f07-abf2-aea19b231e31",
+      "name": "1. Novo Lead Anúncio | Google ADs",
+      "status": "published",
+      "version": 4,
+      "createdAt": "2026-02-11T12:26:08.223Z",
+      "updatedAt": "2026-06-22T11:30:41.691Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "84610ac3-890d-4657-a977-6088a06c6a54",
+      "name": "1. Novo Lead Anúncio | Meta ADs",
+      "status": "published",
+      "version": 3,
+      "createdAt": "2026-02-11T12:25:58.972Z",
+      "updatedAt": "2026-06-22T11:30:41.691Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "46cf0d03-c596-4cce-83c6-833b9328198c",
+      "name": "Atendimento Inicial",
+      "status": "published",
+      "version": 5,
+      "createdAt": "2025-12-11T13:35:29.947Z",
+      "updatedAt": "2026-06-22T11:30:41.691Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "f43aad7f-aa26-4921-92ee-50de27ddff34",
+      "name": "Atendimento Inicial SMS para WhatsApp",
+      "status": "draft",
+      "version": 2,
+      "createdAt": "2025-12-11T13:35:30.297Z",
+      "updatedAt": "2025-12-11T13:38:37.797Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "77573125-2d88-4b66-8e95-0dde04edb58c",
+      "name": "Automação - Lead Aberto",
+      "status": "published",
+      "version": 10,
+      "createdAt": "2026-03-24T17:26:48.563Z",
+      "updatedAt": "2026-06-22T11:30:41.691Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "a085d9ec-ecd7-44c1-8cea-223bfe48f2cb",
+      "name": "Automação - Lead Ganho",
+      "status": "published",
+      "version": 4,
+      "createdAt": "2026-02-09T13:16:01.467Z",
+      "updatedAt": "2026-06-22T11:30:41.691Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "0b081419-6754-47be-94bb-09e1221171fb",
+      "name": "Automação - Lead Sem Resposta",
+      "status": "published",
+      "version": 5,
+      "createdAt": "2026-03-17T16:22:12.346Z",
+      "updatedAt": "2026-06-22T11:30:41.691Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "9269175a-b209-4ed2-8980-de4931938c52",
+      "name": "Automação - Lead stts Perdido",
+      "status": "published",
+      "version": 10,
+      "createdAt": "2026-03-24T15:27:12.951Z",
+      "updatedAt": "2026-06-22T11:30:41.691Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "4747eb4b-caaa-4bad-ae7f-66c6488c685e",
+      "name": "Automação - Programa Indicação Ganho",
+      "status": "published",
+      "version": 8,
+      "createdAt": "2026-03-25T17:12:25.923Z",
+      "updatedAt": "2026-06-22T11:30:41.691Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "57c570c8-8b44-43c4-a979-bb414c302866",
+      "name": "Automação Cliente Ativo",
+      "status": "published",
+      "version": 5,
+      "createdAt": "2026-03-12T20:15:57.828Z",
+      "updatedAt": "2026-06-22T11:30:41.691Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "0b6d845f-8421-47ae-a96b-57a99721dc26",
+      "name": "Distribuir leads Cartão de TODOS Campo Grande",
+      "status": "published",
+      "version": 40,
+      "createdAt": "2026-01-19T12:55:29.235Z",
+      "updatedAt": "2026-09-08T13:01:15.969Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "3d953236-de6c-4d75-999c-956800521eae",
+      "name": "Distribuir leads Cartão de TODOS Campo Grande | Programa de Indicação",
+      "status": "published",
+      "version": 5,
+      "createdAt": "2026-03-25T22:39:41.345Z",
+      "updatedAt": "2026-07-14T18:52:09.335Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "08564c30-3590-404c-aaa4-49c70f57aa8a",
+      "name": "Fluxo de Dist. de Leads - Equipe Única",
+      "status": "draft",
+      "version": 2,
+      "createdAt": "2026-02-11T11:54:05.730Z",
+      "updatedAt": "2026-02-11T11:56:26.046Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "6d8cee19-f44a-4f24-a05d-f08cc7de1092",
+      "name": "Lead Fechou Fechou + indicação",
+      "status": "published",
+      "version": 13,
+      "createdAt": "2026-02-26T21:18:21.641Z",
+      "updatedAt": "2026-06-22T11:30:41.691Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "4461956d-abdc-475a-a183-16d93e39d179",
+      "name": "METAADS - Trackeamento Leads no WhatsApp",
+      "status": "draft",
+      "version": 2,
+      "createdAt": "2026-02-11T11:47:08.461Z",
+      "updatedAt": "2026-02-11T11:50:13.437Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "a6925521-1c4f-42f8-b6ee-29c13c86121d",
+      "name": "New Workflow : 1770643210803",
+      "status": "draft",
+      "version": 2,
+      "createdAt": "2026-02-09T13:20:10.975Z",
+      "updatedAt": "2026-02-09T13:38:38.660Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "6b803cd6-ab35-411e-9eaf-dedb96595924",
+      "name": "New Workflow : 1773849668238",
+      "status": "draft",
+      "version": 1,
+      "createdAt": "2026-03-18T16:01:08.459Z",
+      "updatedAt": "2026-03-18T16:01:08.459Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "eb50d2e0-dc5d-43d9-bd4e-347c80ed4265",
+      "name": "New Workflow : 1774373158084",
+      "status": "draft",
+      "version": 1,
+      "createdAt": "2026-03-24T17:25:58.249Z",
+      "updatedAt": "2026-03-24T17:25:58.249Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "f54c0910-e0d2-4978-9bd4-6349743ec455",
+      "name": "Parar automações para atendimento",
+      "status": "draft",
+      "version": 2,
+      "createdAt": "2025-12-11T13:35:30.551Z",
+      "updatedAt": "2025-12-11T13:38:36.039Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "6533553d-bfb1-4ea3-a759-9485314209c6",
+      "name": "RODRIGO",
+      "status": "published",
+      "version": 4,
+      "createdAt": "2026-07-13T04:26:32.979Z",
+      "updatedAt": "2026-07-13T04:28:54.653Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "57a26cb4-2e90-4e6e-b2c9-b5001757ef2d",
+      "name": "Rascunho Fluxo | Randomização",
+      "status": "draft",
+      "version": 2,
+      "createdAt": "2025-12-22T19:36:59.187Z",
+      "updatedAt": "2025-12-22T19:42:08.503Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "e74fd64f-7dab-4ed4-bfc9-e90ab5431d88",
+      "name": "Recebimento de Forms - Indicação",
+      "status": "draft",
+      "version": 3,
+      "createdAt": "2026-02-12T12:40:36.986Z",
+      "updatedAt": "2026-02-12T12:54:21.721Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "7ce2c994-e8bf-444e-8789-30e598ad72f5",
+      "name": "TESTE FONTE ANÚNCIO",
+      "status": "published",
+      "version": 3,
+      "createdAt": "2026-08-11T19:28:23.092Z",
+      "updatedAt": "2026-08-11T19:48:04.716Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    },
+    {
+      "id": "d75f64fb-da9c-4b4f-ad11-ba03ac39ba8e",
+      "name": "Tagamento de Anúncios",
+      "status": "published",
+      "version": 6,
+      "createdAt": "2026-08-05T21:30:25.807Z",
+      "updatedAt": "2026-08-19T18:34:43.998Z",
+      "locationId": "aj3gIzF3LkjDml8i9k6e"
+    }
+  ],
+  "traceId": "b40ed6bb-37f7-436e-b32a-f0486ce56f82"
+}

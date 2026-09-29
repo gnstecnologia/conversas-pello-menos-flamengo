@@ -1,0 +1,26 @@
+{
+  "location": "9Ahv460EPGTwS2J1sxYP",
+  "periodo": "agosto/2026 (passagem pela etapa Atendimento Humano)",
+  "criado_em": "ate 31/08/2026 inclusive",
+  "total_exportadas": 1097,
+  "total_mudanca_etapa_em_agosto": 638,
+  "por_criterio": {
+    "A_em_humano_entrada_ate_31ago": 807,
+    "B_saiu_humano_mudanca_etapa_em_agosto": 290
+  },
+  "por_pipeline": {
+    "Vendas": 852,
+    "Locação": 162,
+    "Workshop": 83
+  },
+  "csv_completo": "c:\\Users\\GC1\\Desktop\\Automação GHL\\gamma-vet\\exports\\ehmedical_passaram_atendimento_humano_agosto2026_20260901_1147.csv",
+  "csv_mudanca_etapa_agosto": "c:\\Users\\GC1\\Desktop\\Automação GHL\\gamma-vet\\exports\\ehmedical_atendimento_humano_mudanca_etapa_agosto2026_20260901_1147.csv",
+  "colunas_relatorio": [
+    "nome_negociacao",
+    "ultima_mudanca_etapa",
+    "equipamento",
+    "produto_baixa_gama"
+  ],
+  "nota_ultima_mudanca_etapa": "ultima_mudanca_etapa = data da ULTIMA mudanca de etapa no funil (nao e atualizado_em). Se entrou/reentrou em Atendimento Humano em agosto (ex. voltou de Perdido), essa data e quando passou por humano. Se ja estava em humano desde antes, a data e a entrada anterior — use mudanca_etapa_em_agosto=Sim para filtrar so agosto.",
+  "limitacao": "Sem historico de etapas na API. Pode faltar quem entrou em humano em ago e saiu em set; pode incluir falso positivo se etapa foi pulada manualmente. Para 100%: Settings > Audit Logs > Module Opportunities > export CSV ago/2026."
+}

@@ -1,0 +1,98 @@
+{
+  "creates": [
+    {
+      "email": "mariana.gantois@gammavet.com.br",
+      "id": "Daia1y3n2C1F1VfXIdvV",
+      "code": 201,
+      "ok": true
+    },
+    {
+      "email": "gustavo.cobucci@gammavet.com.br",
+      "id": "2XSRsWDCgmL11WFIerwr",
+      "code": 201,
+      "ok": true
+    },
+    {
+      "email": "marcella.rosa@gammavet.com.br",
+      "id": "NZhcmQNt4ubbz5YruDU9",
+      "code": 201,
+      "ok": true
+    },
+    {
+      "email": "fernanda.meirelles@gammavet.com.br",
+      "id": "XXh1AeDBl3URNuqBZgiZ",
+      "code": 201,
+      "ok": true
+    },
+    {
+      "email": "sac@gammavet.com.br",
+      "id": "N6PlrM7lGh6ej4R869sH",
+      "code": 201,
+      "ok": true
+    },
+    {
+      "email": "agendamento@gammavet.com.br",
+      "id": "kSZcuwcDWLcaEfX9BwEC",
+      "code": 201,
+      "ok": true
+    }
+  ],
+  "users": [
+    {
+      "id": "XXh1AeDBl3URNuqBZgiZ",
+      "name": "Fernanda Meirelles",
+      "email": "fernanda.meirelles@gammavet.com.br",
+      "role": "user",
+      "type": "account",
+      "perms_on": []
+    },
+    {
+      "id": "2XSRsWDCgmL11WFIerwr",
+      "name": "Gustavo Cobucci",
+      "email": "gustavo.cobucci@gammavet.com.br",
+      "role": "user",
+      "type": "account",
+      "perms_on": []
+    },
+    {
+      "id": "NZhcmQNt4ubbz5YruDU9",
+      "name": "Marcella Rosa",
+      "email": "marcella.rosa@gammavet.com.br",
+      "role": "user",
+      "type": "account",
+      "perms_on": []
+    },
+    {
+      "id": "LxQOtMzWVhRqNLlWnLCI",
+      "name": "Marcello Comodo",
+      "email": "marcello.comodo@gammavet.com.br",
+      "role": "admin",
+      "type": "account",
+      "perms_on": []
+    },
+    {
+      "id": "Daia1y3n2C1F1VfXIdvV",
+      "name": "Mariana Gantois",
+      "email": "mariana.gantois@gammavet.com.br",
+      "role": "user",
+      "type": "account",
+      "perms_on": []
+    },
+    {
+      "id": "N6PlrM7lGh6ej4R869sH",
+      "name": "Raquel Recepcao",
+      "email": "sac@gammavet.com.br",
+      "role": "user",
+      "type": "account",
+      "perms_on": []
+    },
+    {
+      "id": "kSZcuwcDWLcaEfX9BwEC",
+      "name": "Yasmin Recepcao",
+      "email": "agendamento@gammavet.com.br",
+      "role": "user",
+      "type": "account",
+      "perms_on": []
+    }
+  ]
+}

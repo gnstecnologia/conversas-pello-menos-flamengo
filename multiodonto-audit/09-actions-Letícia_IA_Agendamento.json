@@ -1,0 +1,433 @@
+﻿{
+    "data":  [
+                 {
+                     "updatedAt":  "2026-04-29T22:16:40.978Z",
+                     "createdAt":  "2026-04-29T22:16:40.978Z",
+                     "name":  "CPF Paciente",
+                     "type":  "updateContactField",
+                     "details":  {
+                                     "contactFieldId":  "jiS1Zb66pVX1wE77arIn",
+                                     "description":  "Capturar quando o paciente agendado for maior de idade (18 anos ou mais). O próprio paciente informa o CPF para vincular ao agendamento. Solicitar apenas após confirmar a especialidade, convênio e unidade — ou seja, quando o fluxo de agendamento já estiver encaminhado para confirmação.",
+                                     "contactUpdateExamples":  [
+                                                                   "15565585786",
+                                                                   "CPF 15565587586",
+                                                                   "144.565.587-86",
+                                                                   "CPF 144.565.587-86"
+                                                               ]
+                                 },
+                     "agentId":  "3Fzfmx7ViwyD9v16h4DR",
+                     "id":  "4yt8WeAj5hG4h9QCwD2d"
+                 },
+                 {
+                     "createdAt":  "2026-04-29T22:27:40.880Z",
+                     "name":  "Procedimento Solicitado",
+                     "type":  "updateContactField",
+                     "details":  {
+                                     "contactFieldId":  "fMYtowUcOSAPk1jjrX8R",
+                                     "description":  "Registrar o procedimento específico descrito pelo paciente. Capturar em frases como \"tirar o siso\", \"fazer canal\", \"clarear os dentes\". Valida se é coberto pelo convênio ou é particular. Se for procedimento bloqueado para online, acionar fallback de ligação imediatamente.",
+                                     "contactUpdateExamples":  [
+                                                                   "Limpeza",
+                                                                   "Canal",
+                                                                   "Extração de siso",
+                                                                   "Troca de borracha do aparelho"
+                                                               ]
+                                 },
+                     "updatedAt":  "2026-04-29T22:32:13.900Z",
+                     "agentId":  "3Fzfmx7ViwyD9v16h4DR",
+                     "id":  "A1iyMYIq2kvS1OKoMc8x"
+                 },
+                 {
+                     "createdAt":  "2026-04-29T22:24:42.637Z",
+                     "name":  "Nome paciente",
+                     "type":  "updateContactField",
+                     "details":  {
+                                     "contactFieldId":  "WfoI7bEzngUMPpCBdahg",
+                                     "description":  "Registrar o nome do paciente que será atendido. Capturar assim que informado, mesmo em frases como \"sou a Maria\", \"é para meu filho João\". Se vier só o primeiro nome, registrar assim. Nunca inventar ou assumir. Se não informado, solicitar antes de confirmar o agendamento.",
+                                     "contactUpdateExamples":  [
+                                                                   "João Silva Cardoso",
+                                                                   "Maria Joana de Almeida",
+                                                                   "Pedro Henrique Souza",
+                                                                   "Ana Clara dos Santos"
+                                                               ]
+                                 },
+                     "updatedAt":  "2026-04-29T22:32:49.914Z",
+                     "agentId":  "3Fzfmx7ViwyD9v16h4DR",
+                     "id":  "B2LlarZy44TfC6yGZB8r"
+                 },
+                 {
+                     "updatedAt":  "2026-04-29T22:50:38.602Z",
+                     "createdAt":  "2026-04-29T22:50:38.603Z",
+                     "name":  "Endereço Completo",
+                     "type":  "updateContactField",
+                     "details":  {
+                                     "contactFieldId":  "8Wm2SVt9PFJhGGa6zu9F",
+                                     "description":  "Registrar o endereço completo do paciente contendo rua, número, bairro, cidade e CEP. Capturar quando informado em frases como \"moro na Rua das Flores, 123, Campo Grande, Rio de Janeiro\". Se o paciente informar apenas parte do endereço, registrar o que foi dito e solicitar os campos faltantes. Registrar tudo em uma única linha separado por vírgulas.",
+                                     "contactUpdateExamples":  [
+                                                                   "Rua das Flores, 123, Campo Grande, Rio de Janeiro, 23050-360",
+                                                                   "Av. das Américas, 4790, Barra da Tijuca, Rio de Janeiro, 22640-102",
+                                                                   "Rua Cel. Agostinho, 76, Campo Grande, Rio de Janeiro, 23050-360",
+                                                                   "Rua Principal, 45, Realengo, Rio de Janeiro, 21710-000"
+                                                               ]
+                                 },
+                     "agentId":  "3Fzfmx7ViwyD9v16h4DR",
+                     "id":  "MEmgIt5eWZAq0sO9KQUC"
+                 },
+                 {
+                     "createdAt":  "2026-04-29T22:25:24.889Z",
+                     "name":  "Idade",
+                     "type":  "updateContactField",
+                     "details":  {
+                                     "contactFieldId":  "0szu0SSOrrlnNMDYFZby",
+                                     "description":  "Registrar a idade em anos do paciente. Capturar em frases como \"ela tem 4 anos\", \"tenho 32\". Determina duas regras críticas: crianças abaixo de 5 anos não são atendidas; menores de 18 exigem CPF do responsável e validação de convênio pediátrico. Registrar só o número.",
+                                     "contactUpdateExamples":  [
+                                                                   "5",
+                                                                   "7",
+                                                                   "34",
+                                                                   "55"
+                                                               ]
+                                 },
+                     "updatedAt":  "2026-04-29T22:32:42.472Z",
+                     "agentId":  "3Fzfmx7ViwyD9v16h4DR",
+                     "id":  "OQGNAb0hwvrpaAxz9SRX"
+                 },
+                 {
+                     "updatedAt":  "2026-04-29T22:31:19.295Z",
+                     "createdAt":  "2026-04-29T22:31:19.295Z",
+                     "name":  "Unidade",
+                     "type":  "updateContactField",
+                     "details":  {
+                                     "contactFieldId":  "QOymQhrLYvQx93T4U2Ha",
+                                     "description":  "Registrar a unidade escolhida: Campo Grande ou Barra da Tijuca. Impacta profissionais, valores e regras de convênio (ex: SulAmérica só agenda online na Barra). Capturar em respostas como \"prefiro a Barra\", \"CG\". Se o paciente não souber, apresentar os dois endereços antes de registrar.",
+                                     "contactUpdateExamples":  [
+                                                                   "Campo Grande",
+                                                                   "Barra da Tijuca",
+                                                                   "Barra",
+                                                                   "CG"
+                                                               ]
+                                 },
+                     "agentId":  "3Fzfmx7ViwyD9v16h4DR",
+                     "id":  "Z7Qt8R3ymIcBW0lgJIXO"
+                 },
+                 {
+                     "updatedAt":  "2026-04-29T22:46:09.023Z",
+                     "createdAt":  "2026-04-29T22:46:09.023Z",
+                     "name":  "Data de Nascimento",
+                     "type":  "updateContactField",
+                     "details":  {
+                                     "contactFieldId":  "oojVJ6ojwGYhu9yptavt",
+                                     "description":  "Registrar a data de nascimento do paciente. Capturar em frases como \"nasci em 10/05/1990\", \"meu filho nasceu em 2018\". Usado para validar idade de forma precisa quando o paciente não informar diretamente. Registrar no formato DD/MM/AAAA. Se apenas o ano for informado, registrar só o ano até obter a data completa.",
+                                     "contactUpdateExamples":  [
+
+                                                               ]
+                                 },
+                     "agentId":  "3Fzfmx7ViwyD9v16h4DR",
+                     "id":  "daqiPMKwwRyZbimejwr1"
+                 },
+                 {
+                     "createdAt":  "2026-04-29T22:13:41.892Z",
+                     "type":  "updateContactField",
+                     "details":  {
+                                     "contactFieldId":  "J411y3MiMOe5XomtZvkz",
+                                     "description":  "Capturar quando o paciente agendado for menor de idade (abaixo de 18 anos). O responsável legal (pai, mãe ou tutor) deve informar o próprio CPF para vincular ao agendamento. Solicitar apenas após confirmar que o paciente é criança e que o convênio/especialidade aceita atendimento pediátrico. Para odontopediatria, só acionar esse campo se a criança tiver 5 anos ou mais — abaixo disso o atendimento não é realizado e o campo não deve ser preenchido.",
+                                     "contactUpdateExamples":  [
+                                                                   "16675458752",
+                                                                   "165.688.875-12",
+                                                                   "CPF 98854741285",
+                                                                   "CPF 122.655.987-12"
+                                                               ]
+                                 },
+                     "name":  "CPF responsável",
+                     "updatedAt":  "2026-04-29T22:14:35.061Z",
+                     "agentId":  "3Fzfmx7ViwyD9v16h4DR",
+                     "id":  "gkOwCxzycGmfmjXppdyj"
+                 },
+                 {
+                     "createdAt":  "2026-04-29T22:25:59.577Z",
+                     "name":  "Telefone",
+                     "type":  "updateContactField",
+                     "details":  {
+                                     "contactFieldId":  "uswjkPnL8L0ptwSyBRko",
+                                     "description":  "Registrar o telefone de contato do paciente. Capturar quando informado, mesmo em frases como \"pode ligar no 21 99999-0000\". Registrar no formato que o paciente digitar, sem reformatar. Usado para confirmação do agendamento e retorno da clínica.",
+                                     "contactUpdateExamples":  [
+                                                                   "21999990000",
+                                                                   "(21) 98888-1234",
+                                                                   "11987654321",
+                                                                   "21 3161-2205"
+                                                               ]
+                                 },
+                     "updatedAt":  "2026-04-29T22:32:34.069Z",
+                     "agentId":  "3Fzfmx7ViwyD9v16h4DR",
+                     "id":  "jbjzJyGBkOXBDLt9TonN"
+                 },
+                 {
+                     "updatedAt":  "2026-04-29T23:51:57.528Z",
+                     "createdAt":  "2026-04-29T23:51:57.528Z",
+                     "name":  "Número Carteirinha",
+                     "type":  "updateContactField",
+                     "details":  {
+                                     "contactFieldId":  "8wEbAxoAq7O4bw80ptlV",
+                                     "description":  "Registrar o número da carteirinha do convênio do paciente. Capturar quando informado em frases como \"meu número é 1234567890\", \"a carteirinha tem o código 9876\". Solicitar apenas após confirmar que o convênio é aceito pela clínica. Se o paciente enviar foto da carteirinha, informar que não é possível receber imagens e pedir que digite o número manualmente.",
+                                     "contactUpdateExamples":  [
+                                                                   "1234567890",
+                                                                   "987654321-0",
+                                                                   "00123456789012",
+                                                                   "12345-6"
+                                                               ]
+                                 },
+                     "agentId":  "3Fzfmx7ViwyD9v16h4DR",
+                     "id":  "mh5QebTZZt285Mk5qgAi"
+                 },
+                 {
+                     "updatedAt":  "2026-03-27T14:20:37.011Z",
+                     "createdAt":  "2026-03-27T14:20:37.011Z",
+                     "name":  "Convênio",
+                     "type":  "updateContactField",
+                     "details":  {
+                                     "contactFieldId":  "weFxIn06pHeSzvw6tEdN",
+                                     "description":  "nome do convênio/plano que o usuário vai utilizar para ser atendimento aqui na clínca.",
+                                     "contactUpdateExamples":  [
+                                                                   "Amil",
+                                                                   "Fio Saúde",
+                                                                   "Mais Dental",
+                                                                   "Porto Seguro",
+                                                                   "Sulamérica"
+                                                               ]
+                                 },
+                     "agentId":  "3Fzfmx7ViwyD9v16h4DR",
+                     "id":  "oMEeGC4lEMNbNRtV0pMA"
+                 },
+                 {
+                     "createdAt":  "2026-04-29T22:26:49.136Z",
+                     "name":  "Especialidade",
+                     "type":  "updateContactField",
+                     "details":  {
+                                     "contactFieldId":  "mKfTDesG83NdFNsO2cnI",
+                                     "description":  "Registrar a especialidade identificada mesmo que o paciente não use o nome técnico. \"Quero aparelho\" → Ortodontia. \"Dor de dente\" → Clínico Geral. Determina se o bot agenda ou redireciona por ligação. Se não for possível identificar, perguntar antes de registrar.",
+                                     "contactUpdateExamples":  [
+                                                                   "Clínico Geral",
+                                                                   "Ortodontia",
+                                                                   "Odontopediatria",
+                                                                   "Periodontia"
+                                                               ]
+                                 },
+                     "updatedAt":  "2026-04-29T22:32:23.579Z",
+                     "agentId":  "3Fzfmx7ViwyD9v16h4DR",
+                     "id":  "pvy8e7qqY6MtPeq5ciYG"
+                 },
+                 {
+                     "createdAt":  "2026-02-03T14:22:38.558Z",
+                     "name":  "O contato parou de responder",
+                     "type":  "advancedFollowup",
+                     "details":  {
+                                     "enabled":  true,
+                                     "followupSequence":  [
+                                                              {
+                                                                  "aiEnabledMessage":  true,
+                                                                  "triggerWorkflow":  false,
+                                                                  "id":  1,
+                                                                  "followupTime":  15,
+                                                                  "followupTimeUnit":  "minutes",
+                                                                  "customMessage":  null,
+                                                                  "workflowId":  null
+                                                              },
+                                                              {
+                                                                  "aiEnabledMessage":  true,
+                                                                  "triggerWorkflow":  false,
+                                                                  "followupTime":  1,
+                                                                  "followupTimeUnit":  "hours",
+                                                                  "customMessage":  "",
+                                                                  "workflowId":  "",
+                                                                  "id":  2
+                                                              },
+                                                              {
+                                                                  "aiEnabledMessage":  true,
+                                                                  "triggerWorkflow":  false,
+                                                                  "followupTime":  3,
+                                                                  "followupTimeUnit":  "hours",
+                                                                  "customMessage":  "",
+                                                                  "workflowId":  "",
+                                                                  "id":  3
+                                                              },
+                                                              {
+                                                                  "aiEnabledMessage":  true,
+                                                                  "triggerWorkflow":  false,
+                                                                  "followupTime":  1,
+                                                                  "followupTimeUnit":  "days",
+                                                                  "customMessage":  "",
+                                                                  "workflowId":  "",
+                                                                  "id":  4
+                                                              },
+                                                              {
+                                                                  "aiEnabledMessage":  true,
+                                                                  "triggerWorkflow":  false,
+                                                                  "followupTime":  2,
+                                                                  "followupTimeUnit":  "days",
+                                                                  "customMessage":  "",
+                                                                  "workflowId":  "",
+                                                                  "id":  5
+                                                              }
+                                                          ],
+                                     "scenarioId":  "contactStoppedReplying",
+                                     "followupSettings":  {
+                                                              "dynamicChannelSwitching":  false,
+                                                              "workingHours":  [
+                                                                                   {
+                                                                                       "dayOfTheWeek":  1,
+                                                                                       "intervals":  [
+                                                                                                         {
+                                                                                                             "startHour":  7,
+                                                                                                             "startMinute":  0,
+                                                                                                             "endHour":  20,
+                                                                                                             "endMinute":  0
+                                                                                                         }
+                                                                                                     ]
+                                                                                   },
+                                                                                   {
+                                                                                       "dayOfTheWeek":  2,
+                                                                                       "intervals":  [
+                                                                                                         {
+                                                                                                             "startHour":  7,
+                                                                                                             "startMinute":  0,
+                                                                                                             "endHour":  20,
+                                                                                                             "endMinute":  0
+                                                                                                         }
+                                                                                                     ]
+                                                                                   },
+                                                                                   {
+                                                                                       "dayOfTheWeek":  3,
+                                                                                       "intervals":  [
+                                                                                                         {
+                                                                                                             "startHour":  7,
+                                                                                                             "startMinute":  0,
+                                                                                                             "endHour":  20,
+                                                                                                             "endMinute":  0
+                                                                                                         }
+                                                                                                     ]
+                                                                                   },
+                                                                                   {
+                                                                                       "dayOfTheWeek":  4,
+                                                                                       "intervals":  [
+                                                                                                         {
+                                                                                                             "startHour":  7,
+                                                                                                             "startMinute":  0,
+                                                                                                             "endHour":  20,
+                                                                                                             "endMinute":  0
+                                                                                                         }
+                                                                                                     ]
+                                                                                   },
+                                                                                   {
+                                                                                       "dayOfTheWeek":  5,
+                                                                                       "intervals":  [
+                                                                                                         {
+                                                                                                             "startHour":  7,
+                                                                                                             "startMinute":  0,
+                                                                                                             "endHour":  20,
+                                                                                                             "endMinute":  0
+                                                                                                         }
+                                                                                                     ]
+                                                                                   },
+                                                                                   {
+                                                                                       "dayOfTheWeek":  6,
+                                                                                       "intervals":  [
+                                                                                                         {
+                                                                                                             "startHour":  7,
+                                                                                                             "startMinute":  0,
+                                                                                                             "endHour":  20,
+                                                                                                             "endMinute":  0
+                                                                                                         }
+                                                                                                     ]
+                                                                                   },
+                                                                                   {
+                                                                                       "dayOfTheWeek":  7,
+                                                                                       "intervals":  [
+                                                                                                         {
+                                                                                                             "startHour":  10,
+                                                                                                             "startMinute":  0,
+                                                                                                             "endHour":  20,
+                                                                                                             "endMinute":  0
+                                                                                                         }
+                                                                                                     ]
+                                                                                   }
+                                                                               ],
+                                                              "followUpHours":  false,
+                                                              "timezoneToUse":  "business"
+                                                          }
+                                 },
+                     "updatedAt":  "2026-07-09T13:57:43.102Z",
+                     "agentId":  "3Fzfmx7ViwyD9v16h4DR",
+                     "id":  "tB3vuow6SwNeXasktcWH"
+                 },
+                 {
+                     "updatedAt":  "2026-07-10T16:01:43.775Z",
+                     "createdAt":  "2026-07-10T16:01:43.776Z",
+                     "name":  "Appointment Booking Action",
+                     "type":  "appointmentBooking",
+                     "details":  {
+                                     "calendarIds":  [
+                                                         {
+                                                             "id":  "fUvShjVjDVERgGZUuNls",
+                                                             "triggerCondition":  ""
+                                                         },
+                                                         {
+                                                             "id":  "e6FA0Add4dZVXt6qN40y",
+                                                             "triggerCondition":  ""
+                                                         },
+                                                         {
+                                                             "id":  "dypic8EB1pS2Zh8hJw1c",
+                                                             "triggerCondition":  ""
+                                                         },
+                                                         {
+                                                             "id":  "dpnGTRPb4wLTjWxPfO3M",
+                                                             "triggerCondition":  ""
+                                                         },
+                                                         {
+                                                             "id":  "cNAnPs8MGpkjO1bSyba9",
+                                                             "triggerCondition":  ""
+                                                         },
+                                                         {
+                                                             "id":  "bOur6KKgSm1cQvIxYnwQ",
+                                                             "triggerCondition":  ""
+                                                         },
+                                                         {
+                                                             "id":  "Sq4S1RHRaAoVfLbcb6Gj",
+                                                             "triggerCondition":  ""
+                                                         },
+                                                         {
+                                                             "id":  "N018p8fGK2boOyTkcqWw",
+                                                             "triggerCondition":  ""
+                                                         },
+                                                         {
+                                                             "id":  "ACcmwEr9OeexBtiU4yl6",
+                                                             "triggerCondition":  ""
+                                                         },
+                                                         {
+                                                             "id":  "6gGUl22jF15ON7RWKeBB",
+                                                             "triggerCondition":  ""
+                                                         },
+                                                         {
+                                                             "id":  "1X5AaBX8WCmn4FpAuMxJ",
+                                                             "triggerCondition":  ""
+                                                         }
+                                                     ],
+                                     "calendarActionType":  "multiple",
+                                     "aiDescription":  "descrição para mudar",
+                                     "fallbackCalendar":  false,
+                                     "fallbackCalendarId":  null,
+                                     "onlySendLink":  false,
+                                     "triggerWorkflow":  false,
+                                     "workflowIds":  null,
+                                     "sleepAfterBooking":  false,
+                                     "sleepTimeUnit":  null,
+                                     "sleepTime":  null,
+                                     "transferBot":  false,
+                                     "transferEmployee":  null,
+                                     "rescheduleEnabled":  true,
+                                     "cancelEnabled":  true
+                                 },
+                     "agentId":  "3Fzfmx7ViwyD9v16h4DR",
+                     "id":  "zeWiS2QJD0LcF6UOaejG"
+                 }
+             ],
+    "success":  true,
+    "traceId":  "cf502300-e8f6-4db1-a174-363bf7c12264"
+}

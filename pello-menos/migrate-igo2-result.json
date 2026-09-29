@@ -1,0 +1,1779 @@
+{
+  "contacts_source": 161,
+  "opps_source": 159,
+  "contacts_created": 161,
+  "contacts_reused": 0,
+  "contacts_error": 0,
+  "opps_created": 159,
+  "opps_error": 0,
+  "opps_skip": 0,
+  "user_id": "q2d7GuBxMgbnh8cY1uYP",
+  "user_email": "igo2@pellomenos.com.br",
+  "assigned_contacts": 161,
+  "assigned_opps": 159,
+  "contact_results": [
+    {
+      "old": "SISffl7iJdHHrifpC6Rp",
+      "new": "MTqzA99n8imCqsaWXFZV",
+      "status": "created",
+      "name": "patrícia beserra 🥰"
+    },
+    {
+      "old": "pdvksOV4lDVv2paGv2kj",
+      "new": "GlslfSnFPNUP1GWvOGXq",
+      "status": "created",
+      "name": "boa tarde"
+    },
+    {
+      "old": "oTpl3IDbkZQ2HMz68q9C",
+      "new": "DqWUvEOirvxciBBzNBsB",
+      "status": "created",
+      "name": "mayara"
+    },
+    {
+      "old": "AhmE6iYvQrgH0wozv0t7",
+      "new": "6iMlQghOmo1BKSIgiRXE",
+      "status": "created",
+      "name": "viviane da silva"
+    },
+    {
+      "old": "cCZyCPdDsuJZYm8Lmv3U",
+      "new": "j10Y4EK0qnwRueSmcoAT",
+      "status": "created",
+      "name": "adriana menezes"
+    },
+    {
+      "old": "mnMExlqx1lY3OyZRO6Gz",
+      "new": "MhgYogxwH81di728Cm91",
+      "status": "created",
+      "name": "mônica silva"
+    },
+    {
+      "old": "Wn8I1jhdBRungoGijYzw",
+      "new": "OFmRdlSJFTbx1u2BNbKg",
+      "status": "created",
+      "name": "sabrina fernandes abreu"
+    },
+    {
+      "old": "veJUAsLvY6lKJsKprQI2",
+      "new": "bqBbYWKYXBvdltWRq526",
+      "status": "created",
+      "name": "fabiana cristina paulino da silva"
+    },
+    {
+      "old": "OEdlJ2uK0ZEstz6yCvOz",
+      "new": "xk7BB9fbphO6GAoRV8ak",
+      "status": "created",
+      "name": "boa tarde"
+    },
+    {
+      "old": "54mma5SZOEpz3GHD16Lx",
+      "new": "x9UW7TIUo9IkKG5eyKDo",
+      "status": "created",
+      "name": "olga"
+    },
+    {
+      "old": "553IdXpvNLtetFEBz1Mu",
+      "new": "neQE3Tuje1Z3seRQ7dKG",
+      "status": "created",
+      "name": "vocês atendem homens também?"
+    },
+    {
+      "old": "omQarx5pxIUuLoLwP8Ch",
+      "new": "sKgRat9NBZ87UvQ27tnz",
+      "status": "created",
+      "name": "ndereco. por. favor"
+    },
+    {
+      "old": "vdH4zhHCpmVJfruFztVW",
+      "new": "XtqSJ7ej4peRq0L6R59R",
+      "status": "created",
+      "name": "hortência chaves"
+    },
+    {
+      "old": "X4rqj02PE1Bgj3rkb9E9",
+      "new": "FEG2LMHAALKWHt98AlSR",
+      "status": "created",
+      "name": "letícia loback"
+    },
+    {
+      "old": "Ctzs6tEDFK1SXLSJdZFo",
+      "new": "arYCifXxGMuyfZyqhGfT",
+      "status": "created",
+      "name": "danielly🌸"
+    },
+    {
+      "old": "EsiKRGB8EgfrB0jAgq01",
+      "new": "pD74Blo9hm4EsMXMUjm4",
+      "status": "created",
+      "name": "osilene"
+    },
+    {
+      "old": "BFbjJBWN9Ct3KpU44PyW",
+      "new": "dpSotRGAU8vFNoKQh5CL",
+      "status": "created",
+      "name": "aline célia da silva"
+    },
+    {
+      "old": "dqiM0y8uDCvod7Ae8yvb",
+      "new": "MiSHwKLWx59g2Mtw9ZQX",
+      "status": "created",
+      "name": "andrea rosane silva freire"
+    },
+    {
+      "old": "qznendFVBRHc6H77x402",
+      "new": "Gx1NDbc5a0xxQjl5NnMd",
+      "status": "created",
+      "name": "🌻mônica mello🍀"
+    },
+    {
+      "old": "ig2p2FOIbK2EQRjpKdIV",
+      "new": "u8qp9OkpGGkZJ61dPFDZ",
+      "status": "created",
+      "name": "eloisa maria souza pereira"
+    },
+    {
+      "old": "QehcHGMViHe59pE7kIor",
+      "new": "2G9oyzTY9AUNDhzw01UE",
+      "status": "created",
+      "name": "hercilia c de oliveira"
+    },
+    {
+      "old": "saj9wuBmAfKaGZKXimDp",
+      "new": "P4cSUQF4Ko2ALaPAl7yc",
+      "status": "created",
+      "name": "tânia alves silva da souza"
+    },
+    {
+      "old": "15SIQhV78MzRFnb5m4Yr",
+      "new": "ia0zPORmsam4OO81qWWW",
+      "status": "created",
+      "name": "rose"
+    },
+    {
+      "old": "jiCxX5MQbMzNl5vfVYWx",
+      "new": "ETrETUdGCsJvhaBmbLeX",
+      "status": "created",
+      "name": "viviane de almeida"
+    },
+    {
+      "old": "ubPNlkzYjCFQemPqupff",
+      "new": "Fqyx7uv1uryPxPFtn3xT",
+      "status": "created",
+      "name": "lilian de assis souza"
+    },
+    {
+      "old": "SPgj1wVrUlmwKeWH6SXB",
+      "new": "6M9oZaENUnSI5Btwfknf",
+      "status": "created",
+      "name": "helena cardoso"
+    },
+    {
+      "old": "ssffjK1QkAt87eHgRu38",
+      "new": "1RIpsUxhwky0BFS5RHbx",
+      "status": "created",
+      "name": "teria algum combo?"
+    },
+    {
+      "old": "vSS8Dj8jrt8cHy2TZbkc",
+      "new": "9iwTITZgUlr0LSbebfmk",
+      "status": "created",
+      "name": "daniela dos santos veras"
+    },
+    {
+      "old": "0ailDn37EE3Mse0kv6Ll",
+      "new": "wjnfmSzdude0dEL0QzEW",
+      "status": "created",
+      "name": "priscila sant ' ana"
+    },
+    {
+      "old": "E3IWn9nL8PrCWi2x1JXu",
+      "new": "fguq9J2YmpsIqDOarWDu",
+      "status": "created",
+      "name": "leiroz"
+    },
+    {
+      "old": "W288cRTN8KjsPOoLuP47",
+      "new": "skf9HhNaD9Y9uL6SJZjA",
+      "status": "created",
+      "name": "patrícia cardoso"
+    },
+    {
+      "old": "fyyfLY2iD5ydN0C0Cy5A",
+      "new": "Urc3YFsH8DnUUvP59V12",
+      "status": "created",
+      "name": "marilda"
+    },
+    {
+      "old": "gFhbkbaY56QTx4oEftRD",
+      "new": "Vovox3PoLTzeA75tYgdn",
+      "status": "created",
+      "name": "paula"
+    },
+    {
+      "old": "yBZg6XcAyXk4eXIL80sJ",
+      "new": "LNdaVEgsLjmxugrivRYm",
+      "status": "created",
+      "name": "raquel da conceição albuquerque"
+    },
+    {
+      "old": "6RzweZEyPJNlbWcWpsGy",
+      "new": "erVplinvxthPSiddA3rE",
+      "status": "created",
+      "name": "renata mota"
+    },
+    {
+      "old": "mMiocVOhiGot4AhZeTsL",
+      "new": "EDcAYD5mU9xYIXoOaGpF",
+      "status": "created",
+      "name": "jacqueline cerqueira"
+    },
+    {
+      "old": "crIEoPr8CDMgFWIcHBTy",
+      "new": "uhevhLQ5HSxc7EfTnyvx",
+      "status": "created",
+      "name": "ana paula🇧🇷"
+    },
+    {
+      "old": "cZ2ub3aK6YqGEeYcO7pj",
+      "new": "NTa91JXBN3iCCJwRyvNB",
+      "status": "created",
+      "name": "beatriz"
+    },
+    {
+      "old": "cFNIM8QSsIqHmMv7CxbZ",
+      "new": "Fu0iQHnDOBbBepGQ2UpL",
+      "status": "created",
+      "name": "maria de fatima"
+    },
+    {
+      "old": "QsoUErGrwYzCRIPLnw9a",
+      "new": "wa4CybBYGxAnysb8pTy6",
+      "status": "created",
+      "name": "ale"
+    },
+    {
+      "old": "F9BcsqRS7X9wfW2JuJP0",
+      "new": "kSnHt9beFCN7ryyWbdyh",
+      "status": "created",
+      "name": "monica ramos"
+    },
+    {
+      "old": "6yzkyMNQnW4z55yXUDJN",
+      "new": "xsCXR6IWYBvolXlicA5i",
+      "status": "created",
+      "name": "ane carolina felipe"
+    },
+    {
+      "old": "iFnGvIAeYICnr5gSBUmW",
+      "new": "ir8vU3vpgNpocwMr4dZh",
+      "status": "created",
+      "name": "michele almeida"
+    },
+    {
+      "old": "OS0KF7qkeO9xVkKV0Erm",
+      "new": "J8OEODCRRLsszIfIGDCJ",
+      "status": "created",
+      "name": "marcella tatiana dantas de oliveira"
+    },
+    {
+      "old": "r2yyPdnA4daIdWa8ZLKr",
+      "new": "iG9paDihC0OnTWXX3JHT",
+      "status": "created",
+      "name": "sheila"
+    },
+    {
+      "old": "SrQlmiRqU1jGJrX3j0T2",
+      "new": "8niEBOGGJBHb4gSyVG3z",
+      "status": "created",
+      "name": "deuzelina ramos"
+    },
+    {
+      "old": "jptg4jqzMPrIuYFHXjjE",
+      "new": "FM1cVwywsVBLpjNqpznT",
+      "status": "created",
+      "name": "creusa da silva olimpio"
+    },
+    {
+      "old": "NDVEzeYrS4e9C5KbVz0s",
+      "new": "mvY0AJivMeCruoMCj7Ba",
+      "status": "created",
+      "name": "josiane oliveira"
+    },
+    {
+      "old": "8ybbmgQe3GjvnTisDNTE",
+      "new": "JsBV49DH5weE1N0QKl5k",
+      "status": "created",
+      "name": "fátima maria santos de souza"
+    },
+    {
+      "old": "8VHgmI0ys3Ns3mIWcfe5",
+      "new": "IbiLhV8aNI70RJJvlFVK",
+      "status": "created",
+      "name": "boa tarde"
+    },
+    {
+      "old": "lzHY0k2LCxhaRyVvht8C",
+      "new": "UeUph1KySe9ebFUNNRpS",
+      "status": "created",
+      "name": "sayo 🤩🤩❤️🥰"
+    },
+    {
+      "old": "MWMsBgSM3IdLRFohf83A",
+      "new": "CGsA1znRvNxW0KNe27fl",
+      "status": "created",
+      "name": "ezilene de souza coelho"
+    },
+    {
+      "old": "j1UUymC2mULCnG4XQhlU",
+      "new": "wqzInnJZ1Q7Tb4aDBLxs",
+      "status": "created",
+      "name": "fica onde esse endereço"
+    },
+    {
+      "old": "1UuvyHKmbxN4j20nWN9r",
+      "new": "0S4q44XQaDAnjzlLuMsC",
+      "status": "created",
+      "name": "grace kelly cruz da silva"
+    },
+    {
+      "old": "lqJA8mz3jtc6hYGK1xnB",
+      "new": "4UoONCXvrKj05hsRzYae",
+      "status": "created",
+      "name": "ludmila amorim 🧚🏼‍♀️"
+    },
+    {
+      "old": "9JyiBDrewFFZRZVKAoUZ",
+      "new": "aaKU6rVrkuH3zgvd7A49",
+      "status": "created",
+      "name": "izabel maria correia"
+    },
+    {
+      "old": "eTx6WBkqHfDvSDQ6CIPX",
+      "new": "ftp49EH8pryq7Dt6WuXi",
+      "status": "created",
+      "name": "vcs trabalham com depilação a laser?"
+    },
+    {
+      "old": "2YpqR9K289wG8bkKfpty",
+      "new": "jcUG3Lhb4MhnBov84SJJ",
+      "status": "created",
+      "name": "desculpe esbarrei sem querer no anuncio"
+    },
+    {
+      "old": "Kdi6nb466y7viAS4yAVH",
+      "new": "pi6e8fUR81xHVgL6r2nc",
+      "status": "created",
+      "name": "daniella"
+    },
+    {
+      "old": "Bed0XqttfUjlZ2tXjUnS",
+      "new": "N2wlcpAM7gX5NAmaWUhP",
+      "status": "created",
+      "name": "essa sua depilação é laser ou cera"
+    },
+    {
+      "old": "r8XMPoCbkXbPx44NDlGv",
+      "new": "Tp3zWwUCeDaKrhB1At9S",
+      "status": "created",
+      "name": "rayssa araujo rodrigues jardim"
+    },
+    {
+      "old": "IgpImOWaDjbNvcN3ywZ7",
+      "new": "W8uw1gKOUcZal0ynbXIR",
+      "status": "created",
+      "name": "ainda está na promoção de buço por 99"
+    },
+    {
+      "old": "FJBOPcghbz0uF8TJREc5",
+      "new": "UWsRRAg1CgwBOQRpzKUQ",
+      "status": "created",
+      "name": "andressa ferreira"
+    },
+    {
+      "old": "VvazvZSVSShdVoq4z43b",
+      "new": "OI629kztDnhE2e3kHvW4",
+      "status": "created",
+      "name": "fernanda rachel azevedo"
+    },
+    {
+      "old": "wsjZ5PF3JHfYgmE7QyPx",
+      "new": "ojvXyT8ripuSxLtfyD2n",
+      "status": "created",
+      "name": "sulamita mesquita"
+    },
+    {
+      "old": "DhQNmzp9RJWcMfwtvyef",
+      "new": "GPHGEeCs0ysbkqPYsJYb",
+      "status": "created",
+      "name": "naya"
+    },
+    {
+      "old": "qUP90OLHs9NhYV4RAXLY",
+      "new": "8PxZY5iXZlzYreVfF4VG",
+      "status": "created",
+      "name": "flávia"
+    },
+    {
+      "old": "L9UJ3ztfeq4CcXpGUlLq",
+      "new": "G7O6UpFX3tcd8YHElaRz",
+      "status": "created",
+      "name": "cera?"
+    },
+    {
+      "old": "sYEL6CwenpZApqQgap34",
+      "new": "QFgOj2KfZSJ76XgmWKag",
+      "status": "created",
+      "name": "luciane santos"
+    },
+    {
+      "old": "Du8KBqu1DT73U7FkJr9n",
+      "new": "tPDjClXjtgw5ghUvLW6m",
+      "status": "created",
+      "name": "karina farzatt souza"
+    },
+    {
+      "old": "RSnWk6gi0auw85SBuqfG",
+      "new": "E0E6mwJcsDrLl6QMC4rM",
+      "status": "created",
+      "name": "priscila"
+    },
+    {
+      "old": "jgaHsvRkDfgvY0CuxpH4",
+      "new": "sMuViUfbn5Tdm2F3H538",
+      "status": "created",
+      "name": "juliana assis"
+    },
+    {
+      "old": "UppxggASKuZrRCfrzszM",
+      "new": "rNmCfbdvWCl4icZG99qW",
+      "status": "created",
+      "name": "ana augusta"
+    },
+    {
+      "old": "IuDWoDrdPVAo6NhRZI6u",
+      "new": "2Exu3JyXb0iGxL2z2SnB",
+      "status": "created",
+      "name": "carla alessandra de almeida fernandes"
+    },
+    {
+      "old": "KMAofO1kYZ5Bt0ycLkz9",
+      "new": "10vmRCknEKBPmV1Q6EK5",
+      "status": "created",
+      "name": "monicafordncm"
+    },
+    {
+      "old": "F0DrdF1aEWTMl7DEZMJh",
+      "new": "Fj2bhlRExy1Y7PSKkcHH",
+      "status": "created",
+      "name": "rosiene maria da paz correia"
+    },
+    {
+      "old": "zYEw7wIp8ehh8GUaQldh",
+      "new": "ly4eeIzCIWfFz6IRSHmJ",
+      "status": "created",
+      "name": "magali da costa gonçalves"
+    },
+    {
+      "old": "Xc5DvOaiPmjetZAFz3at",
+      "new": "xwXmqVafw1H06p0vjLeD",
+      "status": "created",
+      "name": "vanessa felicio de oliveira"
+    },
+    {
+      "old": "8uV0MkxMqgIWPBqqnMGC",
+      "new": "OKySvvgH6gaSGM21EvQc",
+      "status": "created",
+      "name": "lana lazir cabral bezerra"
+    },
+    {
+      "old": "aBKpsEDFi9PCGyUb17OJ",
+      "new": "QfSEMZfc1QihkIXFqHIn",
+      "status": "created",
+      "name": "cris"
+    },
+    {
+      "old": "ZkcviGFjtSsXD9sZWSiV",
+      "new": "8DGFS4axqcHjE8FhFj3K",
+      "status": "created",
+      "name": "😊"
+    },
+    {
+      "old": "tlkkAObRlZaoOtCj6aHm",
+      "new": "4AUTpiMGucalnVCAlNyQ",
+      "status": "created",
+      "name": "maria eduarda souza silva"
+    },
+    {
+      "old": "wsvFFdU11ddT8qDoINxZ",
+      "new": "yh8nMrLo29DQlhmroMrY",
+      "status": "created",
+      "name": "laís caroline santana madeira"
+    },
+    {
+      "old": "Zto94nCn09hx8ZWp6awy",
+      "new": "ij8enZ4PKIgebY2TJOmj",
+      "status": "created",
+      "name": "ju nunes"
+    },
+    {
+      "old": "bpHVac0h4fVTuUPThnkU",
+      "new": "l8wRpry2OkEgZdcHLtRc",
+      "status": "created",
+      "name": "érika abreu"
+    },
+    {
+      "old": "mwtGp76gTLdq1aDZld4l",
+      "new": "ksorC668A6KgkiE0g8yq",
+      "status": "created",
+      "name": "alice lopes magalhães"
+    },
+    {
+      "old": "oiNuEdF4h5PKqNZjiiER",
+      "new": "VkgLropPmOZ0LoPAuNl4",
+      "status": "created",
+      "name": "luciana isabela rodrigues de aquino"
+    },
+    {
+      "old": "BlX8YfbNDRZnD2WI1ahH",
+      "new": "LtRUkq8pNLd2WJIjY6Af",
+      "status": "created",
+      "name": "stephanie cristine lessa de souza dos reis"
+    },
+    {
+      "old": "tkRq3HDrS0pIPvo2fHII",
+      "new": "EgbvOLCkLElLKEYEfIA5",
+      "status": "created",
+      "name": "qual o valor da virilha e perianal?"
+    },
+    {
+      "old": "Mj3tg6kZDA8Vo2z1ajsK",
+      "new": "33CVCNOI9QS18X7yxQbG",
+      "status": "created",
+      "name": "lucia helena"
+    },
+    {
+      "old": "Qx4SE4MDwT6MBua1J7Mc",
+      "new": "SlUorbCgKqHTBphxrnXd",
+      "status": "created",
+      "name": "juliana pereira da silva"
+    },
+    {
+      "old": "HgTIA9EZfTVYqnX3dOQ7",
+      "new": "2jLZDpixDAXo6PIUorXF",
+      "status": "created",
+      "name": "amanda celestino"
+    },
+    {
+      "old": "LSIhPDsB5kikYSk13CmS",
+      "new": "vYcUkQxR19bfN5gsa1Tk",
+      "status": "created",
+      "name": "quero o combo 1"
+    },
+    {
+      "old": "M1PoAdgjkrDTIRSTNbWV",
+      "new": "Iy450oilm2vnLTjHIDYq",
+      "status": "created",
+      "name": "flávia coelho benits"
+    },
+    {
+      "old": "Y21dWXreopKyrjonCAeX",
+      "new": "b9mzWK8TOYuUrhyQSizl",
+      "status": "created",
+      "name": "lívia peres"
+    },
+    {
+      "old": "ql7OGCmYyM1QWJ4atKum",
+      "new": "FoT0eA1WDalqzSCQXZgM",
+      "status": "created",
+      "name": "comercio"
+    },
+    {
+      "old": "xcS5Qz5L4M0rbrmm4TQe",
+      "new": "Dk9n2hfXV4f2TkU4hQ4U",
+      "status": "created",
+      "name": "camila campos"
+    },
+    {
+      "old": "NuiuQxiAH4EX8rk4eex4",
+      "new": "l1dPBp36Bv1GRl2rBZfk",
+      "status": "created",
+      "name": "luciana"
+    },
+    {
+      "old": "0vkXKkarSkutfv2nqWLj",
+      "new": "tOpWyxw1YaiTTjEJW5Ci",
+      "status": "created",
+      "name": "deisy antônio cardoso"
+    },
+    {
+      "old": "aDUU3YEFbyJp2vpQEFWO",
+      "new": "VQj5RGa2rL3pUHhcKvkD",
+      "status": "created",
+      "name": "maria eduarda mendonça dos santos"
+    },
+    {
+      "old": "uDDYssOk8V7uRXA1TzQv",
+      "new": "dDZXO9pDX4uXFVnBL3Fj",
+      "status": "created",
+      "name": "michele barsand de leucas"
+    },
+    {
+      "old": "9JAwOrTSLAnLgogLqXtK",
+      "new": "dYsvszepOlEsDCSWGLty",
+      "status": "created",
+      "name": "elaine"
+    },
+    {
+      "old": "kmAuBWdLHrfKydoPho47",
+      "new": "HuFOwB1ydnOoIlynXS4A",
+      "status": "created",
+      "name": "boa tarde! qual é o valor da virilha completa?"
+    },
+    {
+      "old": "R8fRfiD5QwsIrNekawVm",
+      "new": "On65Tm2oxRWUnxKLiQsi",
+      "status": "created",
+      "name": "."
+    },
+    {
+      "old": "Xez1oaMwvJY3kZ4XgRZc",
+      "new": "LLsqLAXmeZ66m65zB87E",
+      "status": "created",
+      "name": "lorena vujnovic"
+    },
+    {
+      "old": "7aAU7ymdtxZWCHIMIlel",
+      "new": "9SNIpaSVAet1S7ZRq5Ix",
+      "status": "created",
+      "name": "brenda leal dos santos"
+    },
+    {
+      "old": "EnoXfEr9WdvnJtn2KtjC",
+      "new": "okalvW0uLk0okoSnDNri",
+      "status": "created",
+      "name": "mikaelle freitas"
+    },
+    {
+      "old": "nQdt9ZRTAfgl1P8Ip97P",
+      "new": "LDBOzgzHf4MSyTp3ux84",
+      "status": "created",
+      "name": "michelly mendes aguiar da costa"
+    },
+    {
+      "old": "tj35jNphpZNnBKXkCfSd",
+      "new": "C1RTWAyIMH2NE6dWwHBD",
+      "status": "created",
+      "name": "carolina figueiredo tavares"
+    },
+    {
+      "old": "EpKCqJvkR9z9MunFnWUG",
+      "new": "anaCXkwzPIcoZr7tx9Pc",
+      "status": "created",
+      "name": "denise santanna brandão"
+    },
+    {
+      "old": "Y75itzvkSdA31IAegGdD",
+      "new": "8XNRxMAkjhc2LQ1mBfUs",
+      "status": "created",
+      "name": "wilma nunes da costa"
+    },
+    {
+      "old": "fqBO3iOkKfRmdX8TctxH",
+      "new": "sPc0x2wdrsatmt6VdIAo",
+      "status": "created",
+      "name": "karla de castro pimentel"
+    },
+    {
+      "old": "hatG162ZFLus1H9icvql",
+      "new": "WBujYNFUyuvJgD3oWDHo",
+      "status": "created",
+      "name": "vanda soares 🇧🇷"
+    },
+    {
+      "old": "ideWNCde5YVCXhGimVfG",
+      "new": "oKtTNwoCSoE9gq7w9VAO",
+      "status": "created",
+      "name": "raquel 🥰"
+    },
+    {
+      "old": "3ixOY6vNo1nQi0G2CO5S",
+      "new": "mzQ4jv6uPMYultl8Bs0s",
+      "status": "created",
+      "name": "se tem"
+    },
+    {
+      "old": "OhGwd0Mtl2KvvdM7TgNC",
+      "new": "hCbMEuhtFdo34UrPlaz8",
+      "status": "created",
+      "name": "bom dia. maria"
+    },
+    {
+      "old": "h7g8iaLjwjTeA22CxUJf",
+      "new": "alWCPfYbHxmUPI6LLaKz",
+      "status": "created",
+      "name": "géssica alencar"
+    },
+    {
+      "old": "agWC0jb5zNMihdUqYoJZ",
+      "new": "kLu4925EWaMSwBLzqZMA",
+      "status": "created",
+      "name": "uuhy"
+    },
+    {
+      "old": "8B4yL5i4RFsF5aYLN2y7",
+      "new": "sIej65ejEchgbZojolEY",
+      "status": "created",
+      "name": "gostaria de axila"
+    },
+    {
+      "old": "bckJHzDUwGIbEaBvdmln",
+      "new": "5EYSXcTDCgyvuCeyidx6",
+      "status": "created",
+      "name": "cristina simoes"
+    },
+    {
+      "old": "8GIsupB2UoUH0cw2P9Er",
+      "new": "OhxcnGtNkSd2ZWVCfMdr",
+      "status": "created",
+      "name": "marcia simoes"
+    },
+    {
+      "old": "FKMocD5ci79oWu5CwAbD",
+      "new": "3mkLxLkYyx99kNU3U8hq",
+      "status": "created",
+      "name": "kiriaki telo xanthopoulos"
+    },
+    {
+      "old": "1n26AmC5aQHwOs88fDov",
+      "new": "G908mQ28vV4keMPMd7Hj",
+      "status": "created",
+      "name": "ana claudia"
+    },
+    {
+      "old": "vwnIZhpkP4IHuHkdstiT",
+      "new": "58H8NQORRB4QICV55NBN",
+      "status": "created",
+      "name": "flavinhaaa morena"
+    },
+    {
+      "old": "P8J1kpphPZSpCwdmu1Sy",
+      "new": "KZRAej48CvBguiVaA311",
+      "status": "created",
+      "name": "néia"
+    },
+    {
+      "old": "BtwG0NDLR9v6Gxl9zj4I",
+      "new": "HsUUjXxreSz5ptQVebFI",
+      "status": "created",
+      "name": "luzilene da costa azevedo"
+    },
+    {
+      "old": "71tsIowvkLaujwIIc7qn",
+      "new": "sU9vuMrmVhajp4viNYyb",
+      "status": "created",
+      "name": "joseli milesi oliveira galdino"
+    },
+    {
+      "old": "hqsdCrEKUFcn2YikCkA6",
+      "new": "2NFw5h8LZkc0s0Bbe98a",
+      "status": "created",
+      "name": "marly macedo 🌻"
+    },
+    {
+      "old": "b3hdZAkvGFP416pVVSJP",
+      "new": "bikeAdW1Sw2LFmy7VnXI",
+      "status": "created",
+      "name": "tatiana dos santos manhães terra"
+    },
+    {
+      "old": "dX7TdDmQI9C1gTGZTHAF",
+      "new": "qdPSpkYW5maQxmkgDKkj",
+      "status": "created",
+      "name": "simone gomes ❤️"
+    },
+    {
+      "old": "DpEvEsxHGYsESJCGM0XV",
+      "new": "ohUNXuQ10DfkgEw5YNKt",
+      "status": "created",
+      "name": "ana paula sabino dos santos"
+    },
+    {
+      "old": "QpRqTRSr2lO467bzezpE",
+      "new": "bp6x0j26FuzvpFNMZKCN",
+      "status": "created",
+      "name": "maría gorete de sousa galdino filha"
+    },
+    {
+      "old": "GGx9Rl0p3jeJr8jGb1ZZ",
+      "new": "Z46zkqQYqywnvlvVWhGI",
+      "status": "created",
+      "name": "tania"
+    },
+    {
+      "old": "2WCqjQTrbFJOBz3yo83F",
+      "new": "5lORFqYW3E2mm8ufZSGd",
+      "status": "created",
+      "name": "aline do rosario da silva"
+    },
+    {
+      "old": "wQ4SstA1mETr2gxT6aUj",
+      "new": "b6akTqRbrBPTIS43OU0Q",
+      "status": "created",
+      "name": "kátia regina lima de souza"
+    },
+    {
+      "old": "exQYve54HTVbW5pXUKeC",
+      "new": "77nvxwQw3ZikeLwUmra0",
+      "status": "created",
+      "name": "mas obrigada"
+    },
+    {
+      "old": "6QROTRxa7AN3acxvM9ij",
+      "new": "CfpQvh9baxcwQa1n8yJE",
+      "status": "created",
+      "name": "adriana pereira de moraes"
+    },
+    {
+      "old": "dty8yTdM1r4PhYxk8ObA",
+      "new": "r1CGg60pRXghjcoKeMQX",
+      "status": "created",
+      "name": "fernanda"
+    },
+    {
+      "old": "P5oErdvb3Nxvo7QnyiEL",
+      "new": "pW121PxiklOoMGGXDgT0",
+      "status": "created",
+      "name": "arimin+2a"
+    },
+    {
+      "old": "DjKLPrEPsKAHg68wxJHY",
+      "new": "D3PWHjlu0zye2lV5HnLF",
+      "status": "created",
+      "name": "tem unidade ilha do governador?"
+    },
+    {
+      "old": "LZPKzSlc9waW9psggvI4",
+      "new": "i7CZqtpOGiv45QaN9wbP",
+      "status": "created",
+      "name": "meio favor pelos brancos , funciona também?"
+    },
+    {
+      "old": "3LqYFFwOms0SfTfPFNzW",
+      "new": "RANqw289clZCcggSd6Vx",
+      "status": "created",
+      "name": "gloria batista de souza"
+    },
+    {
+      "old": "7NtaMREe8cIy2spTDSOR",
+      "new": "ATs2ln3CPasgU6TIeb2L",
+      "status": "created",
+      "name": "luciene da silveira ferreira"
+    },
+    {
+      "old": "l11gF7QUrS67FozBpxG9",
+      "new": "LbDGGT9yLURMHnMuZxGz",
+      "status": "created",
+      "name": "isabel oliveira"
+    },
+    {
+      "old": "nrO7AwyqvfVaOXfUeOgH",
+      "new": "GXL1bK9AnOQ1ru4U03x0",
+      "status": "created",
+      "name": "angila maria da silva nunes"
+    },
+    {
+      "old": "9uqhzKJmgDWZhHp4gr8d",
+      "new": "8M46TIFGgw6Fq4MolM4q",
+      "status": "created",
+      "name": "roberta glória pontes"
+    },
+    {
+      "old": "EoEaO2W8MR6bV91ZYWuG",
+      "new": "oQL3GOZOQTN7YdYwNQW3",
+      "status": "created",
+      "name": "rita de cássia soledade"
+    },
+    {
+      "old": "9cqfAKrLbRdJv42ZOIk5",
+      "new": "YpZwxYUV1f3kAmQUBG0I",
+      "status": "created",
+      "name": "no aguardo."
+    },
+    {
+      "old": "1PVFUXITUVgUoFGEPXyj",
+      "new": "DRh4hfhtoEpldJAFNRzI",
+      "status": "created",
+      "name": "viviane de almeida gomes"
+    },
+    {
+      "old": "FLHsPUCz2HT7Rq4dGZ0X",
+      "new": "AOtAjwjfEy7pg8P7acYj",
+      "status": "created",
+      "name": "qual valor a vista?"
+    },
+    {
+      "old": "crvzZw7beFwNiUaHAWBL",
+      "new": "aXdBN3gC8YqAmKu7lhoq",
+      "status": "created",
+      "name": "kátia neves mattos"
+    },
+    {
+      "old": "1wEYtGhWDv411I4WQ5s6",
+      "new": "QfEmXbI59SM3YG4DpiYq",
+      "status": "created",
+      "name": "elaine martins"
+    },
+    {
+      "old": "qg4GmPDFm7aeqg3GuiRq",
+      "new": "P2yM2Ik3mig8MVLkaeqi",
+      "status": "created",
+      "name": "cida guimarães"
+    },
+    {
+      "old": "i6hMf6uye7Zq0THmUcCd",
+      "new": "8KJpqZf3PC3RWA9087ax",
+      "status": "created",
+      "name": "izabel"
+    },
+    {
+      "old": "ghjFOziS6GbW1ARTuc9F",
+      "new": "foFugQADrJ5QYYHQkjGi",
+      "status": "created",
+      "name": "pamela santana"
+    },
+    {
+      "old": "fpFjrGFhcN3wuVXxKCCV",
+      "new": "OBspVoAEkgcCuhrGYaci",
+      "status": "created",
+      "name": "luana queiroz"
+    },
+    {
+      "old": "iy3kHIZrOZQCVtacgAFD",
+      "new": "rPsoOjhp6dKZwmk77A9x",
+      "status": "created",
+      "name": "daisy ferreira nogueira lima"
+    },
+    {
+      "old": "tmnvNpDcU6jMsW8avWTo",
+      "new": "8sUDkDgIpl8pFLvPJZuE",
+      "status": "created",
+      "name": "*headline:* conheça a pello menos ilha do governador 2 *source url:* https://fb.me/6w23bzkmd olá! garanta seu desconto no combo virilha total + interglúteos."
+    },
+    {
+      "old": "Xo9fmKfo2bzqYhWQ2S80",
+      "new": "IC5BtTQxuxave89FoHCW",
+      "status": "created",
+      "name": "lucia"
+    },
+    {
+      "old": "1DsQJFmulwJNZWF2LTmx",
+      "new": "lg9CK4HCzDqHDbg087zB",
+      "status": "created",
+      "name": "até qdo vai ter ter essa promoção?"
+    },
+    {
+      "old": "PZIHaygoQ7YxNez3jHph",
+      "new": "YnBW7KASEwcfG8n6a0PL",
+      "status": "created",
+      "name": "tem essa promoção na ilha do governador?"
+    }
+  ],
+  "opp_results": [
+    {
+      "old": "iDfXQsZzzftSohaOcBq9",
+      "new": "pA9hzyjTfnSHcIYEjggo",
+      "status": "created"
+    },
+    {
+      "old": "GZbsJuxWSD2c8cnmY3gi",
+      "new": "fTv1U1gqYpc8QzUXkXn3",
+      "status": "created"
+    },
+    {
+      "old": "2UVuceGGHNR5S0a1nDFm",
+      "new": "iQtlMS8kgtXnXOML0po4",
+      "status": "created"
+    },
+    {
+      "old": "j3pYpvRx4zCDjK8Cq7qD",
+      "new": "taLgbAbcQebhiJTEd6pR",
+      "status": "created"
+    },
+    {
+      "old": "W0FLOlKqOVQsEDydG0Eg",
+      "new": "h3jeQCnA5HYZfGGGY7Fe",
+      "status": "created"
+    },
+    {
+      "old": "E2Rh7JISvZa3wo6cw5VF",
+      "new": "kAu82uKNQ0kMsqMbuIEk",
+      "status": "created"
+    },
+    {
+      "old": "yFJrSQi2pqwc82T0cH8c",
+      "new": "mp2fppyVFZTFGHG9KtHh",
+      "status": "created"
+    },
+    {
+      "old": "mJB5zi34f90q1NruY0Wb",
+      "new": "ReZqd4a4x3WdWMR4L3S9",
+      "status": "created"
+    },
+    {
+      "old": "qy3ih2M6B4BM4r1GgHh5",
+      "new": "ytega1wtsaZZKQlsxyqc",
+      "status": "created"
+    },
+    {
+      "old": "6YC5WRJhKSpfRrp8ZXcv",
+      "new": "bueQKfz8XuPLKgRtVVI7",
+      "status": "created"
+    },
+    {
+      "old": "AhIBV6RoEalgjPzrjBtG",
+      "new": "AJPO2v21DnH4GyqvREW4",
+      "status": "created"
+    },
+    {
+      "old": "PJgSV8xuTrIlgyntjBo0",
+      "new": "q6EPcU6pZNBW37Mn8tCw",
+      "status": "created"
+    },
+    {
+      "old": "HPYAOOpYlhWXIlNFzNFV",
+      "new": "Y8gd4IqdJO69R7MC7z7f",
+      "status": "created"
+    },
+    {
+      "old": "9SF9yhDBpiVshBpw82bE",
+      "new": "tz6HM88q5FxProCgUNtF",
+      "status": "created"
+    },
+    {
+      "old": "oiuDyJ3MspXwjeOhgw2W",
+      "new": "EnzPEwBZxFw9FppisOC6",
+      "status": "created"
+    },
+    {
+      "old": "wr45KprmBFPuLWfcEUMJ",
+      "new": "pS1JCRBSnVNT0kurnLO1",
+      "status": "created"
+    },
+    {
+      "old": "wdgEKvLv4kbu70L4PmJb",
+      "new": "A63bcwYJy5RLEI1r9EuN",
+      "status": "created"
+    },
+    {
+      "old": "NftIBKD3p3GyygXjCN6l",
+      "new": "TCOiEE9wy9w0mBCbhhaq",
+      "status": "created"
+    },
+    {
+      "old": "apF5r7rYyEVfR06fnWZH",
+      "new": "AEsPIk2dxp84cKkwkeLg",
+      "status": "created"
+    },
+    {
+      "old": "p3f8sA3UiGjH4JCurWhL",
+      "new": "6ZiKZtRlx01BlDIivL1X",
+      "status": "created"
+    },
+    {
+      "old": "bPp6cS5zgHLuFtT6fDpw",
+      "new": "aRO11JiQpRfk82mE1dvh",
+      "status": "created"
+    },
+    {
+      "old": "EaVkLFSeHyP91x2nWwig",
+      "new": "WAvwjaJxQkxHJCzX6CVR",
+      "status": "created"
+    },
+    {
+      "old": "q6yizC7otK94hA58ypFc",
+      "new": "T95yk2YGtzcMhr2ieyVx",
+      "status": "created"
+    },
+    {
+      "old": "VQ1Ejm10B2IQ8RVuZprh",
+      "new": "ekh7T18xg1IcbZ42X1IK",
+      "status": "created"
+    },
+    {
+      "old": "XAc9gJECcQaypWyK2JhB",
+      "new": "Zj5HiCDKXwcVs7vooB0C",
+      "status": "created"
+    },
+    {
+      "old": "HrMe4HkaCfLRlkSVqhyW",
+      "new": "2v9q6zwhzA4hZV8O2Dk8",
+      "status": "created"
+    },
+    {
+      "old": "XApGu0ecce45XA89yqDh",
+      "new": "wQmVBdEUZsTaamM605q2",
+      "status": "created"
+    },
+    {
+      "old": "BJxKhFUCHUYLglOmLNEP",
+      "new": "pQixo91jqcQmctQ9twI2",
+      "status": "created"
+    },
+    {
+      "old": "uOylPuGfqBrKbixYnrdw",
+      "new": "1sv2UzwWw8JPbHLw8c7Z",
+      "status": "created"
+    },
+    {
+      "old": "OZvGrCqvjEi2Ah6EG99w",
+      "new": "UukoOOQrF1k78cDVElkd",
+      "status": "created"
+    },
+    {
+      "old": "RTI35qyENMASaMFhVDqX",
+      "new": "IwPnz75fwIeT0vaELXbE",
+      "status": "created"
+    },
+    {
+      "old": "lYoktE1No3E70QX3bQt9",
+      "new": "6rPQ3xToXDgiPDQ2RQSp",
+      "status": "created"
+    },
+    {
+      "old": "kgiYo5Sbkf6HYDNTBZLU",
+      "new": "GjEdV1cQJvWyuebGnEp1",
+      "status": "created"
+    },
+    {
+      "old": "vhPk0LRHsCkcKqLnys02",
+      "new": "s2wKpYDpJxw5duH5bBzg",
+      "status": "created"
+    },
+    {
+      "old": "eQa7IFc86NgNLly2uwOq",
+      "new": "4BuZkKj1oGj49lxNcbsu",
+      "status": "created"
+    },
+    {
+      "old": "NgvPlW3Vw70PdTJBrOAu",
+      "new": "DtdJ09YchRAEM6p9oysQ",
+      "status": "created"
+    },
+    {
+      "old": "mehRfIVsa6Ua3kpJOxYY",
+      "new": "XMuLRz3MLytHVqaEsdMV",
+      "status": "created"
+    },
+    {
+      "old": "41LE3LZslYryr7aXiyYd",
+      "new": "uDigItqf12MTA6xz73SD",
+      "status": "created"
+    },
+    {
+      "old": "601X4OEajGoFPkW997ww",
+      "new": "BnWkoWLzYZdCJJomacnR",
+      "status": "created"
+    },
+    {
+      "old": "mpWxggqAaNVfPpBoAddb",
+      "new": "1PBIFEkhA6tdn55OHCVR",
+      "status": "created"
+    },
+    {
+      "old": "42mzfhMeRWPDtfYKrD1Z",
+      "new": "CDkSm6X1VybDRor0t0Dx",
+      "status": "created"
+    },
+    {
+      "old": "8HvbuUSgaf0y9L3BhOus",
+      "new": "3NmyN7XflHZTJoQpLe3L",
+      "status": "created"
+    },
+    {
+      "old": "s4GYCBuA4cc5GjmVxhRy",
+      "new": "nzzx3OgmvBApCa3GGCmx",
+      "status": "created"
+    },
+    {
+      "old": "IRRuf1RofHQSzr5uOd7t",
+      "new": "UfP4XiMWDvrmO9ssKxQS",
+      "status": "created"
+    },
+    {
+      "old": "p0fYpEsm1bhpI4dmUFnT",
+      "new": "nRr1xesrzViJ0St9LXTp",
+      "status": "created"
+    },
+    {
+      "old": "1klklZ9Q6rIpVwVYlodW",
+      "new": "1maD8PFPiqo7tmTimNlU",
+      "status": "created"
+    },
+    {
+      "old": "PNMf0SFSR0smhvjRORhO",
+      "new": "vw4CsIAtE9eyH2n8udpE",
+      "status": "created"
+    },
+    {
+      "old": "AfiJoO0cZBO0C5LW48yI",
+      "new": "PVFnntkVA364XOHHHE9J",
+      "status": "created"
+    },
+    {
+      "old": "73872sWOnyrbEMbSw2WA",
+      "new": "xnuLRnE6OqNhBHk6Otu4",
+      "status": "created"
+    },
+    {
+      "old": "o9Z82V1mykdmnuSMOa5u",
+      "new": "88HsmTD18cw9li5L10zT",
+      "status": "created"
+    },
+    {
+      "old": "BTLFK6yBH48egkedIxnP",
+      "new": "nS13IcGpwXczj8DYfE4b",
+      "status": "created"
+    },
+    {
+      "old": "UtuwUaCir8OC5Ujqa48o",
+      "new": "AUcl4h5jMeAQfzYaGsjb",
+      "status": "created"
+    },
+    {
+      "old": "rXopTrS2XEKhL12zNHk3",
+      "new": "2EdjJhtyltcRFZHzbk9v",
+      "status": "created"
+    },
+    {
+      "old": "cwdg4gmBWyePPCGcEBRs",
+      "new": "qMMqNnVpZel4flFydRJC",
+      "status": "created"
+    },
+    {
+      "old": "XTunHxCT6zgVNTxcxoMO",
+      "new": "wjVbGRdG1WGJhpEGImJ2",
+      "status": "created"
+    },
+    {
+      "old": "6JfFzqa9b1cHOwcbemgy",
+      "new": "QZ4n9pNrqL91uR1ejnU8",
+      "status": "created"
+    },
+    {
+      "old": "BCqXXrao5xEYUScO9Fej",
+      "new": "DCSJLL7SW5dsYSrAmxv8",
+      "status": "created"
+    },
+    {
+      "old": "dB8KXKGRRnXuxbpKxUdS",
+      "new": "pXnmnwF6xCQ6N92PmT64",
+      "status": "created"
+    },
+    {
+      "old": "wkkZd8Ugt8GFSuKix3Tz",
+      "new": "v7XfocGVUoifxbEVRicC",
+      "status": "created"
+    },
+    {
+      "old": "ZTa99IiDGpOE0qulgoOR",
+      "new": "W08EweslNpdnTU6Xldby",
+      "status": "created"
+    },
+    {
+      "old": "t6y9BeHhWofRjaNCulLV",
+      "new": "0uJQLo2fYFio4Jo8eotw",
+      "status": "created"
+    },
+    {
+      "old": "zsifWCPprI6PGEALt3ba",
+      "new": "kGbLh08MqHbTOvOzYJ1v",
+      "status": "created"
+    },
+    {
+      "old": "mNz15yFq8TDRV6cAFV6t",
+      "new": "Q147W5WFmUS2uviBTMXF",
+      "status": "created"
+    },
+    {
+      "old": "3S8V7h0bvTpVj623eD3f",
+      "new": "QzgSJmkgqfvJdEQR2ews",
+      "status": "created"
+    },
+    {
+      "old": "m3L7gMCdqYBxmpqSA6rj",
+      "new": "kgQpAoR6vbP1kCxgCYar",
+      "status": "created"
+    },
+    {
+      "old": "KNYzFTIqkTwacyV2X4oF",
+      "new": "u7GOdlMH4nlD3BpuXyII",
+      "status": "created"
+    },
+    {
+      "old": "cObnmOIZTuxEuh8MaUzL",
+      "new": "KIJJSZks9kC8dy0X76OR",
+      "status": "created"
+    },
+    {
+      "old": "xgTcegWtHqVG6QtqmSFk",
+      "new": "gqxdH3G7e5SIqOEqtC4z",
+      "status": "created"
+    },
+    {
+      "old": "X7eEo1pwgHtc4B0D1bEL",
+      "new": "DWnbCI2WXIiUEKO7fEQH",
+      "status": "created"
+    },
+    {
+      "old": "8sxxn2Al342FsuA6GvtQ",
+      "new": "PWKn7jea15hbeL70SGj6",
+      "status": "created"
+    },
+    {
+      "old": "a1GyS4eZTsvYQvyLM0dY",
+      "new": "6eyH88BjuuEKahjrEaAV",
+      "status": "created"
+    },
+    {
+      "old": "MhfTDv1V9hfzLOT9rTlR",
+      "new": "TncFJPs4lT9hohRkAHQA",
+      "status": "created"
+    },
+    {
+      "old": "asvLW759wSa6r5ui8RN2",
+      "new": "IQNXTI5tAZj9LVXQRFcY",
+      "status": "created"
+    },
+    {
+      "old": "16VMA8knMXsnUjtaFYCu",
+      "new": "Lm0VSDXJ6PB5D3tMzoCB",
+      "status": "created"
+    },
+    {
+      "old": "w64IjoXKr61bd0zgrUtP",
+      "new": "sAM85csdQtDkk6NxFCkm",
+      "status": "created"
+    },
+    {
+      "old": "E1KxdqIBiyju1IQCBQjI",
+      "new": "7O98weMyquRNzoOLczGn",
+      "status": "created"
+    },
+    {
+      "old": "bYRCX26bLVyfFhrsQTiR",
+      "new": "VneBDXVxlhBash9wdTbo",
+      "status": "created"
+    },
+    {
+      "old": "IX5ZFPEzLzl4wbIzUSl2",
+      "new": "4qQnZi68s1vPHUNX8nVh",
+      "status": "created"
+    },
+    {
+      "old": "ySflkofSbWKgiDj6wFrW",
+      "new": "z3kR07FnI3JodsPyndCO",
+      "status": "created"
+    },
+    {
+      "old": "fEvca2tXzGC0PDCQfPFE",
+      "new": "wOuNU5MzoCCr9KWV5DaR",
+      "status": "created"
+    },
+    {
+      "old": "82UosasTHuw52QF4KAXR",
+      "new": "hgIpAvzVSY5tuV2bfVMH",
+      "status": "created"
+    },
+    {
+      "old": "BGnwevHOz9Ru3dSKfVq9",
+      "new": "jPVUPTyk19aKOOXfteMd",
+      "status": "created"
+    },
+    {
+      "old": "KU7RoKg7A4UOnHy7Ll9J",
+      "new": "QsGZ1LpwCUdj56Tjca6f",
+      "status": "created"
+    },
+    {
+      "old": "ekuT6qNg4W1kckAIMfmd",
+      "new": "gcFBq7UCzfThxJZe4mAV",
+      "status": "created"
+    },
+    {
+      "old": "H4VsxGwYyYfs9OAy3Pjq",
+      "new": "WpJI98JB1gWdMQD6ZNlU",
+      "status": "created"
+    },
+    {
+      "old": "6ji4XpiJtKXqMgXIZmz6",
+      "new": "nyXTa1SnadjtKJC38f8F",
+      "status": "created"
+    },
+    {
+      "old": "xJQTLjfIB6P0e9t8lMAM",
+      "new": "n36msNQ25uWW2mnpWZSk",
+      "status": "created"
+    },
+    {
+      "old": "PQCLkEmLrYDlpFSCqnK2",
+      "new": "ycbWizlz6Wii9D9dPa2K",
+      "status": "created"
+    },
+    {
+      "old": "YqFkIEq11ENAVhymRHtW",
+      "new": "kqLEV1CmTrBSaOLZBlWs",
+      "status": "created"
+    },
+    {
+      "old": "5Tt4owkFbI6bOiXrADDF",
+      "new": "m2w6ZhCWmOk8xPzTUb8J",
+      "status": "created"
+    },
+    {
+      "old": "744vhkh35qE2XkBURGNa",
+      "new": "gj6MvDBIY9dI4LTkjUu9",
+      "status": "created"
+    },
+    {
+      "old": "noHW8gZQO5CDXyjq87AJ",
+      "new": "xiUb6eaINw8MK182FAOU",
+      "status": "created"
+    },
+    {
+      "old": "u5o8vXzHEXMMJmkbgxhv",
+      "new": "BipiEk1ZMVzRtrFmM9WI",
+      "status": "created"
+    },
+    {
+      "old": "61CAoRsZNf8BJ44MFMEX",
+      "new": "opIumZIN7Fn4r9GFhfuI",
+      "status": "created"
+    },
+    {
+      "old": "gWNmpXbivCR2NSh8JJCo",
+      "new": "mcz1uu4MEqAWrMD1tkva",
+      "status": "created"
+    },
+    {
+      "old": "M9PrI3gomL5fqWbcCOQK",
+      "new": "c3JhmLmGxZ1lJH6IS9As",
+      "status": "created"
+    },
+    {
+      "old": "74xx8Uu2Ou5xpMLfndRS",
+      "new": "FEIBBC0V0gpNQ7JKX0DT",
+      "status": "created"
+    },
+    {
+      "old": "Ybv8vwa3DEWcHMuprsG2",
+      "new": "x43AIdAQA5SMvyNJeN1N",
+      "status": "created"
+    },
+    {
+      "old": "NfNv8I0VQL7bU4BEsUk8",
+      "new": "vbpxxtfdRRl3u8sKA8Rp",
+      "status": "created"
+    },
+    {
+      "old": "Lfyibs6LpxEAGC7qWKck",
+      "new": "JGWUydwJ29AMj8skayXd",
+      "status": "created"
+    },
+    {
+      "old": "j22TpXQTq9Hn1tMVXdfa",
+      "new": "D4stjbIbjDr3AJORVAOw",
+      "status": "created"
+    },
+    {
+      "old": "VKxkcVNJxmpKYNf3pAc7",
+      "new": "o2U74OVSzUr9iOKbF0Bn",
+      "status": "created"
+    },
+    {
+      "old": "fdSszCJC4LiSUD2LvzZg",
+      "new": "ez8hTx8FzeF1Jys1HcT3",
+      "status": "created"
+    },
+    {
+      "old": "Xlb3y8AK35p0frURLV2v",
+      "new": "F0sWeUUseKmTdGuOvpX4",
+      "status": "created"
+    },
+    {
+      "old": "HtUNmo4ebzXAbRXyAA7S",
+      "new": "jrNTyQPXaFIZpzQeDwYo",
+      "status": "created"
+    },
+    {
+      "old": "IDpXYQ0ySFKhJXwnqKeW",
+      "new": "SDsfteqmfwR3aJfTOBWt",
+      "status": "created"
+    },
+    {
+      "old": "B3LGH4hvTGASBR89MmCo",
+      "new": "UsgUfbCue2mK2dDI7aoV",
+      "status": "created"
+    },
+    {
+      "old": "hknShEjTr7yYlk2m40X4",
+      "new": "yQj9A7fwLEDaJ6ZLCgL9",
+      "status": "created"
+    },
+    {
+      "old": "KD9EtFoE1gWDvHFXqdWo",
+      "new": "Fi9Igcnz3PX5uWPkf3cJ",
+      "status": "created"
+    },
+    {
+      "old": "mH8j0VYdAbi5yF6aUUBX",
+      "new": "NCUqEfLicqxaAutNlx3j",
+      "status": "created"
+    },
+    {
+      "old": "DdvKoeRQFRY6N3nSbBV6",
+      "new": "rhAwhsjGa7OkHambQVB9",
+      "status": "created"
+    },
+    {
+      "old": "N7MDijTE3LxQBAxRGyP2",
+      "new": "TirYt0FR8nml3A0r3ZOh",
+      "status": "created"
+    },
+    {
+      "old": "IEmTZjwoHn0wiy2DJaSH",
+      "new": "izLekdP1cwaAx0xuYJnW",
+      "status": "created"
+    },
+    {
+      "old": "sXIo4yB1wzlJqbcHOLua",
+      "new": "q49IGU2hiRsXoNVsAisw",
+      "status": "created"
+    },
+    {
+      "old": "bt3H60KnLmbvcRMOXBEJ",
+      "new": "BVeaLoXUymRiUOox5cru",
+      "status": "created"
+    },
+    {
+      "old": "I7yYskenHDszEsalwtZO",
+      "new": "vws1zlDGyXVNOHup0RKE",
+      "status": "created"
+    },
+    {
+      "old": "ggYPOfRJJr4oFKJEufvr",
+      "new": "Tmfu3dmQEmsHvk49Z6Cf",
+      "status": "created"
+    },
+    {
+      "old": "sPIkS7i836NwdNEXey8E",
+      "new": "sy3rkUCDaGvsU2Q00Q0S",
+      "status": "created"
+    },
+    {
+      "old": "4JYlirZ6Z5Y3h2tMj791",
+      "new": "VLMLwASuFCmWE7XhkUZz",
+      "status": "created"
+    },
+    {
+      "old": "jE8qdseYpvTOh7gSEFKY",
+      "new": "RPXhCHXV3Zxr02rkJZHX",
+      "status": "created"
+    },
+    {
+      "old": "m1DWLlnsfdLzQOD4S3Cf",
+      "new": "hroG5bDeFqcqm0MfPfPX",
+      "status": "created"
+    },
+    {
+      "old": "3phK59jNHp90eXjmZjm6",
+      "new": "h7zsehnxm4YuVqzMuwmu",
+      "status": "created"
+    },
+    {
+      "old": "4P4tupE3HzSggdZJlX7m",
+      "new": "wR1zFZyfI7mgvsRh6M2A",
+      "status": "created"
+    },
+    {
+      "old": "kjfETNdgY4jKedrFZYK9",
+      "new": "XT1v9idVW2JpCvcxUacA",
+      "status": "created"
+    },
+    {
+      "old": "QdiE4jyaq2qjs6eNPcXy",
+      "new": "rH4lnAD30jm1YPModI5l",
+      "status": "created"
+    },
+    {
+      "old": "P4UJZkOsjNEcbheGVCcw",
+      "new": "m0K50N0PjAEsyqOby007",
+      "status": "created"
+    },
+    {
+      "old": "TC8xMoV6uAN6mmKKW47U",
+      "new": "n7tpSz9mvASH8hpQNBCI",
+      "status": "created"
+    },
+    {
+      "old": "I8X5YcEpYg4UAbhr5uFm",
+      "new": "rVsoOQ4zyw4LUrTdySVV",
+      "status": "created"
+    },
+    {
+      "old": "voUpEGXaMtjmc29Hkidv",
+      "new": "BmdAgUMERkDlxFkzNBQH",
+      "status": "created"
+    },
+    {
+      "old": "IC4oi0QxujGaBbWt0jS3",
+      "new": "3hlahhOXWyugcyhPQnoe",
+      "status": "created"
+    },
+    {
+      "old": "OA3Frnd9uGApClISkFGT",
+      "new": "srPxrx6L1a8Ur7det4dp",
+      "status": "created"
+    },
+    {
+      "old": "HQscuuGn7Yh6cvfMfgcG",
+      "new": "VQv3Eig9S5f9DulLQEbT",
+      "status": "created"
+    },
+    {
+      "old": "vhAdonToy7Sdx2fAcdsa",
+      "new": "NaOWqvSmSMnh2UjL6h0Q",
+      "status": "created"
+    },
+    {
+      "old": "bqwHisnsWq2JtMdFc0AI",
+      "new": "rBndM9IokQHFWT1dETq5",
+      "status": "created"
+    },
+    {
+      "old": "6qzH8dGNwPD9AYC8wwcz",
+      "new": "5DMAjkw3W2SUrJT0jjFc",
+      "status": "created"
+    },
+    {
+      "old": "zTqW1CZuaZqclzMNT40w",
+      "new": "HUIDXlURBKPzDuQ6JiKo",
+      "status": "created"
+    },
+    {
+      "old": "HeRPYhmz96c1ECN2Q6EE",
+      "new": "SRugxmhANTZfbXp7Rz7j",
+      "status": "created"
+    },
+    {
+      "old": "X0vFFSNz10HlPOMKQc6E",
+      "new": "NtLmvdk8g7WLdvq3lbXE",
+      "status": "created"
+    },
+    {
+      "old": "Y0tgW6XmwP2es3HGT42U",
+      "new": "KGPVeQyF0Pv0CeIOwOIR",
+      "status": "created"
+    },
+    {
+      "old": "fQrlgPy2qkl2E70lpK0t",
+      "new": "utZG3Rx3Vu7BG9jJVx4Q",
+      "status": "created"
+    },
+    {
+      "old": "zXatYHWvDM3IZ4cv2Pzd",
+      "new": "nYfjnnyJ2xmqmHKhMBNC",
+      "status": "created"
+    },
+    {
+      "old": "qZu9H8ONehabVkTDbkLM",
+      "new": "wbYPVX07DXB67qDOCcAM",
+      "status": "created"
+    },
+    {
+      "old": "rU8l7S2YkMSaTrvi46vU",
+      "new": "e4452ceQVFi0zu2rxslJ",
+      "status": "created"
+    },
+    {
+      "old": "WzprzvLlzGR00NkO4iU8",
+      "new": "DwOeK4qIjn16TWNnmq1A",
+      "status": "created"
+    },
+    {
+      "old": "JHTzqR0z54tPKEH0a9pa",
+      "new": "uo4rAnElBBbvHwkSIkiv",
+      "status": "created"
+    },
+    {
+      "old": "V39rAp51pWxHPLtZnm3B",
+      "new": "CNbieJskTOjkyrt2aNBp",
+      "status": "created"
+    },
+    {
+      "old": "gcOBxh7L1hQSnhD5sdMu",
+      "new": "Kh5SwEuc1iGApmCGDbXa",
+      "status": "created"
+    },
+    {
+      "old": "DN8WyId9Anyq6vzrt23W",
+      "new": "ff1xDEB1TdynGSL7rmMk",
+      "status": "created"
+    },
+    {
+      "old": "26Jh1qPeSVSUsAsPY2Sz",
+      "new": "xy0JtVYdbGd6rae23Yp6",
+      "status": "created"
+    },
+    {
+      "old": "2wFobTBHEQFpcSBjidc6",
+      "new": "Y2IfD3VBgr2ARYpKbNYf",
+      "status": "created"
+    },
+    {
+      "old": "9k2xeR1ZYJSyu7mi8pJ4",
+      "new": "19jGg7mCbd9yWNm5dtfp",
+      "status": "created"
+    },
+    {
+      "old": "RU2Ydjio42NNMSrp6E7N",
+      "new": "8YDmNcXn1A8pZeGMvaiV",
+      "status": "created"
+    },
+    {
+      "old": "xwgaHZHn075T7EkhAoG5",
+      "new": "BWiO0VF4JzngTuDQbFsA",
+      "status": "created"
+    },
+    {
+      "old": "HkCHGLrAzbDMnd7wLZNC",
+      "new": "rhQTLEGDFRjbrDZZd6gV",
+      "status": "created"
+    },
+    {
+      "old": "o6qnd07krGPFPDcRDzFE",
+      "new": "Ivh1TDjPoTtIUqaiAQr0",
+      "status": "created"
+    },
+    {
+      "old": "m5fB2D8jR7OkYNE9iPqF",
+      "new": "FXWouCWDN79Fko56rny7",
+      "status": "created"
+    },
+    {
+      "old": "B6Afi5WRJ7jpnhMrBaRs",
+      "new": "0bunBW9BaeFw6crvgNVC",
+      "status": "created"
+    },
+    {
+      "old": "lZTxSb9yaL0jUlgL6WgX",
+      "new": "I3PVDKj62FwC3RpYY70l",
+      "status": "created"
+    },
+    {
+      "old": "FV7J7bOB7vRL30irnM2G",
+      "new": "QT6Rb3tw2YuNOuzbuRqr",
+      "status": "created"
+    }
+  ]
+}

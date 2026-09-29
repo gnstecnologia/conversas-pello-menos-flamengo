@@ -1,0 +1,41 @@
+{
+  "accounts": [
+    {
+      "label": "URG",
+      "owner": "snp@pellomenos.com.br",
+      "contacts_total": 138,
+      "contacts_assigned_now": 0,
+      "contacts_already": 138,
+      "contacts_error": 0,
+      "contacts_owned_verify": 138,
+      "opps_total": 127,
+      "opps_assigned_now": 45,
+      "opps_already": 82,
+      "opps_error": 0,
+      "opps_owned_verify": 127,
+      "phones_unique": 136,
+      "wa_marketing_usd": 8.92,
+      "wa_rate": 0.0656
+    },
+    {
+      "label": "LBI",
+      "owner": "lbi@pellomenos.com.br",
+      "contacts_total": 230,
+      "contacts_assigned_now": 2,
+      "contacts_already": 228,
+      "contacts_error": 0,
+      "contacts_owned_verify": 228,
+      "opps_total": 216,
+      "opps_assigned_now": 0,
+      "opps_already": 216,
+      "opps_error": 0,
+      "opps_owned_verify": 216,
+      "phones_unique": 224,
+      "wa_marketing_usd": 14.69,
+      "wa_rate": 0.0656
+    }
+  ],
+  "wa_template_marketing_br_usd_each": 0.0656,
+  "total_phones": 360,
+  "total_wa_marketing_usd": 23.62
+}

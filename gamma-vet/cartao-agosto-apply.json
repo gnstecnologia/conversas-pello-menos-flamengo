@@ -1,0 +1,46 @@
+{
+  "field_contact": {
+    "id": "UJkJuWW3JW4gcOU14NLS",
+    "name": "Tag Anúncio",
+    "model": "contact",
+    "fieldKey": "contact.tag_anncio",
+    "placeholder": "1-Só Legenda | 2-Coisas com a CDT | ...",
+    "dataType": "TEXT",
+    "position": 50,
+    "documentType": "field",
+    "parentId": "lzA0DniMMCRDqn74ncaa",
+    "locationId": "aj3gIzF3LkjDml8i9k6e",
+    "dateAdded": "2026-08-18T20:53:14.243Z",
+    "standard": false
+  },
+  "field_opportunity": {
+    "id": "iYKCLDTp0IuIqgFChryY",
+    "name": "Tag Anúncio",
+    "model": "opportunity",
+    "fieldKey": "opportunity.tag_anncio",
+    "placeholder": "1-Só Legenda | 2-Coisas com a CDT | ...",
+    "dataType": "TEXT",
+    "position": 500,
+    "documentType": "field",
+    "parentId": "MndNEsvhSPNcv29ZYtKI",
+    "locationId": "aj3gIzF3LkjDml8i9k6e",
+    "dateAdded": "2026-08-18T20:53:15.050Z",
+    "standard": false,
+    "scopes": []
+  },
+  "scan": {
+    "pages": 40,
+    "convs_checked": 800,
+    "n_leads": 158
+  },
+  "summary": {
+    "1-Só Legenda": 28,
+    "2-Coisas com a CDT": 48,
+    "3-Com a CDT": 56,
+    "4-A Hora é Agora": 11,
+    "5-SUS": 9,
+    "6-ANA MARIA": 6
+  },
+  "errors": [],
+  "applied_n": 158
+}
