@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Flamengo — Conversas</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <aside class="sidebar">
+        <header class="sidebar-head">
+          <h1>Flamengo (FLA)</h1>
+          <p class="sub" id="stats">Carregando…</p>
+          <div class="filters">
+            <input type="search" id="search" placeholder="Nome, e-mail ou mensagem…" autocomplete="off" />
+            <div class="filter-row">
+              <label>De <input type="date" id="date-from" /></label>
+              <label>Até <input type="date" id="date-to" /></label>
+            </div>
+            <select id="filter-tag">
+              <option value="">Todas as tags</option>
+            </select>
+            <select id="filter-origem">
+              <option value="">Todas as origens</option>
+              <option value="CLIENTE">Cliente</option>
+              <option value="HUMANO">Humano</option>
+              <option value="BOT">Bot / IA</option>
+              <option value="AUTOMAÇÃO">Automação</option>
+              <option value="SISTEMA">Sistema</option>
+            </select>
+            <label class="check">
+              <input type="checkbox" id="filter-replied" />
+              Só com resposta do cliente
+            </label>
+          </div>
+        </header>
+        <ul class="contact-list" id="contact-list" role="listbox"></ul>
+      </aside>
+      <main class="chat" id="chat-panel">
+        <div class="chat-empty" id="chat-empty">
+          <div class="empty-icon">💬</div>
+          <p>Selecione um cliente na lista para ver a conversa.</p>
+        </div>
+        <div class="chat-active hidden" id="chat-active">
+          <header class="chat-head">
+            <div class="avatar" id="chat-avatar" aria-hidden="true"></div>
+            <div class="chat-head-text">
+              <strong id="chat-name"></strong>
+              <span id="chat-meta"></span>
+              <div class="tags" id="chat-tags"></div>
+            </div>
+            <span class="badge" id="chat-count"></span>
+          </header>
+          <div class="messages" id="messages" role="log"></div>
+        </div>
+      </main>
+    </div>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
